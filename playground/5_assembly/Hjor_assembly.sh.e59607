@@ -1,0 +1,87 @@
+[2024-02-26 03:44:26] INFO: Starting Flye 2.9.3-b1797
+[2024-02-26 03:44:26] INFO: >>>STAGE: configure
+[2024-02-26 03:44:26] INFO: Configuring run
+[2024-02-26 03:45:18] INFO: Total read length: 18651273596
+[2024-02-26 03:45:18] INFO: Reads N50/N90: 8023 / 3718
+[2024-02-26 03:45:18] INFO: Minimum overlap set to 4000
+[2024-02-26 03:45:18] INFO: >>>STAGE: assembly
+[2024-02-26 03:45:19] INFO: Assembling disjointigs
+[2024-02-26 03:45:19] INFO: Reading sequences
+[2024-02-26 03:46:18] INFO: Building minimizer index
+[2024-02-26 03:46:18] INFO: Pre-calculating index storage
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-02-26 03:55:42] INFO: Filling index
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-02-26 03:59:55] INFO: Extending reads
+[2024-02-26 04:00:56] INFO: Overlap-based coverage: 8
+[2024-02-26 04:00:56] INFO: Median overlap divergence: 0.154646
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-02-26 04:31:45] INFO: Assembled 75264 disjointigs
+[2024-02-26 04:32:23] INFO: Generating sequence
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-02-26 04:36:04] INFO: Filtering contained disjointigs
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-02-26 04:38:43] INFO: Contained seqs: 1891
+[2024-02-26 04:39:54] INFO: >>>STAGE: consensus
+[2024-02-26 04:39:54] INFO: Running Minimap2
+[2024-02-26 05:22:06] INFO: Computing consensus
+[2024-02-26 06:09:42] INFO: Alignment error rate: 0.172102
+[2024-02-26 06:10:25] INFO: >>>STAGE: repeat
+[2024-02-26 06:10:25] INFO: Building and resolving repeat graph
+[2024-02-26 06:10:26] INFO: Parsing disjointigs
+[2024-02-26 06:10:42] INFO: Building repeat graph
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-02-26 06:14:53] INFO: Median overlap divergence: 0.150734
+[2024-02-26 06:21:19] INFO: Parsing reads
+[2024-02-26 06:22:31] INFO: Aligning reads to the graph
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-02-26 06:36:12] INFO: Aligned read sequence: 6861316663 / 16280005427 (0.421457)
+[2024-02-26 06:36:12] INFO: Median overlap divergence: 0.0910053
+[2024-02-26 06:36:22] INFO: Mean edge coverage: 3
+[2024-02-26 06:36:23] INFO: Simplifying the graph
+[2024-02-26 06:38:35] INFO: >>>STAGE: contigger
+[2024-02-26 06:38:35] INFO: Generating contigs
+[2024-02-26 06:38:35] INFO: Reading sequences
+[2024-02-26 06:40:08] INFO: Generated 9220 contigs
+[2024-02-26 06:40:24] INFO: Added 15 scaffold connections
+[2024-02-26 06:41:04] INFO: >>>STAGE: polishing
+[2024-02-26 06:41:05] INFO: Polishing genome (1/1)
+[2024-02-26 06:41:05] INFO: Running minimap2
+[2024-02-26 07:12:12] INFO: Separating alignment into bubbles
+[2024-02-26 07:38:20] INFO: Alignment error rate: 0.145878
+[2024-02-26 07:38:20] INFO: Correcting bubbles
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+[2024-02-26 12:16:42] INFO: >>>STAGE: finalize
+[2024-02-26 12:17:22] INFO: Assembly statistics:
+
+	Total length:	480682550
+	Fragments:	8489
+	Fragments N50:	195279
+	Largest frg:	5242943
+	Scaffolds:	0
+	Mean coverage:	24
+
+[2024-02-26 12:17:22] INFO: Final assembly: /Storage/data1/felipe.peres/MAGs-datasets/playground/5_assembly/Hjor/assembly.fasta
+	Command being timed: "flye --meta --nano-hq ../3_adapter_removal/soft_filter/SRR11673974_1.trimmed.highquality.noadapter.fastq --out-dir Hjor --threads 20"
+	User time (seconds): 501974.49
+	System time (seconds): 25071.67
+	Percent of CPU this job got: 1712%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 8:32:57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 87787608
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 288
+	Minor (reclaiming a frame) page faults: 4907421505
+	Voluntary context switches: 28271715
+	Involuntary context switches: 1503066
+	Swaps: 0
+	File system inputs: 103478544
+	File system outputs: 105819984
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
