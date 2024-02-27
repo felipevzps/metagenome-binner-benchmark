@@ -1,0 +1,50 @@
+Traceback (most recent call last):
+  File "/home/felipe.peres/.conda/envs/metagenomics/bin/NanoPlot", line 8, in <module>
+    sys.exit(main())
+  File "/home/felipe.peres/.conda/envs/metagenomics/lib/python3.8/site-packages/nanoplot/NanoPlot.py", line 110, in main
+    plots = make_plots(datadf, settings)
+  File "/home/felipe.peres/.conda/envs/metagenomics/lib/python3.8/site-packages/nanoplot/NanoPlot.py", line 179, in make_plots
+    nanoplotter.scatter(
+  File "/home/felipe.peres/.conda/envs/metagenomics/lib/python3.8/site-packages/nanoplotter/nanoplotter_main.py", line 182, in scatter
+    plots_made += scatter_legacy(
+  File "/home/felipe.peres/.conda/envs/metagenomics/lib/python3.8/site-packages/nanoplotter/nanoplotter_main.py", line 295, in scatter_legacy
+    plot = sns.jointplot(
+  File "/home/felipe.peres/.local/lib/python3.8/site-packages/seaborn/axisgrid.py", line 2255, in jointplot
+    grid.plot_joint(scatterplot, **joint_kws)
+  File "/home/felipe.peres/.local/lib/python3.8/site-packages/seaborn/axisgrid.py", line 1826, in plot_joint
+    func(x=self.x, y=self.y, **kwargs)
+  File "/home/felipe.peres/.local/lib/python3.8/site-packages/seaborn/relational.py", line 761, in scatterplot
+    p.plot(ax, kwargs)
+  File "/home/felipe.peres/.local/lib/python3.8/site-packages/seaborn/relational.py", line 573, in plot
+    points = ax.scatter(x=x, y=y, **kws)
+  File "/home/felipe.peres/.local/lib/python3.8/site-packages/matplotlib/__init__.py", line 1361, in inner
+    return func(ax, *map(sanitize_sequence, args), **kwargs)
+  File "/home/felipe.peres/.local/lib/python3.8/site-packages/matplotlib/axes/_axes.py", line 4597, in scatter
+    collection.update(kwargs)
+  File "/home/felipe.peres/.local/lib/python3.8/site-packages/matplotlib/artist.py", line 1062, in update
+    raise AttributeError(f"{type(self).__name__!r} object "
+AttributeError: 'PathCollection' object has no property 'stat_func'
+Command exited with non-zero status 1
+	Command being timed: "NanoPlot -t 10 --fastq ../0_raw/SRR11673974_1.fastq.gz --plots dot --legacy dot --N50 -o Hjor_nanoplot"
+	User time (seconds): 1578.04
+	System time (seconds): 29.62
+	Percent of CPU this job got: 98%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 27:11.11
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 929772
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 130
+	Minor (reclaiming a frame) page faults: 1366664
+	Voluntary context switches: 15461
+	Involuntary context switches: 246191
+	Swaps: 0
+	File system inputs: 385512
+	File system outputs: 2792
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
