@@ -1,0 +1,102 @@
+/home/felipe.peres/.conda/envs/metagenomics/bin/quast.py --threads 10 --min-identity 90.0 --colors #E31A1C --ls solid --no-check-meta --contig-thresholds 1000,5000,10000,25000,50000 --memory-efficient -t 2 /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_corrected_input/assembly_to_Raoultella_ornithinolytica.fasta -R /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_corrected_input/Raoultella_ornithinolytica.fasta__1 -o /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/runs_per_reference/Raoultella_ornithinolytica --labels assembly
+
+Started: 2024-03-02 12:09:33
+
+Logging to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/runs_per_reference/Raoultella_ornithinolytica/quast.log
+
+CWD: /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly
+Main parameters: 
+  MODE: meta, threads: 2, min contig length: 500, min alignment length: 65, min alignment IDY: 90.0, \
+  ambiguity: one, min local misassembly length: 200, min extensive misassembly length: 1000
+
+Reference:
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_corrected_input/Raoultella_ornithinolytica.fasta__1 ==> Raoultella_ornithinolytica
+
+Contigs:
+  Pre-processing...
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_corrected_input/assembly_to_Raoultella_ornithinolytica.fasta ==> assembly
+
+2024-03-02 12:09:34
+Running Basic statistics processor...
+  Reference genome:
+    Raoultella_ornithinolytica.fasta__1, length = 5499334, num fragments = 1, GC % = 55.60
+  Contig files: 
+    assembly
+  Calculating N50 and L50...
+    assembly, N50 = 550502, L50 = 15, auN = 1267666.1, Total length = 33488547, GC % = 53.92, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/runs_per_reference/Raoultella_ornithinolytica/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/runs_per_reference/Raoultella_ornithinolytica/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/runs_per_reference/Raoultella_ornithinolytica/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/runs_per_reference/Raoultella_ornithinolytica/basic_stats/GC_content_plot.pdf
+  Drawing assembly GC content plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/runs_per_reference/Raoultella_ornithinolytica/basic_stats/assembly_GC_content_plot.pdf
+Done.
+
+2024-03-02 12:09:38
+Running Contig analyzer...
+WARNING: Version of installed minimap2 differs from its version in the QUAST package (2.24). Please make sure that you use an actual version of software.
+  assembly
+  Logging to files /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/runs_per_reference/Raoultella_ornithinolytica/contigs_reports/contigs_report_assembly.stdout and contigs_report_assembly.stderr...
+  Aligning contigs to the reference
+WARNING: Version of installed minimap2 differs from its version in the QUAST package (2.24). Please make sure that you use an actual version of software.
+  /home/felipe.peres/.conda/envs/metagenomics/bin/minimap2 -c -x asm10 -B5 -O4,16 \
+  --no-long-join -r 200 -N 50 -s 65 -z 200 --mask-level 0.9 --min-occ 200 -g 2500 \
+  --score-N 2 --cs -t 2 Hjor_metaquast/quast_corrected_input/Raoultella_ornithinolytica.fasta__1 \
+  Hjor_metaquast/quast_corrected_input/assembly_to_Raoultella_ornithinolytica.fasta \
+  > Hjor_metaquast/runs_per_reference/Raoultella_ornithinolytica/contigs_reports/minimap_output/assembly.coords_tmp \
+  2>> Hjor_metaquast/runs_per_reference/Raoultella_ornithinolytica/contigs_reports/contigs_report_assembly.stderr
+  Analysis is finished.
+
+  Creating total report...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/runs_per_reference/Raoultella_ornithinolytica/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/runs_per_reference/Raoultella_ornithinolytica/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/runs_per_reference/Raoultella_ornithinolytica/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/runs_per_reference/Raoultella_ornithinolytica/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/runs_per_reference/Raoultella_ornithinolytica/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2024-03-02 12:09:53
+Running NA-NGA calculation...
+  assembly, Largest alignment = 134742, NA50 = None, NGA50 = 30336, LA50 = None, LGA50 = 53
+  Drawing cumulative plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/runs_per_reference/Raoultella_ornithinolytica/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/runs_per_reference/Raoultella_ornithinolytica/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/runs_per_reference/Raoultella_ornithinolytica/aligned_stats/NGAx_plot.pdf
+Done.
+
+2024-03-02 12:09:55
+Running Genome analyzer...
+  NOTICE: No file with genomic features were provided. Use the --features option if you want to specify it.
+
+  NOTICE: No file with operons were provided. Use the -O option if you want to specify it.
+  assembly
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2024-03-02 12:09:57
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating PDF with all tables and plots...
+  2 of 2: Creating Icarus viewers...
+Done
+
+2024-03-02 12:10:00
+RESULTS:
+  Text versions of total report are saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/runs_per_reference/Raoultella_ornithinolytica/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/runs_per_reference/Raoultella_ornithinolytica/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/runs_per_reference/Raoultella_ornithinolytica/report.html
+  PDF version (tables and plots) is saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/runs_per_reference/Raoultella_ornithinolytica/report.pdf
+  Icarus (contig browser) is saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/runs_per_reference/Raoultella_ornithinolytica/icarus.html

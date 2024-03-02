@@ -1,0 +1,45 @@
+All statistics are based on contigs of size >= 500 bp, unless otherwise noted (e.g., "# contigs (>= 0 bp)" and "Total length (>= 0 bp)" include all contigs).
+
+Assembly                     assembly       
+# contigs (>= 0 bp)          8489           
+# contigs (>= 1000 bp)       8391           
+# contigs (>= 5000 bp)       7612           
+# contigs (>= 10000 bp)      6237           
+# contigs (>= 25000 bp)      3396           
+# contigs (>= 50000 bp)      1761           
+Total length (>= 0 bp)       480682550      
+Total length (>= 1000 bp)    480614334      
+Total length (>= 5000 bp)    477965686      
+Total length (>= 10000 bp)   467654033      
+Total length (>= 25000 bp)   420580563      
+Total length (>= 50000 bp)   362624021      
+# contigs                    8484           
+Largest contig               5242943        
+Total length                 480680666      
+Reference length             15710962       
+N50                          195279         
+N90                          21219          
+auN                          522529.6       
+L50                          470            
+L90                          3920           
+# misassemblies              502            
+# misassembled contigs       55             
+Misassembled contigs length  9764040        
+# local misassemblies        218            
+# scaffold gap ext. mis.     0              
+# scaffold gap loc. mis.     0              
+# unaligned mis. contigs     251            
+# unaligned contigs          7604 + 830 part
+Unaligned length             469795488      
+Genome fraction (%)          54.608         
+Duplication ratio            1.434          
+# N's per 100 kbp            0.00           
+# mismatches per 100 kbp     4245.94        
+# indels per 100 kbp         675.03         
+Largest alignment            164422         
+Total aligned length         10874893       
+NA50                         -              
+NA90                         -              
+auNA                         715.1          
+LA50                         -              
+LA90                         -              

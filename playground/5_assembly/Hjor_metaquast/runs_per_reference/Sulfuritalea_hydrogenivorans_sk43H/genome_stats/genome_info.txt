@@ -1,0 +1,14 @@
+reference chromosomes:
+	Sulfuritalea_hydrogenivorans_sk43H_NZ_AP012547.1 (total length: 3802648 bp, total length without N's: 3802648 bp, maximal covered length: 472917 bp)
+
+total genome size: 3802648
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+assembly_to_Sulfuritalea | 12.437    | 1.718       | 370       | -         | -         | -         | -         |

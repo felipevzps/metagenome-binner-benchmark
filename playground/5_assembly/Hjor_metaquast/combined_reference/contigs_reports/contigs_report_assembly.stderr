@@ -1,0 +1,20 @@
+[M::mm_idx_gen::4.905*1.51] collected minimizers
+[M::mm_idx_gen::5.409*1.92] sorted minimizers
+[M::main::5.409*1.92] loaded/built the index for 701 target sequence(s)
+[M::mm_mapopt_update::5.786*1.86] mid_occ = 200
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 701
+[M::mm_idx_stat::6.030*1.82] distinct minimizers: 18138207 (95.92% are singletons); average occurrences: 1.052; average spacing: 10.018; total length: 191237967
+[M::worker_pipeline::44.692*7.08] mapped 8484 sequences
+[M::main] Version: 2.26-r1175
+[M::main] CMD: /home/felipe.peres/.conda/envs/metagenomics/bin/minimap2 -c -x asm10 -B5 -O4,16 --no-long-join -r 200 -N 100 -s 65 -z 200 --mask-level 1 --min-occ 200 -g 2500 --score-N 2 --cs -t 10 /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_corrected_input/combined_reference.fasta /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/../quast_corrected_input/assembly.fasta
+[M::main] Real time: 44.885 sec; CPU: 316.752 sec; Peak RSS: 2.464 GB
+[M::mm_idx_gen::0.500*1.02] collected minimizers
+[M::mm_idx_gen::0.557*1.69] sorted minimizers
+[M::main::0.557*1.69] loaded/built the index for 24 target sequence(s)
+[M::mm_mapopt_update::0.603*1.63] mid_occ = 200
+[M::mm_idx_stat] kmer size: 19; skip: 19; is_hpc: 0; #seq: 24
+[M::mm_idx_stat::0.629*1.61] distinct minimizers: 1545288 (99.13% are singletons); average occurrences: 1.015; average spacing: 10.019; total length: 15710962
+[M::worker_pipeline::11.901*6.45] mapped 8484 sequences
+[M::main] Version: 2.26-r1175
+[M::main] CMD: /home/felipe.peres/.conda/envs/metagenomics/bin/minimap2 -c -x asm10 -B5 -O4,16 --no-long-join -r 200 -N 100 -s 65 -z 200 --mask-level 1 --min-occ 200 -g 2500 --score-N 2 --cs -t 10 /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_corrected_input/combined_reference.fasta /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/../quast_corrected_input/assembly.fasta__2
+[M::main] Real time: 11.966 sec; CPU: 76.865 sec; Peak RSS: 1.172 GB

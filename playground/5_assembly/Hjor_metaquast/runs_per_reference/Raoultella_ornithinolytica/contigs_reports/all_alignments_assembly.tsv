@@ -1,0 +1,1830 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+4576829	4579896	3063	1	Raoultella_ornithinolytica_NZ_CP138913.1	contig_100	96.82		True
+unknown
+4543403	4544206	36113	35309	Raoultella_ornithinolytica_NZ_CP138913.1	contig_100	90.06		True
+unknown
+4532389	4532609	46980	46761	Raoultella_ornithinolytica_NZ_CP138913.1	contig_100	92.31		True
+unknown
+4808803	4813827	156269	151094	Raoultella_ornithinolytica_NZ_CP138913.1	contig_100	93.29		True
+unknown
+4411697	4411803	161926	161822	Raoultella_ornithinolytica_NZ_CP138913.1	contig_100	98.13		True
+unknown
+4399299	4401366	173553	171482	Raoultella_ornithinolytica_NZ_CP138913.1	contig_100	90.33		True
+unknown
+4397065	4397720	176853	176198	Raoultella_ornithinolytica_NZ_CP138913.1	contig_100	91.31		True
+unknown
+4369963	4371273	205582	204273	Raoultella_ornithinolytica_NZ_CP138913.1	contig_100	90.08		True
+unknown
+4347361	4348957	227049	225450	Raoultella_ornithinolytica_NZ_CP138913.1	contig_100	92.02		True
+unknown
+4321905	4322473	262199	261630	Raoultella_ornithinolytica_NZ_CP138913.1	contig_100	92.64		True
+unknown
+CONTIG	contig_100	351402	mis_unaligned
+4707877	4710938	3056	1	Raoultella_ornithinolytica_NZ_CP138913.1	contig_101	96.94		True
+unknown
+4693364	4695363	17226	15229	Raoultella_ornithinolytica_NZ_CP138913.1	contig_101	90.69		True
+unknown
+4677813	4678005	32364	32172	Raoultella_ornithinolytica_NZ_CP138913.1	contig_101	90.67		True
+unknown
+4812094	4813827	90730	88999	Raoultella_ornithinolytica_NZ_CP138913.1	contig_101	96.84		True
+unknown
+4808764	4812068	94376	91072	Raoultella_ornithinolytica_NZ_CP138913.1	contig_101	96.3		True
+unknown
+4801096	4801220	101943	101820	Raoultella_ornithinolytica_NZ_CP138913.1	contig_101	95.2		True
+unknown
+4791456	4794891	111859	108424	Raoultella_ornithinolytica_NZ_CP138913.1	contig_101	91.34		True
+unknown
+4744939	4745209	170710	170440	Raoultella_ornithinolytica_NZ_CP138913.1	contig_101	91.51		True
+unknown
+4737083	4737344	178508	178247	Raoultella_ornithinolytica_NZ_CP138913.1	contig_101	90.87		True
+unknown
+4812094	4813855	215493	213733	Raoultella_ornithinolytica_NZ_CP138913.1	contig_101	96.62		True
+unknown
+4808813	4812068	219083	215833	Raoultella_ornithinolytica_NZ_CP138913.1	contig_101	96.39		True
+unknown
+4599687	4612599	235710	222761	Raoultella_ornithinolytica_NZ_CP138913.1	contig_101	92.65		True
+unknown
+CONTIG	contig_101	235743	mis_unaligned
+4168147	4174159	6207	192	Raoultella_ornithinolytica_NZ_CP138913.1	contig_102	97.49		True
+CONTIG	contig_102	6207	correct
+2461546	2462747	28548	27352	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1028	99.0		True
+unknown
+5222346	5223685	29681	31019	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1028	99.48		True
+unknown
+CONTIG	contig_1028	31028	mis_unaligned
+2454847	2455721	4214	3339	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1029	97.95		True
+unknown
+2461545	2462747	23706	24906	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1029	98.75		True
+unknown
+1330699	1331050	43221	43573	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1029	90.37		True
+unknown
+573619	574112	47811	48304	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1029	99.39		True
+unknown
+574236	574788	48305	48856	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1029	98.37		True
+unknown
+583702	584187	48861	49345	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1029	97.94		True
+unknown
+584188	584619	51613	52044	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1029	96.76		True
+unknown
+584624	584931	54848	55155	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1029	95.13		True
+unknown
+CONTIG	contig_1029	78684	mis_unaligned
+4808804	4808932	276	148	Raoultella_ornithinolytica_NZ_CP138913.1	contig_103	94.57		True
+CONTIG	contig_103	8476	correct_unaligned
+1330285	1331054	7155	7921	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1030	99.35		True
+unknown
+1330286	1331057	16838	16061	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1030	98.59		True
+unknown
+4848957	4849816	81369	80511	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1030	93.26		True
+unknown
+584624	584931	161049	160742	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1030	94.81		True
+unknown
+583703	584619	163189	162273	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1030	96.95		True
+unknown
+2155304	2157482	166949	164777	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1030	96.37		True
+unknown
+2461545	2462744	182786	183981	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1030	99.08		True
+unknown
+1395275	1396332	185224	184169	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1030	99.43		True
+unknown
+5222346	5223685	220189	221526	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1030	92.91		True
+unknown
+1330286	1331054	253752	252987	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1030	98.44		True
+unknown
+2455002	2455978	253753	254724	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1030	98.57		True
+unknown
+2461546	2462747	260326	261525	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1030	99.25		True
+unknown
+CONTIG	contig_1030	265611	mis_unaligned
+4848957	4849816	10192	9335	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1033	98.72		True
+CONTIG	contig_1033	10203	correct_unaligned
+2454780	2455878	1129	29	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1034	98.73		True
+CONTIG	contig_1034	1536	correct
+4616437	4616612	176	1	Raoultella_ornithinolytica_NZ_CP138913.1	contig_104	95.48		True
+CONTIG	contig_104	565	correct
+212670	213424	28522	27767	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1043	90.34		True
+unknown
+204212	205272	43185	42123	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1043	91.44		True
+unknown
+144060	144352	78535	78249	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1043	90.17		True
+unknown
+45793	46320	191686	191154	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1043	90.62		True
+unknown
+42004	44003	195618	193619	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1043	90.45		True
+unknown
+CONTIG	contig_1043	199545	mis_unaligned
+2461546	2462744	2298	1104	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1044	98.92		True
+unknown
+2698576	2698870	13807	14100	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1044	90.17		True
+unknown
+4848957	4849816	14840	15699	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1044	95.71		True
+unknown
+2697706	2698099	16503	16111	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1044	94.42		True
+unknown
+4848957	4849816	20502	21359	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1044	92.45		True
+unknown
+4848957	4849816	31355	30497	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1044	95.59		True
+unknown
+4848957	4849816	42398	43257	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1044	95.71		True
+unknown
+1291416	1292473	45828	44773	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1044	94.62		True
+unknown
+1330286	1331039	61475	60727	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1044	98.14		True
+unknown
+2155679	2157482	67488	69286	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1044	99.33		True
+unknown
+3713263	3714321	85115	84058	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1044	99.24		True
+unknown
+2461546	2462744	87496	88691	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1044	99.17		True
+unknown
+CONTIG	contig_1044	132388	mis_unaligned
+5222363	5223686	23774	22455	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1045	99.17		True
+unknown
+2454778	2455978	61424	60225	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1045	99.33		True
+unknown
+CONTIG	contig_1045	82449	mis_unaligned
+5495110	5495496	66321	65938	Raoultella_ornithinolytica_NZ_CP138913.1	contig_106	97.16		True
+unknown
+5489003	5489114	81519	81408	Raoultella_ornithinolytica_NZ_CP138913.1	contig_106	97.32		True
+unknown
+5445599	5448659	124902	121842	Raoultella_ornithinolytica_NZ_CP138913.1	contig_106	90.71		True
+unknown
+5405922	5407785	168570	166712	Raoultella_ornithinolytica_NZ_CP138913.1	contig_106	91.09		True
+unknown
+5365037	5366476	203109	201673	Raoultella_ornithinolytica_NZ_CP138913.1	contig_106	92.01		True
+unknown
+5360240	5363321	218341	215261	Raoultella_ornithinolytica_NZ_CP138913.1	contig_106	96.73		True
+unknown
+5358452	5360214	220452	218691	Raoultella_ornithinolytica_NZ_CP138913.1	contig_106	96.78		True
+unknown
+5354802	5355011	224147	223938	Raoultella_ornithinolytica_NZ_CP138913.1	contig_106	91.55		True
+unknown
+5343454	5347852	235513	231092	Raoultella_ornithinolytica_NZ_CP138913.1	contig_106	93.85		True
+unknown
+CONTIG	contig_106	235907	mis_unaligned
+4598331	4609475	19386	30517	Raoultella_ornithinolytica_NZ_CP138913.1	contig_107	93.23		True
+CONTIG	contig_107	30541	correct_unaligned
+3560219	3560798	56062	56641	Raoultella_ornithinolytica_NZ_CP138913.1	contig_108	90.17		True
+unknown
+4808802	4813827	284004	289185	Raoultella_ornithinolytica_NZ_CP138913.1	contig_108	93.22		True
+unknown
+3886862	3887448	349821	350406	Raoultella_ornithinolytica_NZ_CP138913.1	contig_108	92.84		True
+unknown
+3912665	3914115	381054	382501	Raoultella_ornithinolytica_NZ_CP138913.1	contig_108	90.21		True
+unknown
+3914270	3919048	382502	387272	Raoultella_ornithinolytica_NZ_CP138913.1	contig_108	90.08		True
+unknown
+4077683	4078109	549339	549760	Raoultella_ornithinolytica_NZ_CP138913.1	contig_108	90.87		True
+unknown
+2696490	2698889	612014	614426	Raoultella_ornithinolytica_NZ_CP138913.1	contig_108	95.7		True
+unknown
+CONTIG	contig_108	678020	mis_unaligned
+4495397	4516437	70	21110	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1116	97.82		True
+CONTIG	contig_1116	21110	correct
+823691	823761	14127	14197	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1177	98.59		True
+CONTIG	contig_1177	30545	correct_unaligned
+101709	131857	1	30113	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1201	98.81		True
+CONTIG	contig_1201	50008	correct
+5032303	5032502	104469	104270	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1208	91.0		True
+unknown
+5005555	5006069	130409	129896	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1208	97.48		True
+unknown
+4862765	4863462	224362	223667	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1208	90.87		True
+unknown
+4833386	4839975	250436	243856	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1208	91.63		True
+unknown
+CONTIG	contig_1208	250464	mis_unaligned
+5394722	5401404	6	6691	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1272	96.85		True
+CONTIG	contig_1272	6768	correct
+5408415	5414191	1	5761	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1273	98.74		True
+CONTIG	contig_1273	5761	correct
+823570	823759	366913	366722	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1383	92.31		True
+unknown
+820466	822409	370013	368071	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1383	90.38		True
+unknown
+814410	814698	379517	379231	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1383	90.78		True
+unknown
+CONTIG	contig_1383	513634	mis_unaligned
+5150445	5157687	1416	8704	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1395	91.5		True
+relocation, inconsistency = -4044
+5157756	5159002	12817	14071	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1395	98.09		True
+relocation, inconsistency = -8472
+5159046	5179916	22587	43399	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1395	97.51		True
+CONTIG	contig_1395	43448	misassembled
+4809948	4810033	78552	78637	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1473	98.84		True
+CONTIG	contig_1473	541918	correct_unaligned
+4812094	4813827	32045	30313	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1560	96.45		True
+unknown
+4808813	4811934	35546	32453	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1560	95.2		True
+unknown
+5327869	5333035	213007	218169	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1560	91.89		True
+unknown
+CONTIG	contig_1560	219258	mis_unaligned
+5334052	5347852	600	14379	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1561	95.67		True
+CONTIG	contig_1561	15140	correct
+619448	619597	186	38	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1696	92.0		True
+CONTIG	contig_1696	36026	correct_unaligned
+4752334	4765340	1	13025	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1779	97.68		True
+relocation, inconsistency = -4803
+4765532	4780567	18020	33069	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1779	97.79		True
+CONTIG	contig_1779	33072	misassembled
+3431847	3442158	1	10321	Raoultella_ornithinolytica_NZ_CP138913.1	contig_1877	97.73		True
+CONTIG	contig_1877	10321	correct
+3886864	3887448	20288	19704	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2003	92.31		True
+CONTIG	contig_2003	22161	correct_unaligned
+3912665	3914099	14786	16228	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2005	92.54		True
+CONTIG	contig_2005	16940	correct_unaligned
+622611	622695	2549	2465	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2053	100.0		True
+CONTIG	contig_2053	31057	correct_unaligned
+3657391	3676337	1	18960	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2135	98.51		True
+CONTIG	contig_2135	18981	correct
+5327880	5332451	6165	1591	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2145	95.18		True
+unknown
+5005433	5006075	290501	289857	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2145	96.44		True
+unknown
+4862759	4863480	385203	384482	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2145	91.46		True
+unknown
+4832922	4840012	410845	403763	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2145	91.5		True
+unknown
+CONTIG	contig_2145	420231	mis_unaligned
+5437104	5437234	6602	6473	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2148	95.42		True
+CONTIG	contig_2148	8631	correct_unaligned
+2454780	2455981	4900	6098	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2150	99.0		True
+unknown
+2454782	2455983	13809	15011	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2150	99.0		True
+unknown
+1330298	1331050	42541	43302	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2150	90.16		True
+unknown
+CONTIG	contig_2150	61802	mis_unaligned
+5439693	5441106	37002	38417	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2154	90.75		True
+CONTIG	contig_2154	42797	correct_unaligned
+2461544	2462744	4860	6056	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2185	99.25		True
+unknown
+2461546	2462745	27054	28265	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2185	96.96		True
+unknown
+CONTIG	contig_2185	29994	mis_unaligned
+4321905	4322486	1044	1626	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2198	92.47		True
+CONTIG	contig_2198	17738	correct_unaligned
+5405936	5407627	38660	36982	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2231	90.5		True
+CONTIG	contig_2231	46327	correct_unaligned
+3513573	3525525	69424	57480	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2254	97.98		True
+unknown
+3462596	3512518	119320	69416	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2254	98.7		True
+unknown
+CONTIG	contig_2254	131371	mis_unaligned
+618954	620503	257114	258664	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2301	90.84		True
+unknown
+620877	623448	259294	261843	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2301	90.71		True
+unknown
+CONTIG	contig_2301	262225	mis_unaligned
+1612377	1612706	276222	275894	Raoultella_ornithinolytica_NZ_CP138913.1	contig_235	92.73		True
+unknown
+1429464	1429917	401423	400972	Raoultella_ornithinolytica_NZ_CP138913.1	contig_235	95.15		True
+unknown
+1421555	1421723	409303	409136	Raoultella_ornithinolytica_NZ_CP138913.1	contig_235	97.04		True
+unknown
+CONTIG	contig_235	452744	mis_unaligned
+5358619	5360168	130275	131823	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2508	90.84		True
+unknown
+5360542	5363113	132497	135046	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2508	90.63		True
+unknown
+CONTIG	contig_2508	168094	mis_unaligned
+4812139	4813688	81937	80388	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2510	90.9		True
+unknown
+4809195	4811766	85152	82605	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2510	90.59		True
+unknown
+CONTIG	contig_2510	85543	mis_unaligned
+2921677	2922577	902	1	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2539	97.36		True
+CONTIG	contig_2539	9309	correct_unaligned
+2917064	2918215	1151	4	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2540	98.63		True
+relocation, inconsistency = 24121
+2876108	2892942	17980	1152	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2540	98.1		True
+CONTIG	contig_2540	17985	misassembled
+3078582	3079779	94402	93206	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2560	99.17		True
+unknown
+3042277	3043474	155490	154295	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2560	98.91		True
+unknown
+CONTIG	contig_2560	550502	mis_unaligned
+4414139	4415273	9790	8657	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2579	97.89		True
+CONTIG	contig_2579	50942	correct_unaligned
+5058759	5059957	19817	18620	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2584	98.75		True
+CONTIG	contig_2584	19830	correct_unaligned
+2454780	2455978	12248	11052	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2585	99.08		True
+unknown
+4848962	4849816	13714	14568	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2585	93.12		True
+unknown
+CONTIG	contig_2585	25096	mis_unaligned
+1821587	1821736	29947	29793	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2650	93.59		True
+CONTIG	contig_2650	40158	correct_unaligned
+1821681	1821859	26417	26239	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2651	94.44		True
+CONTIG	contig_2651	41128	correct_unaligned
+2973428	2973602	246633	246804	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2657	92.57		True
+unknown
+2996166	2998318	269374	271535	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2657	94.21		True
+unknown
+3033562	3033839	304537	304813	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2657	92.45		True
+unknown
+3211479	3211667	435376	435563	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2657	96.3		True
+unknown
+3211772	3211917	435564	435708	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2657	94.52		True
+unknown
+3271139	3271689	518291	518833	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2657	93.47		True
+unknown
+3300604	3300825	548570	548791	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2657	96.4		True
+unknown
+CONTIG	contig_2657	640248	mis_unaligned
+4809835	4810033	140887	141085	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2718	90.45		True
+CONTIG	contig_2718	630210	correct_unaligned
+1103680	1128900	26733	1678	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2791	96.35		True
+CONTIG	contig_2791	26733	correct
+4031776	4032197	2803	3223	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2854	95.76		True
+CONTIG	contig_2854	3238	correct_unaligned
+586737	590229	15731	12245	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2858	97.72		True
+CONTIG	contig_2858	20136	correct_unaligned
+5009679	5036658	26968	8	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2892	98.42		True
+CONTIG	contig_2892	26968	correct
+4809835	4810033	82921	82723	Raoultella_ornithinolytica_NZ_CP138913.1	contig_290	90.45		True
+unknown
+4809303	4809514	83442	83231	Raoultella_ornithinolytica_NZ_CP138913.1	contig_290	90.65		True
+unknown
+CONTIG	contig_290	185212	mis_unaligned
+1330286	1330547	2421	2161	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2954	99.24		True
+unknown
+1291414	1292475	10394	9329	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2954	95.46		True
+unknown
+4848957	4849816	12195	11337	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2954	96.05		True
+unknown
+4848957	4849816	14272	13413	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2954	91.65		True
+unknown
+1330285	1331046	15641	16401	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2954	92.79		True
+unknown
+CONTIG	contig_2954	18364	mis_unaligned
+5222346	5223685	3487	2149	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2955	93.37		True
+unknown
+1330286	1331054	6846	7611	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2955	98.31		True
+unknown
+CONTIG	contig_2955	8190	mis_unaligned
+1330534	1330987	14789	14336	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2956	93.64		True
+unknown
+5222346	5223685	14812	16148	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2956	99.33		True
+unknown
+4848957	4849816	47122	46260	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2956	92.14		True
+unknown
+1330286	1331054	73098	73866	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2956	96.37		True
+unknown
+2455652	2455982	77394	77066	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2956	98.79		True
+unknown
+1330286	1331046	87001	86243	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2956	93.17		True
+unknown
+2461546	2462748	88574	89772	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2956	99.09		True
+unknown
+4848957	4849816	94212	95069	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2956	98.72		True
+unknown
+2455306	2455982	123771	124449	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2956	92.13		True
+unknown
+1330406	1331054	126052	125393	Raoultella_ornithinolytica_NZ_CP138913.1	contig_2956	92.83		True
+unknown
+CONTIG	contig_2956	126052	mis_unaligned
+3042276	3043474	34414	33213	Raoultella_ornithinolytica_NZ_CP138913.1	contig_302	98.59		True
+CONTIG	contig_302	38758	correct_unaligned
+4913790	4914987	112338	111142	Raoultella_ornithinolytica_NZ_CP138913.1	contig_303	98.75		True
+CONTIG	contig_303	265742	correct_unaligned
+4809195	4811766	6889	9435	Raoultella_ornithinolytica_NZ_CP138913.1	contig_312	90.59		True
+unknown
+4812139	4813688	10103	11651	Raoultella_ornithinolytica_NZ_CP138913.1	contig_312	90.84		True
+unknown
+4812139	4813688	139257	137707	Raoultella_ornithinolytica_NZ_CP138913.1	contig_312	90.91		True
+unknown
+4809195	4811766	142433	139886	Raoultella_ornithinolytica_NZ_CP138913.1	contig_312	90.63		True
+unknown
+4812139	4813688	218518	216969	Raoultella_ornithinolytica_NZ_CP138913.1	contig_312	90.9		True
+unknown
+4809195	4811766	221734	219185	Raoultella_ornithinolytica_NZ_CP138913.1	contig_312	90.71		True
+unknown
+CONTIG	contig_312	223780	mis_unaligned
+5362806	5363003	187480	187676	Raoultella_ornithinolytica_NZ_CP138913.1	contig_3133	91.41		True
+CONTIG	contig_3133	947346	correct_unaligned
+4707267	4707371	604485	604381	Raoultella_ornithinolytica_NZ_CP138913.1	contig_315	94.29		True
+CONTIG	contig_315	1078894	correct_unaligned
+2802192	2802280	8313	8401	Raoultella_ornithinolytica_NZ_CP138913.1	contig_3182	97.75		True
+CONTIG	contig_3182	46575	correct_unaligned
+1330758	1331034	21913	22199	Raoultella_ornithinolytica_NZ_CP138913.1	contig_3244	90.24		True
+unknown
+4848957	4849816	23465	24336	Raoultella_ornithinolytica_NZ_CP138913.1	contig_3244	90.18		True
+unknown
+1330286	1331054	28303	29068	Raoultella_ornithinolytica_NZ_CP138913.1	contig_3244	99.35		True
+unknown
+2455299	2455982	30701	30028	Raoultella_ornithinolytica_NZ_CP138913.1	contig_3244	96.94		True
+unknown
+CONTIG	contig_3244	35746	mis_unaligned
+962990	964186	90844	92038	Raoultella_ornithinolytica_NZ_CP138913.1	contig_3268	98.75		True
+CONTIG	contig_3268	581522	correct_unaligned
+3757442	3758607	7516	6354	Raoultella_ornithinolytica_NZ_CP138913.1	contig_3277	96.78		True
+CONTIG	contig_3277	9471	correct_unaligned
+3886864	3887439	22554	21980	Raoultella_ornithinolytica_NZ_CP138913.1	contig_3285	91.68		True
+CONTIG	contig_3285	25803	correct_unaligned
+3308129	3308719	3776	3188	Raoultella_ornithinolytica_NZ_CP138913.1	contig_3292	90.86		True
+CONTIG	contig_3292	9814	correct_unaligned
+3308173	3308717	3492	2939	Raoultella_ornithinolytica_NZ_CP138913.1	contig_3293	90.25		True
+CONTIG	contig_3293	8676	correct_unaligned
+4218562	4218982	4311	3893	Raoultella_ornithinolytica_NZ_CP138913.1	contig_3299	94.3		True
+CONTIG	contig_3299	9380	correct_unaligned
+1351924	1352002	199833	199911	Raoultella_ornithinolytica_NZ_CP138913.1	contig_3326	100.0		True
+CONTIG	contig_3326	481920	correct_unaligned
+622521	623658	3	1166	Raoultella_ornithinolytica_NZ_CP138913.1	contig_3389	90.21		True
+CONTIG	contig_3389	53870	correct_unaligned
+3062487	3077363	5742	20593	Raoultella_ornithinolytica_NZ_CP138913.1	contig_3395	96.47		True
+relocation, inconsistency = 8350
+3085714	3087829	20594	22720	Raoultella_ornithinolytica_NZ_CP138913.1	contig_3395	96.24		True
+CONTIG	contig_3395	22720	misassembled
+4832922	4837788	19016	23882	Raoultella_ornithinolytica_NZ_CP138913.1	contig_3521	90.34		True
+CONTIG	contig_3521	23888	correct_unaligned
+4838652	4840011	1	1366	Raoultella_ornithinolytica_NZ_CP138913.1	contig_360	93.5		True
+CONTIG	contig_360	45422	correct_unaligned
+742618	763793	2328	23544	Raoultella_ornithinolytica_NZ_CP138913.1	contig_3668	98.32		True
+CONTIG	contig_3668	23544	correct
+623141	623338	1168349	1168546	Raoultella_ornithinolytica_NZ_CP138913.1	contig_367	91.41		True
+CONTIG	contig_367	1650438	correct_unaligned
+2652761	2676731	1	23939	Raoultella_ornithinolytica_NZ_CP138913.1	contig_3687	98.33		True
+CONTIG	contig_3687	23941	correct
+4849818	4852617	16886	14078	Raoultella_ornithinolytica_NZ_CP138913.1	contig_3688	96.41		True
+unknown
+2548019	2549424	32438	31027	Raoultella_ornithinolytica_NZ_CP138913.1	contig_3688	98.59		True
+unknown
+CONTIG	contig_3688	32447	mis_unaligned
+4953547	4953690	23927	23784	Raoultella_ornithinolytica_NZ_CP138913.1	contig_3797	99.31		True
+CONTIG	contig_3797	28240	correct_unaligned
+4953601	4953683	23889	23808	Raoultella_ornithinolytica_NZ_CP138913.1	contig_3798	98.8		True
+CONTIG	contig_3798	28099	correct_unaligned
+4617546	4617719	394110	393937	Raoultella_ornithinolytica_NZ_CP138913.1	contig_3814	90.8		True
+CONTIG	contig_3814	836607	correct_unaligned
+5222363	5223682	1	1319	Raoultella_ornithinolytica_NZ_CP138913.1	contig_384	98.94		True
+unknown
+5222346	5223682	15227	13893	Raoultella_ornithinolytica_NZ_CP138913.1	contig_384	99.7		True
+unknown
+5222346	5223685	21338	22677	Raoultella_ornithinolytica_NZ_CP138913.1	contig_384	93.6		True
+unknown
+5222346	5223683	26685	25352	Raoultella_ornithinolytica_NZ_CP138913.1	contig_384	92.53		True
+unknown
+5222346	5223685	31670	30332	Raoultella_ornithinolytica_NZ_CP138913.1	contig_384	93.21		True
+unknown
+573618	574822	90605	89402	Raoultella_ornithinolytica_NZ_CP138913.1	contig_384	99.75		True
+unknown
+1330286	1331054	103662	104428	Raoultella_ornithinolytica_NZ_CP138913.1	contig_384	96.49		True
+unknown
+5058761	5059957	108304	107112	Raoultella_ornithinolytica_NZ_CP138913.1	contig_384	99.16		True
+unknown
+3252828	3254418	118861	117272	Raoultella_ornithinolytica_NZ_CP138913.1	contig_384	95.67		True
+unknown
+CONTIG	contig_384	156308	mis_unaligned
+2461546	2462747	30423	31623	Raoultella_ornithinolytica_NZ_CP138913.1	contig_385	99.25		True
+unknown
+2461547	2462744	34294	35493	Raoultella_ornithinolytica_NZ_CP138913.1	contig_385	95.53		True
+unknown
+4849035	4849816	35493	36275	Raoultella_ornithinolytica_NZ_CP138913.1	contig_385	95.16		True
+unknown
+5058759	5059957	41223	42425	Raoultella_ornithinolytica_NZ_CP138913.1	contig_385	97.11		True
+unknown
+5222346	5223686	53574	52235	Raoultella_ornithinolytica_NZ_CP138913.1	contig_385	93.07		True
+unknown
+5222346	5223685	55476	54139	Raoultella_ornithinolytica_NZ_CP138913.1	contig_385	92.99		True
+unknown
+CONTIG	contig_385	62432	mis_unaligned
+4229139	4231966	25269	22446	Raoultella_ornithinolytica_NZ_CP138913.1	contig_3883	98.98		True
+unknown
+5058761	5059957	25271	26465	Raoultella_ornithinolytica_NZ_CP138913.1	contig_3883	99.67		True
+unknown
+4228136	4229092	27474	26511	Raoultella_ornithinolytica_NZ_CP138913.1	contig_3883	93.81		True
+unknown
+CONTIG	contig_3883	32211	mis_unaligned
+3863134	3883111	1884	21844	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4019	98.54		True
+CONTIG	contig_4019	21853	correct
+184084	204472	20358	1	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4145	99.04		True
+CONTIG	contig_4145	20358	correct
+4347365	4348957	44845	43253	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4161	94.11		True
+unknown
+4321906	4322431	69345	68821	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4161	90.87		True
+unknown
+CONTIG	contig_4161	76970	mis_unaligned
+2699853	2700018	18871	19038	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4163	98.21		True
+CONTIG	contig_4163	20310	correct_unaligned
+4014440	4032932	1	18469	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4168	97.42		True
+CONTIG	contig_4168	19214	correct
+4321892	4342703	21332	188	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4224	96.84		True
+CONTIG	contig_4224	21332	correct
+5495169	5495382	39278	39488	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4265	93.95		True
+CONTIG	contig_4265	268054	correct_unaligned
+418379	433478	107	15222	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4345	93.29		True
+relocation, inconsistency = -1369
+433830	436424	16943	19534	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4345	94.03		True
+local misassembly
+436835	437483	20173	20818	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4345	92.6		True
+relocation, inconsistency = 146213
+583703	584931	22051	20825	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4345	96.01		True
+relocation, inconsistency = 145848
+437488	437853	22053	22417	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4345	95.08		True
+CONTIG	contig_4345	26088	misassembled
+5222347	5223686	2397	3733	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4420	92.69		True
+CONTIG	contig_4420	16963	correct_unaligned
+5180923	5206912	25966	1	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4442	98.34		True
+CONTIG	contig_4442	25966	correct
+5044159	5048079	9367	5453	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4443	91.02		True
+local misassembly
+5035878	5043866	17373	9369	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4443	93.67		True
+CONTIG	contig_4443	17373	correct
+4684457	4684921	1	453	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4445	92.7		True
+CONTIG	contig_4445	98365	correct_unaligned
+4321905	4322473	31848	32420	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4472	90.92		True
+CONTIG	contig_4472	44445	correct_unaligned
+823565	823645	166216	166136	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4491	97.53		True
+CONTIG	contig_4491	492113	correct_unaligned
+4217004	4217404	31814	31410	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4544	92.35		True
+unknown
+1298097	1298392	34820	34524	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4544	90.57		True
+unknown
+CONTIG	contig_4544	42067	mis_unaligned
+613961	623649	11	9994	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4619	90.99		True
+CONTIG	contig_4619	24620	correct_unaligned
+4131681	4157490	25832	3	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4708	96.73		True
+relocation, inconsistency = 1146
+4128997	4130443	27377	25924	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4708	95.74		True
+CONTIG	contig_4708	27424	misassembled
+1837216	1837629	22356	22775	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4761	91.67		True
+CONTIG	contig_4761	27921	correct_unaligned
+591747	592124	15456	15832	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4789	96.04		True
+CONTIG	contig_4789	16400	correct_unaligned
+2368460	2377795	2180	11516	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4801	96.32		True
+relocation, inconsistency = 2164
+2380758	2382224	12315	13776	Raoultella_ornithinolytica_NZ_CP138913.1	contig_4801	95.32		True
+CONTIG	contig_4801	13782	misassembled
+2802192	2802280	7811	7723	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5006	97.75		True
+CONTIG	contig_5006	14726	correct_unaligned
+3758636	3783807	25158	3	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5021	96.77		True
+relocation, inconsistency = -3501
+3714412	3757440	72850	29855	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5021	98.67		True
+relocation, inconsistency = 5108
+3697769	3709215	84370	72939	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5021	98.48		True
+CONTIG	contig_5021	84371	misassembled
+814401	814685	3224	2941	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5100	93.36		True
+CONTIG	contig_5100	63676	correct_unaligned
+809412	812100	52720	55405	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5101	90.81		True
+unknown
+820466	820632	63603	63769	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5101	93.41		True
+unknown
+823524	823763	66630	66867	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5101	91.8		True
+unknown
+836761	836897	79714	79849	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5101	93.43		True
+unknown
+CONTIG	contig_5101	146419	mis_unaligned
+4446903	4446976	2628	2555	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5193	100.0		True
+CONTIG	contig_5193	13658	correct_unaligned
+3805452	3805566	23876	23762	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5390	93.91		True
+CONTIG	contig_5390	128513	correct_unaligned
+4812139	4813688	125283	123734	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5401	90.9		True
+unknown
+4809195	4811766	128499	125951	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5401	90.67		True
+unknown
+CONTIG	contig_5401	128869	mis_unaligned
+2460316	2460485	14590	14758	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5475	95.35		True
+CONTIG	contig_5475	17999	correct_unaligned
+3914348	3927354	1	13052	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5524	95.71		True
+CONTIG	contig_5524	22296	correct
+3912237	3912886	670	1	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5525	92.72		True
+CONTIG	contig_5525	675	correct
+4177124	4177209	83403	83318	Raoultella_ornithinolytica_NZ_CP138913.1	contig_56	98.84		True
+CONTIG	contig_56	293157	correct_unaligned
+573619	574800	16651	17835	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5663	98.48		True
+CONTIG	contig_5663	17835	correct_unaligned
+2576405	2599003	22548	1	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5720	98.83		True
+CONTIG	contig_5720	22548	correct
+1330286	1331050	32271	31506	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5729	90.76		True
+unknown
+1330286	1331050	39423	38661	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5729	90.59		True
+unknown
+CONTIG	contig_5729	73869	mis_unaligned
+1330286	1331042	48999	49752	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5730	91.71		True
+unknown
+3078582	3079781	59107	60302	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5730	98.75		True
+unknown
+CONTIG	contig_5730	60821	mis_unaligned
+1454874	1478218	23416	1	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5768	97.98		True
+CONTIG	contig_5768	23445	correct
+2510342	2513395	1	3064	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5773	94.77		True
+relocation, inconsistency = -1118121
+1395275	1396332	3065	4121	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5773	98.78		True
+relocation, inconsistency = 1117056
+2513469	2514099	4202	4834	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5773	91.98		True
+relocation, inconsistency = -1856
+2514674	2518509	7265	11107	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5773	93.06		True
+local misassembly
+2520629	2525831	12695	17958	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5773	94.42		True
+CONTIG	contig_5773	17978	misassembled
+5090935	5091452	7731	7217	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5979	90.37		True
+unknown
+5088257	5088625	10394	10025	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5979	90.81		True
+unknown
+5059514	5059957	14359	13918	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5979	95.79		True
+unknown
+CONTIG	contig_5979	14366	mis_unaligned
+2112395	2120590	54	8240	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5996	98.24		True
+relocation, inconsistency = 1065
+2121656	2126998	8241	13573	Raoultella_ornithinolytica_NZ_CP138913.1	contig_5996	98.97		True
+CONTIG	contig_5996	13573	misassembled
+4809195	4811766	355	2902	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6018	90.63		True
+unknown
+4812139	4813688	3531	5079	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6018	90.97		True
+unknown
+CONTIG	contig_6018	456517	mis_unaligned
+4050921	4051948	83291	84318	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6053	90.2		True
+unknown
+4057481	4059162	93232	94913	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6053	90.27		True
+unknown
+3757434	3758571	191843	190708	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6053	95.7		True
+unknown
+CONTIG	contig_6053	264032	mis_unaligned
+1844793	1844961	3307	3476	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6112	91.76		True
+CONTIG	contig_6112	16778	correct_unaligned
+CONTIG	contig_6123	63661	unaligned
+4953551	4953690	9034	8894	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6231	97.16		True
+CONTIG	contig_6231	19510	correct_unaligned
+4598330	4606416	8145	51	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6247	93.03		True
+unknown
+5358482	5362043	23191	26733	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6247	94.9		True
+unknown
+CONTIG	contig_6247	26738	mis_unaligned
+4285980	4315660	2749	32673	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6363	94.66		True
+CONTIG	contig_6363	32811	correct
+4285700	4293187	239	7732	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6364	94.44		True
+relocation, inconsistency = 4057
+4297404	4313692	7892	24124	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6364	90.76		True
+local misassembly
+4314359	4315712	24253	25608	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6364	92.14		True
+CONTIG	contig_6364	25675	misassembled
+5334051	5338842	4796	5	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6414	97.04		True
+unknown
+5332809	5333115	6063	5758	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6414	90.55		True
+unknown
+5327888	5332398	10998	6477	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6414	93.63		True
+unknown
+CONTIG	contig_6414	27836	mis_unaligned
+732356	732710	13061	13414	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6567	95.79		True
+unknown
+734084	734561	13655	14135	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6567	90.29		True
+unknown
+736464	742631	15650	21806	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6567	99.42		True
+unknown
+CONTIG	contig_6567	39196	mis_unaligned
+3451369	3453996	3165	514	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6607	90.94		True
+CONTIG	contig_6607	23855	correct_unaligned
+4258645	4281894	23242	1	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6699	97.63		True
+CONTIG	contig_6699	23250	correct
+4098173	4112419	14234	1	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6723	97.36		True
+local misassembly
+4095242	4097398	16401	14235	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6723	98.44		True
+CONTIG	contig_6723	22268	correct
+3411777	3416026	136	4383	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6724	96.13		True
+CONTIG	contig_6724	4383	correct
+3369153	3386224	1	17076	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6725	97.06		True
+local misassembly
+3386699	3390214	17254	20778	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6725	96.56		True
+CONTIG	contig_6725	20778	correct
+2799738	2817783	13	18002	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6726	98.76		True
+CONTIG	contig_6726	18002	correct
+1684042	1699548	15499	1	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6729	98.39		True
+CONTIG	contig_6729	15504	correct
+796906	844215	46767	17	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6730	96.76		True
+CONTIG	contig_6730	46776	correct
+660834	674629	13793	1	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6731	98.23		True
+CONTIG	contig_6731	13793	correct
+559580	561016	1430	4	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6732	91.37		True
+relocation, inconsistency = 7997
+550583	551553	2427	1460	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6732	96.09		True
+relocation, inconsistency = 13010
+529357	537514	10643	2486	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6732	94.82		True
+CONTIG	contig_6732	11296	misassembled
+528662	560635	32088	1	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6733	96.78		True
+CONTIG	contig_6733	32093	correct
+406280	416156	1	10126	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6734	94.58		True
+relocation, inconsistency = 1369
+417899	437803	10500	30608	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6734	96.09		True
+CONTIG	contig_6734	30608	misassembled
+721825	722109	13188	12899	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6750	92.78		True
+CONTIG	contig_6750	23174	correct_unaligned
+5059962	5066566	6590	2	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6756	99.08		True
+relocation, inconsistency = 1200
+5031001	5058761	34472	6591	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6756	97.15		True
+CONTIG	contig_6756	34504	misassembled
+4233166	4242342	8973	1	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6779	95.18		True
+CONTIG	contig_6779	21433	correct_unaligned
+2476163	2495255	19063	12	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6895	95.42		True
+relocation, inconsistency = -2921
+2468448	2476170	29835	21977	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6895	94.91		True
+CONTIG	contig_6895	29842	misassembled
+2406819	2412061	12578	17867	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6952	92.25		True
+unknown
+2412570	2415784	17985	21251	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6952	93.27		True
+unknown
+CONTIG	contig_6952	21802	mis_unaligned
+5405934	5407627	3740	5422	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6996	90.19		True
+local misassembly
+5414213	5429404	11847	27072	Raoultella_ornithinolytica_NZ_CP138913.1	contig_6996	94.72		True
+CONTIG	contig_6996	27072	correct
+5222352	5223684	6267	4939	Raoultella_ornithinolytica_NZ_CP138913.1	contig_7005	93.1		True
+relocation, inconsistency = 1463447
+3753589	3757368	11578	7804	Raoultella_ornithinolytica_NZ_CP138913.1	contig_7005	96.43		True
+local misassembly
+3749953	3753002	14628	11579	Raoultella_ornithinolytica_NZ_CP138913.1	contig_7005	93.41		True
+CONTIG	contig_7005	14628	misassembled
+4812139	4813688	176299	174750	Raoultella_ornithinolytica_NZ_CP138913.1	contig_7125	91.03		True
+unknown
+4809195	4811766	179542	176992	Raoultella_ornithinolytica_NZ_CP138913.1	contig_7125	90.71		True
+unknown
+CONTIG	contig_7125	182895	mis_unaligned
+2802186	2802252	2670	2604	Raoultella_ornithinolytica_NZ_CP138913.1	contig_7206	100.0		True
+CONTIG	contig_7206	88891	correct_unaligned
+3252830	3254418	8637	10224	Raoultella_ornithinolytica_NZ_CP138913.1	contig_7361	93.98		True
+unknown
+5247700	5249730	17865	15843	Raoultella_ornithinolytica_NZ_CP138913.1	contig_7361	92.77		True
+unknown
+4848957	4849816	20716	19855	Raoultella_ornithinolytica_NZ_CP138913.1	contig_7361	94.9		True
+unknown
+2155304	2157482	26078	23905	Raoultella_ornithinolytica_NZ_CP138913.1	contig_7361	99.72		True
+unknown
+CONTIG	contig_7361	29409	mis_unaligned
+3323624	3360518	36938	3	Raoultella_ornithinolytica_NZ_CP138913.1	contig_7558	97.9		True
+CONTIG	contig_7558	36979	correct
+178918	180081	9068	7908	Raoultella_ornithinolytica_NZ_CP138913.1	contig_7670	90.56		True
+CONTIG	contig_7670	125866	correct_unaligned
+30948	41200	12	10254	Raoultella_ornithinolytica_NZ_CP138913.1	contig_7693	98.34		True
+CONTIG	contig_7693	10255	correct
+3042609	3042974	40696	41061	Raoultella_ornithinolytica_NZ_CP138913.1	contig_7742	99.45		True
+unknown
+3042967	3043476	42595	43100	Raoultella_ornithinolytica_NZ_CP138913.1	contig_7742	98.63		True
+unknown
+CONTIG	contig_7742	63881	mis_unaligned
+3757442	3758636	2175	3372	Raoultella_ornithinolytica_NZ_CP138913.1	contig_7868	96.12		True
+CONTIG	contig_7868	3724	correct_unaligned
+2799615	2799700	4721	4636	Raoultella_ornithinolytica_NZ_CP138913.1	contig_7899	97.67		True
+CONTIG	contig_7899	4721	correct_unaligned
+1174423	1174745	26476	26798	Raoultella_ornithinolytica_NZ_CP138913.1	contig_801	90.09		True
+unknown
+2652630	2653777	275457	274313	Raoultella_ornithinolytica_NZ_CP138913.1	contig_801	95.3		True
+unknown
+1828099	1828254	456874	457032	Raoultella_ornithinolytica_NZ_CP138913.1	contig_801	90.68		True
+unknown
+1844814	1845009	472617	472812	Raoultella_ornithinolytica_NZ_CP138913.1	contig_801	91.33		True
+unknown
+CONTIG	contig_801	569270	mis_unaligned
+3713264	3714024	759	1	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8039	99.21		True
+unknown
+3714025	3714320	4858	4563	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8039	99.32		True
+unknown
+CONTIG	contig_8039	4858	mis_unaligned
+5058825	5059957	6555	5426	Raoultella_ornithinolytica_NZ_CP138913.1	contig_806	96.03		True
+CONTIG	contig_806	28051	correct_unaligned
+573619	574816	6263	7456	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8065	98.67		True
+CONTIG	contig_8065	55098	correct_unaligned
+5222346	5223685	40911	42250	Raoultella_ornithinolytica_NZ_CP138913.1	contig_808	99.55		True
+unknown
+2454780	2455061	66178	66459	Raoultella_ornithinolytica_NZ_CP138913.1	contig_808	100.0		True
+unknown
+2455646	2455982	66456	66788	Raoultella_ornithinolytica_NZ_CP138913.1	contig_808	98.52		True
+unknown
+1330570	1331054	68220	67737	Raoultella_ornithinolytica_NZ_CP138913.1	contig_808	98.76		True
+unknown
+5223333	5223685	75026	74675	Raoultella_ornithinolytica_NZ_CP138913.1	contig_808	99.15		True
+unknown
+5222346	5223685	76372	75034	Raoultella_ornithinolytica_NZ_CP138913.1	contig_808	93.36		True
+unknown
+4789092	4790226	104814	103681	Raoultella_ornithinolytica_NZ_CP138913.1	contig_808	96.04		True
+unknown
+2461545	2462257	153118	152406	Raoultella_ornithinolytica_NZ_CP138913.1	contig_808	99.3		True
+unknown
+CONTIG	contig_808	325951	mis_unaligned
+2710791	2736732	25812	5	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8094	96.38		True
+local misassembly
+2710389	2710790	26448	26029	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8094	90.12		True
+CONTIG	contig_8094	26457	correct
+1330286	1331054	208038	208800	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8097	96.89		True
+CONTIG	contig_8097	218184	correct_unaligned
+4808802	4810314	19411	20902	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8114	95.34		True
+CONTIG	contig_8114	20914	correct_unaligned
+1351927	1352002	4737	4662	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8217	100.0		True
+CONTIG	contig_8217	334497	correct_unaligned
+1922655	1931330	4	8666	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8237	99.11		True
+relocation, inconsistency = 1200
+1932531	1951124	8667	27275	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8237	97.99		True
+CONTIG	contig_8237	27281	misassembled
+1213203	1226278	13034	2	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8312	98.36		True
+CONTIG	contig_8312	13048	correct
+3033562	3033839	41699	41423	Raoultella_ornithinolytica_NZ_CP138913.1	contig_832	92.81		True
+unknown
+2996128	2999001	76844	73992	Raoultella_ornithinolytica_NZ_CP138913.1	contig_832	90.11		True
+unknown
+2973428	2973602	99580	99409	Raoultella_ornithinolytica_NZ_CP138913.1	contig_832	92.57		True
+unknown
+2766182	2767010	240985	240158	Raoultella_ornithinolytica_NZ_CP138913.1	contig_832	90.47		True
+unknown
+2761385	2762147	245648	244889	Raoultella_ornithinolytica_NZ_CP138913.1	contig_832	96.07		True
+unknown
+2652630	2653894	369658	368403	Raoultella_ornithinolytica_NZ_CP138913.1	contig_832	93.46		True
+unknown
+1633535	1636625	427175	430269	Raoultella_ornithinolytica_NZ_CP138913.1	contig_832	90.08		True
+unknown
+1828112	1828254	540359	540503	Raoultella_ornithinolytica_NZ_CP138913.1	contig_832	91.16		True
+unknown
+1844814	1845004	556097	556287	Raoultella_ornithinolytica_NZ_CP138913.1	contig_832	91.62		True
+unknown
+2155304	2156101	656506	657310	Raoultella_ornithinolytica_NZ_CP138913.1	contig_832	98.88		True
+unknown
+CONTIG	contig_832	810134	mis_unaligned
+144151	144286	3838	3706	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8333	94.85		True
+CONTIG	contig_8333	14747	correct_unaligned
+4414139	4415342	1292	2493	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8350	99.17		True
+CONTIG	contig_8350	14041	correct_unaligned
+3308129	3308719	57294	56706	Raoultella_ornithinolytica_NZ_CP138913.1	contig_84	90.69		True
+unknown
+3300604	3300825	79557	79336	Raoultella_ornithinolytica_NZ_CP138913.1	contig_84	95.95		True
+unknown
+3271139	3271688	109940	109402	Raoultella_ornithinolytica_NZ_CP138913.1	contig_84	93.09		True
+unknown
+3221913	3223990	168885	166811	Raoultella_ornithinolytica_NZ_CP138913.1	contig_84	90.95		True
+unknown
+3211479	3211917	193969	193535	Raoultella_ornithinolytica_NZ_CP138913.1	contig_84	92.48		True
+unknown
+CONTIG	contig_84	279243	mis_unaligned
+1811597	1816990	1	5399	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8417	97.9		True
+relocation, inconsistency = 1105
+1818110	1831390	5414	18655	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8417	95.12		True
+CONTIG	contig_8417	18658	misassembled
+1429464	1429917	176144	176595	Raoultella_ornithinolytica_NZ_CP138913.1	contig_842	95.81		True
+unknown
+1614295	1616855	287831	290389	Raoultella_ornithinolytica_NZ_CP138913.1	contig_842	90.02		True
+unknown
+CONTIG	contig_842	395978	mis_unaligned
+1298187	1298372	9681	9865	Raoultella_ornithinolytica_NZ_CP138913.1	contig_843	90.32		True
+CONTIG	contig_843	18773	correct_unaligned
+2456683	2461548	1	4892	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8479	96.47		True
+relocation, inconsistency = -3321
+2462744	2467302	9409	13960	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8479	98.21		True
+CONTIG	contig_8479	14814	misassembled
+4576212	4576324	70353	70241	Raoultella_ornithinolytica_NZ_CP138913.1	contig_848	93.81		True
+CONTIG	contig_848	392937	correct_unaligned
+2454782	2455885	3268	4368	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8492	98.82		True
+CONTIG	contig_8492	6298	correct_unaligned
+3033566	3033836	5586	5317	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8535	94.46		True
+CONTIG	contig_8535	11028	correct_unaligned
+1291416	1292468	14971	13933	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8536	92.02		True
+CONTIG	contig_8536	16846	correct_unaligned
+5358480	5360214	1832	99	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8571	96.79		True
+CONTIG	contig_8571	18351	correct_unaligned
+4917799	4928473	4069	14744	Raoultella_ornithinolytica_NZ_CP138913.1	contig_858	92.23		True
+CONTIG	contig_858	15641	correct
+204233	205340	6570	5466	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8586	93.5		True
+unknown
+202853	204097	7842	6601	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8586	90.2		True
+unknown
+CONTIG	contig_8586	9093	mis_unaligned
+4903461	4913789	19	10316	Raoultella_ornithinolytica_NZ_CP138913.1	contig_859	98.4		True
+relocation, inconsistency = -1164
+4914985	4953955	12676	51602	Raoultella_ornithinolytica_NZ_CP138913.1	contig_859	98.49		True
+CONTIG	contig_859	51602	misassembled
+1395273	1396327	10193	9137	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8774	96.81		True
+unknown
+2120583	2121645	28118	29205	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8774	96.43		True
+unknown
+CONTIG	contig_8774	66658	mis_unaligned
+5365038	5366476	30988	29553	Raoultella_ornithinolytica_NZ_CP138913.1	contig_88	91.81		True
+unknown
+5358482	5363321	49436	44472	Raoultella_ornithinolytica_NZ_CP138913.1	contig_88	93.21		True
+unknown
+5353625	5353812	54348	54161	Raoultella_ornithinolytica_NZ_CP138913.1	contig_88	91.49		True
+unknown
+CONTIG	contig_88	60106	mis_unaligned
+3573351	3573443	19374	19466	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8831	96.77		True
+CONTIG	contig_8831	28591	correct_unaligned
+3886862	3887448	14053	13467	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8898	93.19		True
+unknown
+3848178	3848390	35976	35764	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8898	90.61		True
+unknown
+3839291	3842990	44780	41075	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8898	90.07		True
+unknown
+CONTIG	contig_8898	44810	mis_unaligned
+4618735	4621120	2354	1	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8984	91.83		True
+unknown
+4618593	4618686	2448	2355	Raoultella_ornithinolytica_NZ_CP138913.1	contig_8984	97.87		True
+unknown
+CONTIG	contig_8984	169114	mis_unaligned
+4809960	4813827	1	3890	Raoultella_ornithinolytica_NZ_CP138913.1	contig_91	96.01		True
+CONTIG	contig_91	4189	correct
+573619	574817	88480	89676	Raoultella_ornithinolytica_NZ_CP138913.1	contig_9143	98.75		True
+unknown
+1351926	1352002	103447	103523	Raoultella_ornithinolytica_NZ_CP138913.1	contig_9143	100.0		True
+unknown
+1351925	1352002	103547	103624	Raoultella_ornithinolytica_NZ_CP138913.1	contig_9143	100.0		True
+unknown
+1351926	1352002	103657	103733	Raoultella_ornithinolytica_NZ_CP138913.1	contig_9143	100.0		True
+unknown
+1351925	1352002	103756	103833	Raoultella_ornithinolytica_NZ_CP138913.1	contig_9143	100.0		True
+unknown
+1351926	1352002	103857	103933	Raoultella_ornithinolytica_NZ_CP138913.1	contig_9143	100.0		True
+unknown
+1351926	1352002	103957	104033	Raoultella_ornithinolytica_NZ_CP138913.1	contig_9143	100.0		True
+unknown
+1351926	1352002	104057	104133	Raoultella_ornithinolytica_NZ_CP138913.1	contig_9143	100.0		True
+unknown
+CONTIG	contig_9143	308233	mis_unaligned
+731378	731822	10665	11109	Raoultella_ornithinolytica_NZ_CP138913.1	contig_92	90.02		True
+unknown
+4832920	4839975	112923	105876	Raoultella_ornithinolytica_NZ_CP138913.1	contig_92	92.06		True
+unknown
+4813883	4813962	131986	131907	Raoultella_ornithinolytica_NZ_CP138913.1	contig_92	98.75		True
+unknown
+4808802	4813827	137206	132071	Raoultella_ornithinolytica_NZ_CP138913.1	contig_92	92.5		True
+unknown
+4801093	4801222	144885	144756	Raoultella_ornithinolytica_NZ_CP138913.1	contig_92	95.38		True
+unknown
+4791384	4794987	154884	151282	Raoultella_ornithinolytica_NZ_CP138913.1	contig_92	90.45		True
+unknown
+4751360	4752147	168893	168106	Raoultella_ornithinolytica_NZ_CP138913.1	contig_92	90.04		True
+unknown
+4706371	4707799	224667	223234	Raoultella_ornithinolytica_NZ_CP138913.1	contig_92	96.12		True
+unknown
+CONTIG	contig_92	224667	mis_unaligned
+4598331	4599646	17603	18916	Raoultella_ornithinolytica_NZ_CP138913.1	contig_9203	92.56		True
+CONTIG	contig_9203	18916	correct_unaligned
+241355	255981	92	14720	Raoultella_ornithinolytica_NZ_CP138913.1	contig_9261	98.45		True
+local misassembly
+257605	269210	15809	27372	Raoultella_ornithinolytica_NZ_CP138913.1	contig_9261	98.65		True
+relocation, inconsistency = -16181
+270266	281377	44609	55691	Raoultella_ornithinolytica_NZ_CP138913.1	contig_9261	98.44		True
+CONTIG	contig_9261	55691	misassembled
+207039	241510	1	34436	Raoultella_ornithinolytica_NZ_CP138913.1	contig_9275	98.47		True
+local misassembly
+241525	244814	34704	38021	Raoultella_ornithinolytica_NZ_CP138913.1	contig_9275	94.75		True
+relocation, inconsistency = -1864
+245026	253030	40097	48111	Raoultella_ornithinolytica_NZ_CP138913.1	contig_9275	94.94		True
+CONTIG	contig_9275	48111	misassembled
+4872993	4888279	40909	25609	Raoultella_ornithinolytica_NZ_CP138913.1	contig_9282	97.13		True
+CONTIG	contig_9282	40915	correct_unaligned
+4808804	4811934	3208	111	Raoultella_ornithinolytica_NZ_CP138913.1	contig_93	95.65		True
+unknown
+4547234	4548856	25634	24014	Raoultella_ornithinolytica_NZ_CP138913.1	contig_93	90.14		True
+unknown
+4543841	4544198	31784	31431	Raoultella_ornithinolytica_NZ_CP138913.1	contig_93	92.74		True
+unknown
+CONTIG	contig_93	31788	mis_unaligned
+864589	906441	1	41866	Raoultella_ornithinolytica_NZ_CP138913.1	contig_9327	97.92		True
+CONTIG	contig_9327	41930	correct
+3909539	3912397	2853	1	Raoultella_ornithinolytica_NZ_CP138913.1	contig_9352	99.41		True
+CONTIG	contig_9352	2853	correct
+4595612	4612548	16902	1	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	97.25		True
+local misassembly
+4579930	4594015	32565	18509	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.62		True
+relocation, inconsistency = 764323
+5358452	5363323	32679	37695	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.33		True
+indel: indel (> 5bp)
+5363504	5363649	37869	38014	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	96.58		True
+relocation, inconsistency = 788296
+4561335	4574974	51793	38248	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.58		True
+local misassembly
+4547066	4560498	65278	51908	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.3		True
+local misassembly
+4516389	4547058	96071	65551	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.13		True
+relocation, inconsistency = 16232
+4461645	4499822	134600	96406	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	97.38		True
+local misassembly
+4455611	4461322	140330	134625	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.4		True
+local misassembly
+4453623	4455360	142313	140580	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.12		True
+relocation, inconsistency = 2501
+4447877	4450948	145551	142487	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.67		True
+relocation, inconsistency = -24995
+4383567	4411793	234870	206630	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.29		True
+relocation, inconsistency = -9680
+4335597	4383520	292377	244597	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.36		True
+relocation, inconsistency = 4363
+4320597	4331177	303017	292434	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.79		True
+indel: indel (> 5bp)
+4314359	4320371	309178	303181	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.97		True
+local misassembly
+4285700	4313692	337267	309306	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.8		True
+local misassembly
+4285054	4285241	337514	337327	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.42		True
+relocation, inconsistency = 1614
+4269722	4283439	351269	337515	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.81		True
+relocation, inconsistency = 7072
+4250793	4262158	363243	351761	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.27		True
+local misassembly
+4241141	4249817	371857	363395	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	91.23		True
+relocation, inconsistency = -1341
+4234221	4240661	380094	373678	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.39		True
+relocation, inconsistency = 3635421
+583703	584932	393962	395188	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.85		True
+relocation, inconsistency = 2072407
+2697707	2698402	435556	436250	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	96.41		True
+relocation, inconsistency = -3638
+2698577	2698888	440063	440372	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.59		True
+relocation, inconsistency = 1362163
+1330286	1331054	446497	445732	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	99.61		True
+relocation, inconsistency = -2921245
+4217784	4218468	480239	479560	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.58		True
+local misassembly
+4210023	4215877	487709	481859	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.86		True
+relocation, inconsistency = 15595
+4179270	4193023	502804	489114	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.36		True
+relocation, inconsistency = -634657
+4808813	4813855	508067	502876	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.3		True
+relocation, inconsistency = 634296
+4173394	4173946	509186	508638	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.86		True
+relocation, inconsistency = 5225
+4165387	4168102	511963	509253	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.01		True
+relocation, inconsistency = 3180
+4148542	4162206	525527	511964	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.14		True
+relocation, inconsistency = -7497
+4140761	4148374	540662	533192	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	90.79		True
+relocation, inconsistency = 3246
+4130195	4134509	547952	543668	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.23		True
+relocation, inconsistency = 1036
+4128387	4128970	548720	548141	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.12		True
+relocation, inconsistency = -1549
+4112361	4128036	566184	550620	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.94		True
+relocation, inconsistency = 18087
+4024474	4093584	635789	566874	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.51		True
+relocation, inconsistency = 1327
+4021855	4023146	637081	635790	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.66		True
+relocation, inconsistency = 7213
+3961170	4014449	690339	637274	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.86		True
+local misassembly
+3924500	3960561	726937	690943	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.45		True
+relocation, inconsistency = 2143
+3912215	3922088	737075	727206	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.13		True
+relocation, inconsistency = 2495
+3899138	3909573	747491	737222	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.82		True
+relocation, inconsistency = -17793
+3894099	3899156	770313	765266	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.75		True
+local misassembly
+3883080	3892944	780326	770547	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.64		True
+relocation, inconsistency = 16268
+3809170	3866554	838066	780584	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.76		True
+relocation, inconsistency = -1004799
+4812094	4813855	839937	838180	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	98.98		True
+local misassembly
+4808986	4812068	843359	840283	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	97.74		True
+relocation, inconsistency = 1004568
+3794492	3804050	853228	843727	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.25		True
+relocation, inconsistency = -988650
+4781343	4782858	855026	853512	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.82		True
+relocation, inconsistency = 983756
+3780087	3787992	872520	864621	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.74		True
+local misassembly
+3776679	3779298	875920	873307	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	90.76		True
+local misassembly
+3771006	3776580	881792	876235	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.6		True
+local misassembly
+3762688	3770316	889545	881929	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.77		True
+relocation, inconsistency = -35936
+3753708	3757440	934451	930729	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.58		True
+local misassembly
+3745725	3752950	941815	934618	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.24		True
+relocation, inconsistency = 1588
+3732159	3743955	953853	941997	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.39		True
+local misassembly
+3729471	3731913	956807	954372	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	91.85		True
+local misassembly
+3725955	3729324	960551	957174	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.73		True
+indel: indel (> 5bp)
+3721174	3725954	965387	960601	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	91.64		True
+indel: indel (> 5bp)
+3715439	3721032	970945	965388	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	91.6		True
+local misassembly
+3688922	3713021	996425	972397	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.81		True
+local misassembly
+3676330	3688166	1008307	996493	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.44		True
+relocation, inconsistency = 8543
+3640041	3667625	1036022	1008469	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.39		True
+local misassembly
+3599437	3639044	1075674	1036294	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.85		True
+local misassembly
+3599158	3599372	1076294	1076081	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.42		True
+relocation, inconsistency = -4762
+3550871	3599185	1129196	1081029	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.16		True
+relocation, inconsistency = -5776
+3540319	3550850	1145495	1134993	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	97.22		True
+relocation, inconsistency = -1425
+3525511	3540195	1161797	1147044	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.65		True
+relocation, inconsistency = -8357
+3522198	3524355	1173458	1171310	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.45		True
+local misassembly
+3519668	3521385	1175502	1173787	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.36		True
+relocation, inconsistency = 4944
+3504369	3511382	1185929	1178844	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	91.27		True
+local misassembly
+3502364	3503921	1187893	1186337	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.59		True
+relocation, inconsistency = 9353
+3488132	3492024	1192766	1188880	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.0		True
+relocation, inconsistency = 2042
+3478545	3485985	1200308	1192871	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.47		True
+relocation, inconsistency = 4528
+3467283	3473909	1207031	1200416	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.69		True
+relocation, inconsistency = 2277
+3461198	3464797	1210827	1207240	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	90.14		True
+relocation, inconsistency = 1339
+3454442	3459367	1216236	1211319	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.05		True
+relocation, inconsistency = 3028
+3442151	3451211	1225478	1216439	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.61		True
+relocation, inconsistency = 3703
+3436773	3438346	1227150	1225580	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.55		True
+relocation, inconsistency = 3436
+3432811	3433256	1227674	1227231	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	91.03		True
+local misassembly
+3415981	3431833	1243632	1227820	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.45		True
+relocation, inconsistency = 4300
+3396244	3411647	1258895	1243666	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.57		True
+local misassembly
+3386714	3395294	1267546	1259035	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.94		True
+relocation, inconsistency = 16338
+3369725	3369856	1268197	1268066	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	97.74		True
+local misassembly
+3349686	3369162	1287948	1268198	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.81		True
+local misassembly
+3346922	3349450	1290499	1287977	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.69		True
+local misassembly
+3337331	3346037	1299319	1290598	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.12		True
+relocation, inconsistency = 9162
+3316171	3327932	1311288	1299556	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	96.52		True
+local misassembly
+3258176	3315503	1368582	1311438	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.52		True
+local misassembly
+3237763	3257881	1388892	1368814	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.67		True
+relocation, inconsistency = 1717
+3234513	3235949	1390422	1388989	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.74		True
+local misassembly
+3215414	3233822	1408799	1390544	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.17		True
+local misassembly
+3185288	3214791	1438819	1409473	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.48		True
+local misassembly
+3180014	3184385	1443196	1438849	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.8		True
+local misassembly
+3179052	3179350	1443509	1443212	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.98		True
+local misassembly
+3161045	3178550	1461024	1443560	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.64		True
+local misassembly
+3124955	3159996	1495814	1461119	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.58		True
+local misassembly
+3099059	3124683	1521207	1495838	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.78		True
+relocation, inconsistency = -2019
+3087749	3097364	1534509	1524921	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.15		True
+relocation, inconsistency = 10093
+3062490	3077376	1549635	1534789	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.49		True
+relocation, inconsistency = -5698
+3058562	3062202	1559254	1555621	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.66		True
+relocation, inconsistency = 2949
+3048890	3055146	1565965	1559721	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.47		True
+local misassembly
+3043474	3048439	1571452	1566415	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	90.88		True
+relocation, inconsistency = 1200
+3025506	3042232	1588168	1571494	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.7		True
+local misassembly
+3013869	3025431	1600127	1588584	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.24		True
+relocation, inconsistency = 4778
+3002549	3008973	1606801	1600245	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.66		True
+local misassembly
+2969933	3002018	1638932	1606951	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.15		True
+relocation, inconsistency = 14832
+2952338	2955100	1641694	1638933	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.58		True
+relocation, inconsistency = -1372
+2918216	2952276	1677096	1643128	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.73		True
+relocation, inconsistency = 15427
+2887474	2892353	1692395	1687532	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	91.26		True
+relocation, inconsistency = 4858
+2843077	2876116	1731825	1698895	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.24		True
+relocation, inconsistency = 9829
+2832096	2833036	1732985	1732037	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	91.53		True
+local misassembly
+2805997	2831155	1758272	1733086	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.07		True
+relocation, inconsistency = -12562
+2773872	2799739	1802851	1777092	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.36		True
+local misassembly
+2768083	2772662	1807845	1803273	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	96.07		True
+local misassembly
+2754260	2767695	1821307	1807904	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	96.43		True
+relocation, inconsistency = 2376
+2731435	2751742	1841706	1821449	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.46		True
+relocation, inconsistency = 9803
+2719443	2721112	1843893	1842226	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	90.25		True
+relocation, inconsistency = 3045
+2710153	2716193	1850109	1844098	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.31		True
+local misassembly
+2706159	2709823	1853810	1850151	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.54		True
+local misassembly
+2699853	2705789	1859835	1853911	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.6		True
+relocation, inconsistency = 3291
+2695518	2696352	1860878	1860045	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.25		True
+local misassembly
+2686123	2689735	1870309	1866657	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	90.04		True
+relocation, inconsistency = -6594
+2666675	2685924	1896232	1877102	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	90.72		True
+relocation, inconsistency = 1634
+2664559	2664956	1896712	1896317	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.47		True
+relocation, inconsistency = 1732
+2651699	2662639	1907836	1896900	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.63		True
+relocation, inconsistency = 1271
+2645469	2649977	1912657	1908287	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	91.18		True
+relocation, inconsistency = 1052
+2643379	2644326	1913693	1912748	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.2		True
+local misassembly
+2639001	2642154	1917064	1913925	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.5		True
+local misassembly
+2612146	2637958	1942886	1917136	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.15		True
+relocation, inconsistency = 2388
+2604208	2609676	1948481	1942968	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.58		True
+relocation, inconsistency = 3612
+2597581	2600347	1951486	1948730	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.84		True
+local misassembly
+2591227	2596176	1957119	1952195	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	91.09		True
+relocation, inconsistency = -11839
+2582823	2591164	1977344	1969021	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.55		True
+relocation, inconsistency = -16712
+2581292	2582233	1995586	1994646	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.33		True
+relocation, inconsistency = 4784
+2569122	2576424	2002937	1995670	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.83		True
+local misassembly
+2554961	2568907	2017161	2003152	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.93		True
+local misassembly
+2549594	2554354	2022165	2017411	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.85		True
+relocation, inconsistency = 1387
+2545337	2548033	2025036	2022339	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.77		True
+relocation, inconsistency = -4745
+2541483	2545344	2033613	2029774	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.14		True
+relocation, inconsistency = 8068
+2520705	2533342	2046296	2033686	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.15		True
+relocation, inconsistency = -836845
+3328317	3332019	2075525	2071827	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	90.1		True
+relocation, inconsistency = 822464
+2494987	2499018	2086375	2082360	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.73		True
+relocation, inconsistency = -51056
+2456673	2461548	2175747	2170870	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.71		True
+relocation, inconsistency = 1289
+2451118	2454782	2180006	2176349	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.22		True
+relocation, inconsistency = -4995
+2447312	2450004	2188805	2186115	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.44		True
+local misassembly
+2441011	2447108	2194862	2188806	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	91.47		True
+indel: indel (> 5bp)
+2438199	2440965	2197630	2194863	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.49		True
+relocation, inconsistency = 1786
+2418166	2436313	2215850	2197730	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.83		True
+local misassembly
+2412582	2417389	2220650	2215853	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.64		True
+local misassembly
+2411305	2412056	2222260	2221511	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.16		True
+relocation, inconsistency = 4542
+2405254	2406614	2223769	2222409	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.34		True
+relocation, inconsistency = 8000
+2395953	2396797	2225061	2224226	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	90.43		True
+relocation, inconsistency = 1632
+2388411	2394245	2230942	2225137	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	90.66		True
+local misassembly
+2383578	2386153	2235470	2232909	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	90.18		True
+relocation, inconsistency = -10422
+2382232	2383497	2247230	2245973	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	90.63		True
+relocation, inconsistency = -3309
+2371260	2382391	2261442	2250380	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.24		True
+local misassembly
+2368427	2370487	2263688	2261631	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.42		True
+local misassembly
+2361735	2368370	2271318	2264697	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.01		True
+relocation, inconsistency = 14268
+2345841	2347466	2272936	2271319	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.71		True
+local misassembly
+2338745	2345113	2279509	2273152	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.7		True
+local misassembly
+2335654	2338307	2282288	2279644	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.8		True
+relocation, inconsistency = 8291
+2319802	2326947	2289827	2282704	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.65		True
+relocation, inconsistency = -2261
+2308697	2315069	2303164	2296821	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	91.35		True
+relocation, inconsistency = 1795
+2299797	2305650	2310272	2304416	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.28		True
+relocation, inconsistency = 1228
+2290194	2298438	2318633	2310403	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.32		True
+relocation, inconsistency = -2951
+2288128	2289070	2323646	2322708	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.17		True
+relocation, inconsistency = 7056
+2274594	2279703	2330201	2325015	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	91.67		True
+relocation, inconsistency = 8798
+2260720	2263371	2335274	2332626	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	91.77		True
+relocation, inconsistency = 6737
+2247639	2253982	2341604	2335275	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.44		True
+relocation, inconsistency = 1477
+2237537	2246025	2350210	2341741	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.94		True
+relocation, inconsistency = 1165
+2232461	2236211	2354098	2350371	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	90.06		True
+relocation, inconsistency = 1162
+2218885	2231102	2366379	2354295	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.74		True
+relocation, inconsistency = -2307
+2210189	2212645	2377376	2374926	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.04		True
+relocation, inconsistency = 10003
+2197869	2199921	2379686	2377641	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.4		True
+relocation, inconsistency = 9254
+2187725	2188531	2380574	2379770	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	91.08		True
+relocation, inconsistency = 4696
+2176353	2182861	2387238	2380742	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.27		True
+relocation, inconsistency = 5238
+2158551	2169494	2399733	2388859	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.58		True
+relocation, inconsistency = -17053
+2155304	2157482	2420030	2417855	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	99.45		True
+relocation, inconsistency = -16585
+2126972	2143981	2464935	2447938	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.4		True
+relocation, inconsistency = -2433
+2122803	2125189	2471536	2469151	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	91.5		True
+relocation, inconsistency = 2955
+2109945	2118837	2481424	2472547	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	91.58		True
+relocation, inconsistency = 1054
+2103799	2108870	2486489	2481445	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.68		True
+relocation, inconsistency = 6137
+2077934	2088027	2506195	2496124	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	90.88		True
+local misassembly
+2075967	2076592	2507217	2506593	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	90.26		True
+relocation, inconsistency = 1947
+2054194	2066567	2527009	2514670	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.03		True
+indel: indel (> 5bp)
+2044573	2053999	2536606	2527195	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.15		True
+relocation, inconsistency = 30154
+1996002	2005110	2554965	2545915	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	91.79		True
+local misassembly
+1987178	1995311	2564508	2556404	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	90.49		True
+relocation, inconsistency = 947328
+2965477	2966277	2587346	2588145	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	90.9		True
+relocation, inconsistency = 967445
+1971068	1972366	2615108	2613811	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	90.92		True
+relocation, inconsistency = 2634
+1963187	1968001	2620342	2615541	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.56		True
+local misassembly
+1945217	1962259	2637550	2620492	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.75		True
+local misassembly
+1936499	1944716	2646383	2638181	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.25		True
+relocation, inconsistency = 1373
+1932532	1935012	2648946	2646497	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.02		True
+relocation, inconsistency = 1200
+1920766	1931326	2659492	2648952	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.65		True
+local misassembly
+1917053	1920350	2663205	2659914	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.54		True
+relocation, inconsistency = 1698
+1903038	1915229	2675494	2663331	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.5		True
+local misassembly
+1891155	1902438	2686783	2675539	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.07		True
+local misassembly
+1874049	1891160	2703942	2687043	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.98		True
+relocation, inconsistency = 1592
+1869601	1872451	2706788	2703948	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.96		True
+relocation, inconsistency = 1430
+1846963	1866479	2728063	2708480	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.28		True
+local misassembly
+1835934	1845348	2738712	2729392	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.62		True
+relocation, inconsistency = -5517
+1834742	1835844	2745417	2744319	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.22		True
+local misassembly
+1821538	1834316	2758139	2745430	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.3		True
+relocation, inconsistency = -1027
+1818168	1818815	2762537	2761889	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.62		True
+relocation, inconsistency = 3923
+1809132	1809892	2767650	2766890	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.09		True
+relocation, inconsistency = 29151
+1778492	1779884	2769134	2767747	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.54		True
+local misassembly
+1775841	1778133	2771432	2769145	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.46		True
+relocation, inconsistency = 1121
+1764656	1774492	2781469	2771660	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.3		True
+relocation, inconsistency = 3892
+1760278	1760694	2781938	2781539	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	90.65		True
+relocation, inconsistency = 6676
+1748011	1753561	2787514	2781979	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.35		True
+relocation, inconsistency = 11160
+1721860	1736765	2802474	2787600	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.84		True
+local misassembly
+1717321	1717403	2806982	2806900	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	96.39		True
+local misassembly
+1699548	1715663	2824719	2808628	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.88		True
+relocation, inconsistency = 10601
+1644824	1688047	2868711	2825619	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.96		True
+relocation, inconsistency = 4247
+1627437	1640548	2881794	2868740	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.61		True
+relocation, inconsistency = -4192
+1606748	1627407	2906592	2886016	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.12		True
+local misassembly
+1564194	1606446	2949126	2906953	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.07		True
+relocation, inconsistency = -6323
+1557459	1559677	2962180	2959966	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.49		True
+local misassembly
+1545716	1556898	2973322	2962183	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.65		True
+local misassembly
+1540951	1545054	2977785	2973692	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.25		True
+relocation, inconsistency = 14012
+1524517	1526612	2980207	2978112	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.72		True
+relocation, inconsistency = -4309
+1523703	1524472	2985329	2984561	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	90.56		True
+relocation, inconsistency = 17330
+1505820	1506181	2985882	2985521	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	91.44		True
+relocation, inconsistency = -3048
+1503150	1505346	2991575	2989404	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	91.87		True
+relocation, inconsistency = 6878
+1487973	1495124	2999862	2992723	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.03		True
+relocation, inconsistency = 6445
+1473872	1480470	3007441	3000920	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	91.37		True
+relocation, inconsistency = 6426
+1457728	1467445	3016824	3007442	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	90.23		True
+relocation, inconsistency = 1610
+1454943	1456019	3017993	3016923	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	91.59		True
+relocation, inconsistency = -8384
+1396400	1454860	3084783	3026460	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.17		True
+relocation, inconsistency = 1067
+1373620	1395147	3106439	3084969	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.45		True
+relocation, inconsistency = 2755
+1362775	1370515	3114511	3106789	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.23		True
+local misassembly
+1355308	1362432	3121947	3114849	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.06		True
+local misassembly
+1331054	1354927	3145750	3121972	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.68		True
+local misassembly
+1328681	1329896	3147319	3146105	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	91.13		True
+local misassembly
+1328408	1328500	3147806	3147714	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	96.51		True
+relocation, inconsistency = 18616
+1308571	1309791	3149023	3147807	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.93		True
+relocation, inconsistency = -14691
+1298309	1301725	3173975	3170560	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.96		True
+relocation, inconsistency = 39514
+1229351	1258794	3203370	3173976	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	98.51		True
+relocation, inconsistency = -28011
+1222089	1228270	3238740	3232462	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	90.87		True
+relocation, inconsistency = 17090
+1187066	1193187	3256650	3250552	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.7		True
+local misassembly
+1163963	1186077	3278680	3256651	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.53		True
+local misassembly
+1150405	1152942	3292455	3289906	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	91.25		True
+relocation, inconsistency = 3797
+1115934	1121682	3323121	3317381	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.95		True
+relocation, inconsistency = -3009
+1109751	1111180	3332305	3330884	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.66		True
+relocation, inconsistency = -8143
+1079207	1109644	3370890	3340555	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.8		True
+relocation, inconsistency = 1535
+1070616	1077632	3377935	3370930	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.55		True
+local misassembly
+1055859	1065360	3392262	3382791	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.72		True
+local misassembly
+1037887	1055150	3410322	3393063	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.68		True
+local misassembly
+1032687	1037077	3414931	3410558	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.93		True
+relocation, inconsistency = -4114
+1018210	1032666	3433355	3419066	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.66		True
+relocation, inconsistency = 1819
+1003612	1016245	3446086	3433501	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.05		True
+relocation, inconsistency = -2809
+1002563	1003447	3449942	3449060	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.82		True
+local misassembly
+983956	1002106	3468062	3449972	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.98		True
+relocation, inconsistency = 2126
+964190	981792	3485526	3468100	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.77		True
+relocation, inconsistency = 1199
+941261	962990	3507395	3485527	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.36		True
+relocation, inconsistency = 4587
+898332	936631	3545783	3507438	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.97		True
+relocation, inconsistency = -5228
+891798	898164	3557532	3551179	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.58		True
+local misassembly
+874567	890618	3574823	3558757	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.12		True
+relocation, inconsistency = 4626
+868459	869790	3576303	3574974	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.1		True
+local misassembly
+853823	867737	3590242	3576365	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.69		True
+local misassembly
+850543	853074	3593487	3590972	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.97		True
+relocation, inconsistency = -21500
+843321	846447	3622199	3619083	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	91.17		True
+relocation, inconsistency = 3724
+806930	839464	3654386	3622332	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.81		True
+local misassembly
+781801	806284	3678645	3654419	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.44		True
+relocation, inconsistency = 4592
+747809	777108	3708097	3678746	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.05		True
+relocation, inconsistency = 1382
+738031	742625	3716486	3711899	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.63		True
+relocation, inconsistency = 21220
+692816	709515	3740458	3723782	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.87		True
+relocation, inconsistency = 2968
+674595	689685	3755670	3740621	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.96		True
+relocation, inconsistency = 3364
+664280	664919	3762619	3761982	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.75		True
+relocation, inconsistency = -5434
+660965	664252	3771362	3768081	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.41		True
+relocation, inconsistency = -13330
+656801	660857	3788843	3784800	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.9		True
+local misassembly
+624079	656621	3821500	3789046	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	96.04		True
+local misassembly
+601540	623658	3844322	3821973	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.35		True
+indel: indel (> 5bp)
+591370	601352	3854439	3844500	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.54		True
+relocation, inconsistency = -11986
+538086	566010	3919678	3891785	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	97.84		True
+local misassembly
+529357	537514	3927818	3919680	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.62		True
+local misassembly
+525317	525501	3931849	3931666	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	90.81		True
+local misassembly
+519334	523657	3937787	3933485	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.92		True
+relocation, inconsistency = 1549
+463764	517729	3991444	3937843	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.55		True
+local misassembly
+418379	463361	4036666	3991758	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.37		True
+relocation, inconsistency = 12006
+401887	406288	4041144	4036751	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.46		True
+local misassembly
+400258	401680	4042566	4041149	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.34		True
+local misassembly
+398713	399545	4044058	4043226	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.56		True
+relocation, inconsistency = 3269
+318471	395342	4120740	4044160	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.7		True
+local misassembly
+273404	318188	4165426	4120741	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.32		True
+local misassembly
+270266	273036	4168543	4165778	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	91.41		True
+relocation, inconsistency = 23730
+227053	241283	4187986	4173796	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.97		True
+relocation, inconsistency = 3483
+212662	223398	4198877	4188158	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.11		True
+local misassembly
+206608	211296	4204611	4199940	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.99		True
+local misassembly
+198446	205873	4212639	4205327	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.96		True
+relocation, inconsistency = 14346
+157808	184084	4239285	4212655	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.81		True
+local misassembly
+144195	157544	4252903	4239596	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.92		True
+relocation, inconsistency = 1227772
+1395275	1396330	4262862	4263915	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	97.25		True
+relocation, inconsistency = 3435457
+4848957	4849816	4281942	4281085	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.7		True
+relocation, inconsistency = 4686736
+118690	120298	4325470	4323865	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.34		True
+relocation, inconsistency = 2155
+112760	116448	4329233	4325557	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.93		True
+relocation, inconsistency = 4202
+95682	107902	4342214	4329889	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.3		True
+relocation, inconsistency = 2462
+41202	93101	4394080	4342333	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.61		True
+local misassembly
+32835	40222	4402890	4395571	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.21		True
+relocation, inconsistency = 1603
+27060	30968	4406998	4403154	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	91.17		True
+local misassembly
+10974	26348	4423093	4407708	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.5		True
+local misassembly
+1	9336	4433221	4423916	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.65		True
+indel: indel (<= 5bp) [linear representation of circular genome]
+5495921	5499324	4436624	4433227	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	96.24		True
+relocation, inconsistency = -3366
+5487693	5495495	4448188	4440416	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	97.08		True
+relocation, inconsistency = -2163
+5454440	5481748	4483496	4456296	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.7		True
+relocation, inconsistency = 2269
+5414169	5451855	4521421	4483812	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.75		True
+relocation, inconsistency = 5426
+5401438	5408423	4528703	4521741	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	96.14		True
+relocation, inconsistency = 6638
+5369392	5394717	4554048	4528786	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.24		True
+local misassembly
+5365032	5367762	4558399	4555676	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	96.74		True
+local misassembly
+5363836	5364293	4559463	4559008	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.58		True
+indel: stretch of mismatches
+5363374	5363652	4559923	4559647	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	91.9		True
+local misassembly
+5363504	5363614	4560152	4560042	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	98.2		True
+indel: indel (> 5bp)
+5257147	5363323	4666236	4560326	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.67		True
+relocation, inconsistency = -6531
+5224930	5257087	4705049	4672827	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.33		True
+relocation, inconsistency = 2493
+5210251	5222315	4717127	4705171	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.12		True
+local misassembly
+5206834	5209947	4720244	4717128	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.38		True
+relocation, inconsistency = 15117
+5172246	5191291	4739626	4720670	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.92		True
+local misassembly
+5169984	5171171	4740960	4739784	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	96.05		True
+relocation, inconsistency = 3806
+5159084	5166162	4747776	4740976	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	90.39		True
+relocation, inconsistency = -7712
+5125882	5158422	4788537	4756150	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.81		True
+relocation, inconsistency = 1034
+5106389	5124654	4807068	4788731	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.56		True
+relocation, inconsistency = -1811
+5067975	5105971	4847208	4809297	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.36		True
+local misassembly
+5059963	5066432	4855137	4848682	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.22		True
+relocation, inconsistency = 5749
+5044160	5047962	4865179	4861389	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	90.3		True
+local misassembly
+5042943	5043101	4865415	4865257	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.97		True
+local misassembly
+5024757	5042011	4882513	4865421	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.91		True
+local misassembly
+5018537	5023893	4887760	4882527	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	90.02		True
+local misassembly
+5009907	5014976	4896526	4891466	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	90.83		True
+relocation, inconsistency = -1119
+4999556	5009682	4908003	4897870	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.39		True
+relocation, inconsistency = 17001
+4962933	4982554	4927551	4908004	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.43		True
+relocation, inconsistency = 1242
+4954815	4961347	4934417	4927895	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.98		True
+indel: indel (> 5bp)
+4953948	4954649	4935278	4934577	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.45		True
+relocation, inconsistency = -6298
+4947552	4952137	4947943	4943387	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.01		True
+local misassembly
+4946734	4946878	4948159	4948015	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	96.55		True
+local misassembly
+4945123	4946262	4949308	4948171	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.7		True
+relocation, inconsistency = -1706
+4941303	4944945	4954821	4951192	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	93.74		True
+relocation, inconsistency = 10251
+4928426	4930886	4957441	4954987	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.37		True
+local misassembly
+4923135	4927627	4962078	4957591	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.35		True
+indel: indel (> 5bp)
+4922702	4922990	4962365	4962079	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.39		True
+relocation, inconsistency = 9043
+4903642	4908272	4972375	4967752	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.45		True
+relocation, inconsistency = -1382
+4879564	4903643	4997781	4973756	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.75		True
+relocation, inconsistency = 6467
+4849813	4872995	5021064	4997883	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.86		True
+relocation, inconsistency = 3451
+4791331	4846318	5076301	5021108	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.44		True
+relocation, inconsistency = 3204
+4770105	4787944	5094271	5076484	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.45		True
+relocation, inconsistency = -4162
+4765440	4770044	5103090	5098494	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.61		True
+relocation, inconsistency = 13072
+4710990	4752334	5144421	5103124	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.55		True
+relocation, inconsistency = -103020
+4812094	4814009	5146364	5144422	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	97.1		True
+local misassembly
+4808986	4812068	5149784	5146710	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	98.02		True
+relocation, inconsistency = 102610
+4673107	4706002	5182983	5150158	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	94.65		True
+local misassembly
+4655113	4672322	5200904	5183767	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.31		True
+local misassembly
+4621305	4653883	5233597	5201175	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	95.06		True
+relocation, inconsistency = -192701
+4812094	4814005	5235536	5233598	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	97.29		True
+local misassembly
+4808986	4812068	5238960	5235882	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	97.9		True
+relocation, inconsistency = 192439
+4612550	4616184	5242942	5239323	Raoultella_ornithinolytica_NZ_CP138913.1	contig_94	92.94		True
+CONTIG	contig_94	5242943	misassembled
+1395307	1396332	7446	8471	Raoultella_ornithinolytica_NZ_CP138913.1	contig_9438	99.32		True
+CONTIG	contig_9438	10282	correct_unaligned
+3078581	3079781	1747	538	Raoultella_ornithinolytica_NZ_CP138913.1	contig_9445	96.39		True
+unknown
+1330286	1330809	6052	5532	Raoultella_ornithinolytica_NZ_CP138913.1	contig_9445	98.28		True
+unknown
+CONTIG	contig_9445	58984	mis_unaligned
+212670	213492	1152	1976	Raoultella_ornithinolytica_NZ_CP138913.1	contig_9462	90.67		True
+CONTIG	contig_9462	34858	correct_unaligned
+4808813	4812068	3292	38	Raoultella_ornithinolytica_NZ_CP138913.1	contig_95	96.3		True
+unknown
+4705787	4706003	3555	3343	Raoultella_ornithinolytica_NZ_CP138913.1	contig_95	93.12		True
+unknown
+4670062	4670564	38684	38202	Raoultella_ornithinolytica_NZ_CP138913.1	contig_95	92.84		True
+unknown
+4669807	4669910	38930	38827	Raoultella_ornithinolytica_NZ_CP138913.1	contig_95	96.15		True
+unknown
+4812094	4813827	87670	85939	Raoultella_ornithinolytica_NZ_CP138913.1	contig_95	96.62		True
+unknown
+4808764	4812068	91322	88017	Raoultella_ornithinolytica_NZ_CP138913.1	contig_95	96.33		True
+unknown
+4801097	4801220	98891	98769	Raoultella_ornithinolytica_NZ_CP138913.1	contig_95	95.16		True
+unknown
+4744939	4745209	168309	168040	Raoultella_ornithinolytica_NZ_CP138913.1	contig_95	90.41		True
+unknown
+4737081	4737343	176218	175956	Raoultella_ornithinolytica_NZ_CP138913.1	contig_95	94.32		True
+unknown
+4812094	4813827	209464	207733	Raoultella_ornithinolytica_NZ_CP138913.1	contig_95	96.34		True
+unknown
+4808766	4812068	213100	209809	Raoultella_ornithinolytica_NZ_CP138913.1	contig_95	96.11		True
+unknown
+4600030	4612583	229127	216511	Raoultella_ornithinolytica_NZ_CP138913.1	contig_95	92.18		True
+unknown
+CONTIG	contig_95	229356	mis_unaligned
+4808802	4812047	3239	1	Raoultella_ornithinolytica_NZ_CP138913.1	contig_96	96.26		True
+unknown
+4543424	4544194	53940	53170	Raoultella_ornithinolytica_NZ_CP138913.1	contig_96	90.79		True
+unknown
+4808802	4813855	170030	164823	Raoultella_ornithinolytica_NZ_CP138913.1	contig_96	93.48		True
+unknown
+4399298	4401366	184735	182663	Raoultella_ornithinolytica_NZ_CP138913.1	contig_96	91.33		True
+unknown
+4347478	4348957	240431	238951	Raoultella_ornithinolytica_NZ_CP138913.1	contig_96	95.07		True
+unknown
+4321905	4322486	267454	266871	Raoultella_ornithinolytica_NZ_CP138913.1	contig_96	91.95		True
+unknown
+4077753	4078122	406263	405905	Raoultella_ornithinolytica_NZ_CP138913.1	contig_96	91.42		True
+unknown
+CONTIG	contig_96	415347	mis_unaligned
+4045166	4045296	28851	28721	Raoultella_ornithinolytica_NZ_CP138913.1	contig_97	91.6		True
+unknown
+4035075	4037751	39740	37071	Raoultella_ornithinolytica_NZ_CP138913.1	contig_97	90.58		True
+unknown
+3914270	3919050	165349	160577	Raoultella_ornithinolytica_NZ_CP138913.1	contig_97	90.32		True
+unknown
+3912665	3914115	166797	165350	Raoultella_ornithinolytica_NZ_CP138913.1	contig_97	91.45		True
+unknown
+3891355	3891492	188415	188278	Raoultella_ornithinolytica_NZ_CP138913.1	contig_97	90.58		True
+unknown
+3886864	3887448	192924	192339	Raoultella_ornithinolytica_NZ_CP138913.1	contig_97	91.99		True
+unknown
+4808802	4813855	264094	258888	Raoultella_ornithinolytica_NZ_CP138913.1	contig_97	93.57		True
+unknown
+4218548	4218982	342010	341577	Raoultella_ornithinolytica_NZ_CP138913.1	contig_97	93.1		True
+unknown
+3666683	3667211	437886	437359	Raoultella_ornithinolytica_NZ_CP138913.1	contig_97	90.74		True
+unknown
+3571949	3572252	505921	505619	Raoultella_ornithinolytica_NZ_CP138913.1	contig_97	90.13		True
+unknown
+3560246	3560796	517833	517283	Raoultella_ornithinolytica_NZ_CP138913.1	contig_97	90.74		True
+unknown
+CONTIG	contig_97	623432	mis_unaligned
+5343156	5347851	43	4730	Raoultella_ornithinolytica_NZ_CP138913.1	contig_98	94.35		True
+unknown
+5358480	5360214	15385	17117	Raoultella_ornithinolytica_NZ_CP138913.1	contig_98	96.96		True
+unknown
+5360240	5363316	17462	20529	Raoultella_ornithinolytica_NZ_CP138913.1	contig_98	96.92		True
+unknown
+5365039	5366476	32768	34198	Raoultella_ornithinolytica_NZ_CP138913.1	contig_98	92.0		True
+unknown
+5405922	5407785	68262	70117	Raoultella_ornithinolytica_NZ_CP138913.1	contig_98	90.08		True
+unknown
+5437104	5437321	104705	104922	Raoultella_ornithinolytica_NZ_CP138913.1	contig_98	90.83		True
+unknown
+5445599	5448659	113245	116305	Raoultella_ornithinolytica_NZ_CP138913.1	contig_98	90.99		True
+unknown
+42007	44003	233514	235510	Raoultella_ornithinolytica_NZ_CP138913.1	contig_98	90.84		True
+unknown
+45813	46320	237506	238011	Raoultella_ornithinolytica_NZ_CP138913.1	contig_98	93.7		True
+unknown
+204222	205272	381334	382391	Raoultella_ornithinolytica_NZ_CP138913.1	contig_98	90.55		True
+unknown
+212670	213257	395756	396341	Raoultella_ornithinolytica_NZ_CP138913.1	contig_98	90.68		True
+unknown
+391878	395342	547726	551194	Raoultella_ornithinolytica_NZ_CP138913.1	contig_98	90.05		True
+unknown
+429417	429709	570222	570514	Raoultella_ornithinolytica_NZ_CP138913.1	contig_98	94.2		True
+unknown
+491380	491814	659115	659542	Raoultella_ornithinolytica_NZ_CP138913.1	contig_98	91.49		True
+unknown
+491950	492072	659575	659694	Raoultella_ornithinolytica_NZ_CP138913.1	contig_98	91.06		True
+unknown
+591749	592147	779228	779623	Raoultella_ornithinolytica_NZ_CP138913.1	contig_98	95.74		True
+unknown
+613697	614356	817051	817710	Raoultella_ornithinolytica_NZ_CP138913.1	contig_98	90.0		True
+unknown
+618815	623864	822278	827622	Raoultella_ornithinolytica_NZ_CP138913.1	contig_98	91.04		True
+unknown
+627214	627352	830838	830976	Raoultella_ornithinolytica_NZ_CP138913.1	contig_98	92.09		True
+unknown
+656443	656621	862416	862595	Raoultella_ornithinolytica_NZ_CP138913.1	contig_98	90.81		True
+unknown
+814475	814698	1020918	1021142	Raoultella_ornithinolytica_NZ_CP138913.1	contig_98	95.11		True
+unknown
+820466	822049	1029906	1031489	Raoultella_ornithinolytica_NZ_CP138913.1	contig_98	90.94		True
+unknown
+823464	823763	1032903	1033200	Raoultella_ornithinolytica_NZ_CP138913.1	contig_98	90.0		True
+unknown
+CONTIG	contig_98	1119886	mis_unaligned
+340597	341003	76684	77086	Raoultella_ornithinolytica_NZ_CP138913.1	contig_99	93.41		True
+unknown
+429417	429714	141956	142253	Raoultella_ornithinolytica_NZ_CP138913.1	contig_99	92.62		True
+unknown
+491984	492207	204659	204884	Raoultella_ornithinolytica_NZ_CP138913.1	contig_99	90.71		True
+unknown
+492261	492498	204885	205120	Raoultella_ornithinolytica_NZ_CP138913.1	contig_99	90.34		True
+unknown
+591748	592124	309581	309954	Raoultella_ornithinolytica_NZ_CP138913.1	contig_99	94.44		True
+unknown
+618815	623658	350849	355839	Raoultella_ornithinolytica_NZ_CP138913.1	contig_99	93.9		True
+unknown
+627214	627358	359306	359450	Raoultella_ornithinolytica_NZ_CP138913.1	contig_99	93.79		True
+unknown
+633568	633732	365622	365785	Raoultella_ornithinolytica_NZ_CP138913.1	contig_99	92.12		True
+unknown
+CONTIG	contig_99	396689	mis_unaligned
+4619159	4619244	701147	701062	Raoultella_ornithinolytica_NZ_CP138913.1	contig_993	98.84		True
+CONTIG	contig_993	897248	correct_unaligned

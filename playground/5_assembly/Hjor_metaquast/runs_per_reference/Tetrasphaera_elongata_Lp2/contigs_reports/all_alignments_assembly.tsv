@@ -1,0 +1,1664 @@
+S1	E1	S2	E2	Reference	Contig	IDY	Ambiguous	Best_group
+368858	370257	6625	5206	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_10	92.28		True
+CONTIG	contig_10	12382	correct_unaligned
+2817436	2817633	2737	2540	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_101	90.4		True
+CONTIG	contig_101	235743	correct_unaligned
+1852004	1852162	575945	576103	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1077	91.82		True
+CONTIG	contig_1077	2651156	correct_unaligned
+2697792	2697927	24959	24824	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1089	93.38		True
+CONTIG	contig_1089	39153	correct_unaligned
+359341	359588	385143	385390	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1160	90.0		True
+CONTIG	contig_1160	678429	correct_unaligned
+1016778	1019853	920977	924052	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1164	93.34		True
+unknown
+1025275	1027502	936538	938763	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1164	95.21		True
+unknown
+CONTIG	contig_1164	980112	mis_unaligned
+2798333	2799295	1	942	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_12	93.14		True
+relocation, inconsistency = 1493174
+1295689	1305084	10572	1017	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_12	94.72		True
+relocation, inconsistency = 7478
+1248462	1288210	50285	10573	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_12	99.01		True
+relocation, inconsistency = 966277
+2254508	2259334	50306	55131	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_12	99.17		True
+relocation, inconsistency = -9757
+2259293	2259839	64847	65393	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_12	98.36		True
+relocation, inconsistency = 802281
+3062854	3063928	66127	67201	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_12	99.53		True
+relocation, inconsistency = -2959863
+104569	113058	67705	76175	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_12	99.07		True
+relocation, inconsistency = 2588358
+2701417	2719603	94312	76176	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_12	98.77		True
+local misassembly
+2692184	2700213	103531	95515	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_12	98.94		True
+relocation, inconsistency = 2228917
+453868	463055	112915	103743	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_12	99.29		True
+relocation, inconsistency = 337249
+800661	835089	113272	147677	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_12	98.75		True
+relocation, inconsistency = 1884608
+2719704	2723130	151102	147684	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_12	98.34		True
+relocation, inconsistency = 1975782
+724854	743684	151340	170147	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_12	98.49		True
+relocation, inconsistency = -381104
+368858	370284	176425	177851	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_12	98.18		True
+relocation, inconsistency = 371852
+747290	761398	183005	197082	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_12	98.8		True
+local misassembly
+761395	797467	197383	233435	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_12	98.44		True
+local misassembly
+799824	800517	235362	236057	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_12	93.1		True
+relocation, inconsistency = 1203775
+2004294	2033417	265113	236059	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_12	98.59		True
+relocation, inconsistency = 146341
+1842709	1857840	280403	265226	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_12	98.91		True
+local misassembly
+1824970	1841587	298648	282045	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_12	98.82		True
+relocation, inconsistency = 1547676
+263975	277007	311953	298935	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_12	98.25		True
+relocation, inconsistency = 1659
+252037	261134	322229	313135	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_12	99.14		True
+local misassembly
+248766	252033	325747	322481	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_12	97.89		True
+CONTIG	contig_12	344688	misassembled
+2077964	2089576	11580	1	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	98.42		True
+relocation, inconsistency = -466154
+2536534	2544117	19144	11581	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	98.57		True
+relocation, inconsistency = -447330
+2983151	2983778	19855	19230	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	98.89		True
+relocation, inconsistency = 14400
+2998192	3002443	19869	24140	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	98.76		True
+relocation, inconsistency = 1277090
+1692711	1718903	52478	26339	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	98.05		True
+relocation, inconsistency = 5143
+1682709	1683851	57338	56195	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	96.49		True
+relocation, inconsistency = -1246500
+2922798	2929208	63726	57339	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	98.02		True
+relocation, inconsistency = -55566
+2969928	2978278	72133	63812	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	97.77		True
+relocation, inconsistency = -28144
+2996903	2998071	73300	72134	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	98.91		True
+relocation, inconsistency = 2087291
+903723	909476	79245	73436	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	98.18		True
+relocation, inconsistency = 496474
+404103	407020	82382	79474	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	98.97		True
+relocation, inconsistency = 1657581
+2064835	2066018	82616	83797	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	98.67		True
+relocation, inconsistency = 303959
+2369978	2384384	98197	83798	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	99.1		True
+relocation, inconsistency = 893825
+1463454	1475093	99257	110800	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	98.54		True
+local misassembly
+1475403	1486021	110801	121402	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	99.15		True
+relocation, inconsistency = 1719
+1487741	1490535	121403	124062	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	92.56		True
+relocation, inconsistency = 656772
+2147308	2152381	124063	129130	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	98.64		True
+relocation, inconsistency = -2511
+2152376	2199875	131636	179033	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	97.83		True
+relocation, inconsistency = 262447
+1864729	1889856	204405	179106	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	97.78		True
+relocation, inconsistency = 938224
+2828179	2859038	204504	235314	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	98.97		True
+relocation, inconsistency = -2745841
+113198	115784	235315	237896	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	98.97		True
+relocation, inconsistency = 13196
+128981	133221	242129	237897	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	98.92		True
+relocation, inconsistency = -2677453
+2805790	2806433	242773	242130	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	98.94		True
+local misassembly
+2802763	2805792	246018	242994	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	99.08		True
+local misassembly
+2802656	2802761	246411	246306	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	99.06		True
+relocation, inconsistency = -2646
+2799427	2802119	252277	249594	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	98.48		True
+relocation, inconsistency = 233708
+2551980	2565502	265995	252494	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	99.48		True
+relocation, inconsistency = 1841581
+699152	710398	277201	265996	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	97.69		True
+relocation, inconsistency = -1852996
+2544249	2551879	285085	277470	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	99.0		True
+relocation, inconsistency = -542288
+3084781	3086536	286837	285086	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	98.31		True
+relocation, inconsistency = 275626
+2806570	2808751	289419	287241	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	99.23		True
+relocation, inconsistency = 1806895
+909587	999674	379205	289420	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	98.63		True
+relocation, inconsistency = -2184454
+3089915	3093720	383316	379526	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	98.48		True
+relocation, inconsistency = 403454
+2668979	2680936	388841	400842	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	97.35		True
+relocation, inconsistency = 2200742
+466919	467931	402158	401148	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	98.52		True
+relocation, inconsistency = 220398
+688413	697884	402242	411751	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	96.29		True
+relocation, inconsistency = 623681
+51438	59680	425097	416803	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	97.04		True
+local misassembly
+45092	51195	432192	426100	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	99.12		True
+relocation, inconsistency = -2691522
+2723231	2736405	445460	432401	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	96.82		True
+relocation, inconsistency = 241756
+2978380	2981368	445679	448663	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	99.11		True
+relocation, inconsistency = 9968
+2991337	2995456	452782	448664	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	99.25		True
+relocation, inconsistency = 989853
+1989737	2001352	464551	452914	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	97.71		True
+relocation, inconsistency = 3582
+1979671	1985851	471033	464855	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	96.0		True
+relocation, inconsistency = -12042
+1975290	1978567	487464	484179	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	98.24		True
+relocation, inconsistency = 1604553
+368858	370283	487918	489342	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	96.5		True
+relocation, inconsistency = 2753612
+3123914	3124188	489639	489361	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	93.55		True
+relocation, inconsistency = 1329757
+1793126	1793527	490269	490671	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	95.31		True
+relocation, inconsistency = 201193
+1590537	1590853	492071	491751	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	93.79		True
+relocation, inconsistency = -388522
+1961107	1975372	510068	495758	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	98.03		True
+relocation, inconsistency = 947668
+1001218	1013438	510069	522280	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	98.56		True
+relocation, inconsistency = 13982
+1027421	1034884	522281	529731	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	99.21		True
+relocation, inconsistency = 2051792
+3086677	3089783	529732	532706	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	91.62		True
+relocation, inconsistency = 451410
+2631974	2635266	535990	532707	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	98.94		True
+relocation, inconsistency = 377541
+2231752	2254407	558850	536016	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	97.74		True
+relocation, inconsistency = 1598521
+630014	631718	562063	560363	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	98.55		True
+relocation, inconsistency = 2230096
+2861815	2864754	562064	564997	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	99.32		True
+relocation, inconsistency = 118820
+2983879	2986545	567972	565302	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	98.09		True
+relocation, inconsistency = 2854847
+127076	128880	569919	568124	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	92.78		True
+local misassembly
+116905	126213	580053	570761	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	97.24		True
+relocation, inconsistency = 2749772
+2876466	2882712	580534	586771	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	98.5		True
+relocation, inconsistency = -1310432
+1572382	1584578	586873	599053	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	97.96		True
+relocation, inconsistency = 148229
+1734156	1743258	609534	600402	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	93.73		True
+relocation, inconsistency = 2060
+1730256	1732095	611385	609535	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	94.78		True
+relocation, inconsistency = 134812
+1591488	1595366	611463	615502	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1206	90.84		True
+CONTIG	contig_1206	615875	misassembled
+294816	296165	333814	335167	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1295	91.0		True
+CONTIG	contig_1295	354659	correct_unaligned
+336993	338190	8284	9479	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1296	91.33		True
+unknown
+338220	340336	10479	12594	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1296	90.13		True
+unknown
+CONTIG	contig_1296	33355	mis_unaligned
+2781690	2781829	4338	4199	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1309	91.43		True
+CONTIG	contig_1309	39946	correct_unaligned
+2982149	2982225	33399	33323	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_131	100.0		True
+CONTIG	contig_131	104814	correct_unaligned
+617890	618215	334586	334911	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1310	92.02		True
+unknown
+1851600	1853411	752443	754256	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1310	90.02		True
+unknown
+368858	370283	997859	999274	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1310	91.73		True
+unknown
+CONTIG	contig_1310	1375799	mis_unaligned
+2758182	2758328	292719	292573	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_135	92.52		True
+CONTIG	contig_135	362732	correct_unaligned
+2860629	2860800	180896	180721	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_136	92.7		True
+CONTIG	contig_136	283435	correct_unaligned
+2387600	2387958	63914	64275	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_148	90.14		True
+CONTIG	contig_148	237377	correct_unaligned
+468649	468723	49	123	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_149	100.0		True
+CONTIG	contig_149	43928	correct_unaligned
+2859179	2861714	2709	160	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_151	97.07		True
+relocation, inconsistency = 1339767
+1517329	1519411	2710	4791	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_151	98.56		True
+CONTIG	contig_151	6030	misassembled
+2859209	2861714	2798	310	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_152	92.93		True
+unknown
+1517373	1519429	2866	4983	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_152	90.41		True
+unknown
+CONTIG	contig_152	12257	mis_unaligned
+1556224	1566944	10696	1	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_153	99.1		True
+indel: indel (> 5bp)
+1555948	1556021	10954	10881	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_153	100.0		True
+local misassembly
+1519763	1555261	46641	10980	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_153	97.22		True
+relocation, inconsistency = -70889
+1517323	1519429	119967	117864	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_153	98.1		True
+relocation, inconsistency = 1339755
+2859209	2861714	119992	122494	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_153	99.08		True
+relocation, inconsistency = 231704
+3093845	3097460	122921	126541	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_153	98.04		True
+relocation, inconsistency = -1528300
+1569246	1572243	126627	129616	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_153	98.57		True
+relocation, inconsistency = 1507857
+3080464	3084680	129980	134185	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_153	98.51		True
+relocation, inconsistency = -312929
+2771848	2788931	134282	151338	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_153	98.54		True
+relocation, inconsistency = 674991
+2089571	2096856	158610	151339	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_153	98.77		True
+CONTIG	contig_153	169736	misassembled
+1440608	1440696	146370	146282	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1533	95.51		True
+CONTIG	contig_1533	380698	correct_unaligned
+227265	227465	143826	144026	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1576	90.1		True
+CONTIG	contig_1576	158051	correct_unaligned
+1590537	1590790	14811	14559	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1586	93.31		True
+CONTIG	contig_1586	16032	correct_unaligned
+1267143	1267480	36620	36957	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_16	91.12		True
+CONTIG	contig_16	304512	correct_unaligned
+318535	321848	3304	7	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1616	94.69		True
+indel: indel (> 5bp)
+316052	318534	5991	3503	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1616	93.69		True
+CONTIG	contig_1616	6123	correct
+681738	681836	192082	191984	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_162	95.96		True
+unknown
+680764	681041	193059	192783	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_162	90.29		True
+unknown
+CONTIG	contig_162	224048	mis_unaligned
+2894744	2895984	2010	770	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_164	90.41		True
+CONTIG	contig_164	151358	correct_unaligned
+408954	409105	69743	69592	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_167	92.76		True
+CONTIG	contig_167	112961	correct_unaligned
+1365490	1365957	10888	10422	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_170	90.17		True
+CONTIG	contig_170	244472	correct_unaligned
+20281	24168	3954	39	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1787	96.59		True
+CONTIG	contig_1787	23352	correct_unaligned
+843503	846733	38359	35138	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1789	98.86		True
+unknown
+843013	843502	56065	55575	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1789	97.96		True
+unknown
+842157	842903	56811	56066	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1789	97.72		True
+unknown
+CONTIG	contig_1789	56811	mis_unaligned
+835190	842154	6964	1	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1790	98.3		True
+relocation, inconsistency = 21994
+864279	874786	7095	17656	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1790	97.01		True
+relocation, inconsistency = 1875692
+2750479	2769272	36502	17657	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1790	98.28		True
+relocation, inconsistency = 193633
+2982570	2983027	56167	56624	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1790	97.09		True
+relocation, inconsistency = 94756
+3077784	3080363	59198	56625	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1790	98.22		True
+relocation, inconsistency = 2708865
+364835	368732	63287	59385	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1790	98.27		True
+relocation, inconsistency = 2312304
+2681037	2690483	63288	72748	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1790	97.71		True
+local misassembly
+2690484	2691428	73079	74025	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1790	97.25		True
+relocation, inconsistency = 390268
+3101684	3103615	95937	94013	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1790	97.41		True
+CONTIG	contig_1790	96124	misassembled
+3103396	3103631	1	235	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1793	95.76		True
+CONTIG	contig_1793	36605	correct_unaligned
+1084180	1084596	7178	7594	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1798	96.41		True
+CONTIG	contig_1798	7594	correct_unaligned
+1074770	1075740	4405	5374	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1799	97.84		True
+relocation, inconsistency = 1454
+1077197	1084595	5377	12736	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1799	95.71		True
+CONTIG	contig_1799	12736	misassembled
+468649	468777	2041	1913	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_18	93.18		True
+CONTIG	contig_18	8089	correct_unaligned
+2697792	2697927	22603	22738	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1800	93.38		True
+CONTIG	contig_1800	243394	correct_unaligned
+321845	322208	26184	26548	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1844	95.36		True
+unknown
+323488	323640	27833	27989	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1844	94.27		True
+unknown
+CONTIG	contig_1844	28108	mis_unaligned
+27676	28977	16855	15553	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1848	90.15		True
+unknown
+1648826	1650681	124452	122596	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1848	90.71		True
+unknown
+1599345	1600705	167132	165774	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1848	90.01		True
+unknown
+1734656	1736896	181155	183401	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1848	91.1		True
+unknown
+1996121	1998690	313832	316397	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1848	90.69		True
+unknown
+2000840	2001237	318366	318760	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1848	98.24		True
+unknown
+2725164	2725455	335886	336177	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1848	90.41		True
+unknown
+47772	48538	353169	353939	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1848	90.27		True
+unknown
+964219	965012	480110	480903	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1848	90.05		True
+unknown
+CONTIG	contig_1848	503067	mis_unaligned
+767875	767980	17547	17651	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1881	95.28		True
+CONTIG	contig_1881	48063	correct_unaligned
+2894744	2895984	49300	50540	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1888	90.17		True
+unknown
+2874984	2875294	319995	319685	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1888	91.0		True
+unknown
+2873360	2873526	321562	321397	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1888	92.22		True
+unknown
+CONTIG	contig_1888	596478	mis_unaligned
+831673	832062	425643	425254	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_189	90.0		True
+unknown
+812424	812739	435231	434916	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_189	93.04		True
+unknown
+CONTIG	contig_189	450367	mis_unaligned
+1781597	1781736	121921	122060	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1911	92.14		True
+CONTIG	contig_1911	134508	correct_unaligned
+2284906	2285038	11652	11520	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1936	96.24		True
+CONTIG	contig_1936	19525	correct_unaligned
+2284906	2285038	8126	7994	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1937	93.98		True
+CONTIG	contig_1937	48400	correct_unaligned
+2278326	2283545	505916	511125	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1972	93.71		True
+unknown
+2284111	2287953	511719	515559	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1972	90.17		True
+unknown
+3118019	3118623	517206	517808	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1972	95.37		True
+unknown
+2759070	2759567	540105	539608	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1972	90.78		True
+unknown
+831673	832041	711321	711687	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_1972	91.62		True
+unknown
+CONTIG	contig_1972	717020	mis_unaligned
+1590537	1590790	35067	34813	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_20	93.33		True
+CONTIG	contig_20	48271	correct_unaligned
+1540948	1542263	1458	139	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2021	97.13		True
+CONTIG	contig_2021	5664	correct_unaligned
+2505606	2505899	156592	156885	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2034	90.51		True
+unknown
+607588	607661	765555	765627	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2034	98.65		True
+unknown
+617823	618215	774920	775312	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2034	91.6		True
+unknown
+319868	320194	785478	785804	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2034	92.35		True
+unknown
+1832745	1833122	1100200	1100577	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2034	91.01		True
+unknown
+CONTIG	contig_2034	1123983	mis_unaligned
+1590537	1590790	1012	1264	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2075	93.7		True
+CONTIG	contig_2075	36360	correct_unaligned
+3038993	3039465	331818	331346	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2104	90.7		True
+unknown
+2816957	2822356	572513	577892	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2104	92.52		True
+unknown
+2430973	2431239	596343	596609	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2104	94.76		True
+unknown
+616577	616807	711328	711557	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2104	90.48		True
+unknown
+617851	618206	713084	713439	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2104	90.17		True
+unknown
+CONTIG	contig_2104	967444	mis_unaligned
+468649	468740	24159	24250	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2105	98.91		True
+CONTIG	contig_2105	93862	correct_unaligned
+2080161	2080408	35751	35998	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2160	93.57		True
+CONTIG	contig_2160	86278	correct_unaligned
+2750837	2750913	1775	1851	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2161	100.0		True
+unknown
+2754314	2755637	5747	7083	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2161	90.2		True
+unknown
+853256	853565	81750	82059	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2161	91.29		True
+unknown
+853566	853946	82106	82484	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2161	90.29		True
+unknown
+862406	864177	94099	95869	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2161	91.14		True
+unknown
+2366406	2366891	95885	96369	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2161	91.15		True
+unknown
+CONTIG	contig_2161	161548	mis_unaligned
+1617072	1617640	23897	23330	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2183	90.51		True
+CONTIG	contig_2183	44048	correct_unaligned
+2894744	2895984	7671	8912	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2195	90.26		True
+CONTIG	contig_2195	117025	correct_unaligned
+2777745	2778737	9642	8654	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2197	93.76		True
+unknown
+2772803	2772874	14505	14434	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2197	100.0		True
+unknown
+1533131	1533630	89172	89672	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2197	90.22		True
+unknown
+CONTIG	contig_2197	127499	mis_unaligned
+2689999	2690086	18756	18670	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2309	98.86		True
+CONTIG	contig_2309	27795	correct_unaligned
+2431733	2432143	232752	232343	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2534	91.28		True
+unknown
+2430990	2431230	234179	233939	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2534	93.78		True
+unknown
+2816959	2822356	257471	252121	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2534	92.18		True
+unknown
+CONTIG	contig_2534	290777	mis_unaligned
+2431717	2432129	236241	235830	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2535	90.31		True
+unknown
+2430951	2431239	237384	237096	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2535	93.77		True
+unknown
+2816957	2822361	258436	253056	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2535	92.91		True
+unknown
+CONTIG	contig_2535	359538	mis_unaligned
+616577	616807	161106	160877	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2536	90.48		True
+unknown
+607588	607661	171089	171017	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2536	98.65		True
+unknown
+2431763	2431956	277876	277682	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2536	94.36		True
+unknown
+2430951	2431239	279165	278876	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2536	96.21		True
+unknown
+2816957	2822356	304485	299129	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2536	92.43		True
+unknown
+CONTIG	contig_2536	363830	mis_unaligned
+617808	618215	118049	117642	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2537	92.16		True
+unknown
+616623	616807	119362	119178	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2537	91.35		True
+unknown
+2816957	2820323	935962	939297	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2537	93.22		True
+unknown
+2820517	2822356	939491	941342	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2537	94.33		True
+unknown
+2430920	2431230	957032	957342	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2537	93.25		True
+unknown
+CONTIG	contig_2537	1152090	mis_unaligned
+1854297	1854843	7049	6501	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2547	90.35		True
+CONTIG	contig_2547	20617	correct_unaligned
+3118019	3118623	2832	2232	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2641	95.37		True
+unknown
+2284543	2287983	13882	10446	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2641	92.11		True
+unknown
+CONTIG	contig_2641	13882	mis_unaligned
+2033414	2034260	16807	15962	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2642	98.94		True
+unknown
+693645	693995	506827	507177	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2642	90.03		True
+unknown
+CONTIG	contig_2642	761102	mis_unaligned
+595829	595947	10082	10201	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2675	93.33		True
+CONTIG	contig_2675	28411	correct_unaligned
+316052	323656	8668	882	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2727	94.63		True
+unknown
+304253	304576	18841	18518	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2727	100.0		True
+unknown
+CONTIG	contig_2727	18976	mis_unaligned
+2570822	2571212	2472	2861	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2728	96.68		True
+relocation, inconsistency = -1628
+2571296	2573857	4573	7132	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2728	98.79		True
+indel: indel (> 5bp)
+2574170	2582497	7325	15645	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2728	99.1		True
+relocation, inconsistency = -687598
+1894990	1915458	15736	36299	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2728	98.14		True
+relocation, inconsistency = 4899
+1920407	1922308	36349	38245	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2728	97.06		True
+relocation, inconsistency = 608465
+2531248	2533208	38720	40676	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2728	98.22		True
+relocation, inconsistency = -2873
+2533215	2536428	43556	46760	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2728	99.35		True
+relocation, inconsistency = 408064
+2944540	2945067	47342	46808	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2728	97.02		True
+relocation, inconsistency = 1049464
+1889957	1894888	52529	47530	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2728	97.02		True
+relocation, inconsistency = -1052167
+2940386	2942123	54268	52530	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2728	98.81		True
+relocation, inconsistency = 2256641
+683234	683722	54291	54793	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2728	94.47		True
+relocation, inconsistency = 229429
+409656	453767	98821	54831	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2728	98.77		True
+relocation, inconsistency = 1898741
+2352551	2364555	98864	110874	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2728	97.87		True
+relocation, inconsistency = -222130
+2146058	2146666	114507	115118	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2728	97.55		True
+relocation, inconsistency = 509486
+2661483	2663728	120449	122688	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2728	98.98		True
+local misassembly
+2664791	2667210	123807	126222	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2728	99.26		True
+relocation, inconsistency = 2495370
+159432	169372	136192	126271	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2728	98.22		True
+relocation, inconsistency = -2383
+153635	159201	144320	138806	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2728	96.8		True
+local misassembly
+139203	153635	159419	144994	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2728	98.55		True
+local misassembly
+135023	139200	163801	159627	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2728	99.02		True
+relocation, inconsistency = 137837
+277108	279943	163872	166701	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2728	98.73		True
+local misassembly
+280058	285583	167164	172686	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2728	98.59		True
+local misassembly
+285583	293882	172911	181382	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2728	94.39		True
+relocation, inconsistency = -6269
+296704	301683	190473	195438	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2728	98.26		True
+relocation, inconsistency = 2571
+304255	304750	195439	195932	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2728	99.0		True
+relocation, inconsistency = 1818
+306575	307385	195939	196747	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2728	97.79		True
+relocation, inconsistency = 3159
+310545	323655	196748	210046	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2728	96.6		True
+CONTIG	contig_2728	213596	misassembled
+2488720	2488982	128882	129144	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2737	90.94		True
+CONTIG	contig_2737	453436	correct_unaligned
+2820603	2822135	55442	53909	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2771	92.51		True
+unknown
+2816957	2820261	59067	55783	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2771	90.17		True
+unknown
+CONTIG	contig_2771	98075	mis_unaligned
+260601	260720	493	374	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2789	92.5		True
+CONTIG	contig_2789	45122	correct_unaligned
+2982149	2982225	22557	22481	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2809	100.0		True
+CONTIG	contig_2809	35228	correct_unaligned
+2750837	2750913	16352	16428	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2813	100.0		True
+CONTIG	contig_2813	29226	correct_unaligned
+2982149	2982225	8501	8577	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2819	100.0		True
+CONTIG	contig_2819	9322	correct_unaligned
+368858	370283	1328	2748	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2884	92.09		True
+CONTIG	contig_2884	9359	correct_unaligned
+2860630	2860708	19767	19689	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_2983	100.0		True
+CONTIG	contig_2983	28160	correct_unaligned
+2127276	2127546	236234	235961	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3031	90.15		True
+CONTIG	contig_3031	452218	correct_unaligned
+710106	710218	202956	202844	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3032	95.58		True
+CONTIG	contig_3032	437529	correct_unaligned
+1325113	1325258	50408	50263	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3033	93.84		True
+CONTIG	contig_3033	55506	correct_unaligned
+2789032	2793571	7997	3366	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	93.36		True
+relocation, inconsistency = -334293
+3118019	3123235	13295	8087	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	98.45		True
+relocation, inconsistency = 169616
+2930963	2940197	21501	30714	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	98.56		True
+relocation, inconsistency = 522086
+2389209	2408809	50377	30782	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	99.34		True
+relocation, inconsistency = 95796
+2284019	2293276	59750	50514	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	97.09		True
+local misassembly
+2278323	2283543	65451	60235	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	96.42		True
+relocation, inconsistency = 660076
+2943620	2944439	65452	66269	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	97.86		True
+relocation, inconsistency = -80428
+2864861	2868719	67119	70968	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	98.24		True
+relocation, inconsistency = -524351
+2344691	2352423	71291	79011	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	99.26		True
+relocation, inconsistency = 471901
+2824557	2828078	82754	79244	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	98.89		True
+relocation, inconsistency = 1423476
+1399690	1401080	84140	82755	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	97.7		True
+relocation, inconsistency = 6693
+1384742	1392990	92373	84147	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	98.58		True
+relocation, inconsistency = -690692
+2066136	2073959	101666	93848	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	98.79		True
+relocation, inconsistency = 241129
+1813322	1824862	101811	113327	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	98.51		True
+relocation, inconsistency = 1120339
+2945207	2946155	114247	113328	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	94.75		True
+relocation, inconsistency = 1428823
+1494130	1516383	136727	114248	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	97.38		True
+relocation, inconsistency = 1022713
+468032	468737	140133	139407	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	94.81		True
+relocation, inconsistency = -1920796
+2384508	2388258	144452	140703	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	97.72		True
+relocation, inconsistency = 921154
+1437283	1463353	170505	144453	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	98.76		True
+relocation, inconsistency = 1047100
+383395	389824	177295	170864	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	99.15		True
+relocation, inconsistency = -2679677
+3053020	3062753	187348	177614	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	98.4		True
+relocation, inconsistency = 2388990
+633134	639284	212094	218242	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	98.56		True
+relocation, inconsistency = -565757
+73623	98479	218338	243187	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	98.62		True
+relocation, inconsistency = 585389
+683869	685986	245303	243188	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	98.18		True
+inversion
+686112	687349	245412	246647	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	98.63		True
+relocation, inconsistency = 1033765
+1721210	1722700	248313	246743	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	92.71		True
+relocation, inconsistency = 1317152
+401913	404002	250450	248369	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	98.28		True
+relocation, inconsistency = 2504850
+2908853	2910609	250451	252197	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	96.25		True
+relocation, inconsistency = -2894
+2910643	2921507	255125	265987	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	98.22		True
+relocation, inconsistency = 160653
+2736524	2749874	279492	266103	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	98.32		True
+relocation, inconsistency = 693745
+2034365	2042654	279617	287930	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	98.64		True
+relocation, inconsistency = -1579489
+463166	466818	287931	291577	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	98.69		True
+relocation, inconsistency = 1534648
+2001467	2004160	291578	294269	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	97.95		True
+relocation, inconsistency = 271363
+1722801	1730103	301577	294270	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	97.63		True
+relocation, inconsistency = 618305
+1088820	1104435	317395	301638	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	97.09		True
+local misassembly
+1088467	1088828	318161	317801	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	96.96		True
+local misassembly
+1084592	1088253	321822	318169	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	98.69		True
+local misassembly
+1074770	1074988	330791	330574	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	94.98		True
+relocation, inconsistency = -3565
+1049231	1074684	359884	334442	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	98.91		True
+local misassembly
+1036376	1049227	373080	360120	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	97.2		True
+relocation, inconsistency = 2049659
+3098907	3099199	373101	373391	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	98.98		True
+local misassembly
+3099199	3101577	373868	376244	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3052	99.16		True
+CONTIG	contig_3052	376256	misassembled
+74038	74199	6855	7016	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3053	95.06		True
+CONTIG	contig_3053	11499	correct_unaligned
+3053020	3054378	1369	1	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3054	96.73		True
+unknown
+633134	639279	26247	32504	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3054	94.05		True
+unknown
+73623	75014	32603	33975	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3054	97.77		True
+unknown
+CONTIG	contig_3054	33975	mis_unaligned
+3012187	3012335	16194	16342	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3131	95.97		True
+CONTIG	contig_3131	25118	correct_unaligned
+312541	312884	17347	17005	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3132	98.84		True
+relocation, inconsistency = 814778
+1130355	1151756	20040	41421	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3132	98.71		True
+CONTIG	contig_3132	41421	misassembled
+1597731	1638431	1	40440	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	96.43		True
+relocation, inconsistency = 2913
+1641345	1652113	40441	51201	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	99.14		True
+relocation, inconsistency = 1123
+1653937	1677541	51902	75486	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	98.26		True
+local misassembly
+1677539	1682587	75740	80784	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	98.99		True
+relocation, inconsistency = 1319917
+3002547	3003973	82249	80824	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	98.81		True
+relocation, inconsistency = 863479
+2125414	2139067	95716	82250	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	97.36		True
+local misassembly
+2122209	2124994	98540	95754	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	98.1		True
+local misassembly
+2096972	2122209	124149	98918	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	98.44		True
+relocation, inconsistency = 2060838
+26226	36094	124179	134026	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	99.35		True
+relocation, inconsistency = 1736801
+1772902	1790985	152136	134027	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	98.99		True
+relocation, inconsistency = -665386
+2409675	2438287	180680	152137	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	99.02		True
+relocation, inconsistency = -414781
+2808873	2822662	196330	182474	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	97.87		True
+relocation, inconsistency = 1919672
+874995	889200	196331	210507	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	98.7		True
+local misassembly
+889201	903618	210847	225171	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	98.21		True
+relocation, inconsistency = 515105
+370467	374095	228800	225172	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	99.2		True
+relocation, inconsistency = -1943807
+2293377	2314202	249893	228872	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	98.04		True
+relocation, inconsistency = 1185363
+1104554	1108013	253351	249894	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	99.33		True
+relocation, inconsistency = 934741
+2042755	2063281	253352	273859	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	99.27		True
+relocation, inconsistency = 1008431
+3073904	3077080	279221	276051	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	94.31		True
+local misassembly
+3073275	3073401	279850	279724	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	93.7		True
+relocation, inconsistency = 163787
+2882825	2898125	306495	291213	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	99.12		True
+relocation, inconsistency = 1023609
+1857941	1859121	306590	307768	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	99.83		True
+relocation, inconsistency = -14279
+1860168	1864626	323094	327542	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	99.08		True
+relocation, inconsistency = 464365
+1344451	1384641	378806	338704	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	99.09		True
+local misassembly
+1336103	1344451	387356	379032	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	99.1		True
+relocation, inconsistency = 17463
+1318493	1318639	387502	387357	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	95.06		True
+local misassembly
+1305186	1317510	399806	387503	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	99.25		True
+relocation, inconsistency = 185129
+1111899	1120056	399807	407956	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	99.09		True
+local misassembly
+1120358	1121002	407957	408600	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	98.45		True
+local misassembly
+1121003	1121849	408849	409696	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	99.29		True
+relocation, inconsistency = 5845
+1127695	1191573	409697	473627	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	97.43		True
+relocation, inconsistency = 1293446
+2485020	2531059	519646	473628	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	99.01		True
+relocation, inconsistency = 525429
+1952206	1959559	527009	519678	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	99.15		True
+relocation, inconsistency = 5540
+1937898	1946665	535757	527010	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	99.16		True
+relocation, inconsistency = -1890
+1922409	1937901	553242	537644	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	97.51		True
+relocation, inconsistency = 321996
+2259943	2278176	553288	571499	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	98.96		True
+relocation, inconsistency = 36963
+2315140	2343707	599988	571500	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	98.99		True
+relocation, inconsistency = 1905536
+407127	409550	602463	600042	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	99.3		True
+relocation, inconsistency = -273210
+678647	680056	604241	602744	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	91.58		True
+local misassembly
+639385	678649	643906	604476	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	98.04		True
+relocation, inconsistency = 143656
+486025	495458	653616	644177	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	98.55		True
+relocation, inconsistency = -121988
+601018	607487	660605	654142	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	98.5		True
+local misassembly
+598881	600304	662669	661247	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	93.75		True
+relocation, inconsistency = 12860
+501611	577418	747092	671272	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	98.25		True
+local misassembly
+500059	500762	748594	747893	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	97.73		True
+relocation, inconsistency = 501542
+1014374	1014876	760664	761167	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	95.85		True
+relocation, inconsistency = -1785
+1013456	1014870	763870	762456	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	90.24		True
+relocation, inconsistency = -1217934
+2204365	2228912	790896	766348	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	98.35		True
+local misassembly
+2200010	2203742	794624	790897	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	98.74		True
+relocation, inconsistency = 1586512
+607588	613440	794682	800525	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	98.48		True
+local misassembly
+613443	619416	800975	806944	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	99.21		True
+relocation, inconsistency = -245830
+374218	383294	807576	816644	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	98.66		True
+relocation, inconsistency = 303872
+687463	688306	817787	816941	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	97.76		True
+relocation, inconsistency = 3906
+680157	683133	821183	818211	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	99.53		True
+relocation, inconsistency = -1952277
+2616666	2631873	836919	821744	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	99.07		True
+relocation, inconsistency = -430985
+3035151	3045915	849438	838655	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	98.46		True
+local misassembly
+3007646	3035150	877431	849959	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	98.94		True
+local misassembly
+3005774	3007405	880032	878408	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	98.59		True
+relocation, inconsistency = 42512
+2947967	2963261	880033	895300	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	99.48		True
+relocation, inconsistency = -2904763
+59782	73518	896584	910316	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	99.13		True
+relocation, inconsistency = 643027
+716546	724753	910317	918489	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	98.77		True
+relocation, inconsistency = 689755
+1414706	1437182	941168	918687	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	98.6		True
+relocation, inconsistency = 3196
+1410001	1411500	942676	941178	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	98.53		True
+local misassembly
+1408400	1409683	943954	942677	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	95.36		True
+local misassembly
+1405803	1406531	947346	946618	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3133	99.04		True
+CONTIG	contig_3133	947346	misassembled
+2111807	2111877	11705	11775	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3158	100.0		True
+CONTIG	contig_3158	80968	correct_unaligned
+2584634	2586269	311095	312728	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3178	90.16		True
+unknown
+2598413	2598631	325464	325682	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3178	91.32		True
+unknown
+CONTIG	contig_3178	571369	mis_unaligned
+1745951	1749734	3801	5	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3259	90.2		True
+CONTIG	contig_3259	13180	correct_unaligned
+616577	616807	149461	149231	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3262	90.91		True
+CONTIG	contig_3262	159051	correct_unaligned
+1734172	1761203	35689	8500	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3263	93.66		True
+relocation, inconsistency = 2059
+1730212	1732096	37588	35706	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3263	92.94		True
+relocation, inconsistency = 137544
+1591467	1592667	37589	38770	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3263	93.14		True
+CONTIG	contig_3263	38772	misassembled
+2631471	2631754	48758	48483	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3275	92.28		True
+unknown
+219083	219398	54275	53960	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3275	93.69		True
+unknown
+3029768	3030221	88837	88385	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3275	90.35		True
+unknown
+3011962	3012336	105728	105353	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3275	92.33		True
+unknown
+3007644	3007931	110419	110130	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3275	92.78		True
+unknown
+72683	72956	153424	153705	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3275	90.07		True
+unknown
+1408504	1409418	188822	187908	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3275	90.66		True
+unknown
+2644228	2645189	263970	264932	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3275	91.38		True
+unknown
+2602059	2603203	299910	301052	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3275	90.1		True
+unknown
+2611166	2611238	309181	309253	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3275	100.0		True
+unknown
+3167979	3168335	326144	325787	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3275	90.78		True
+unknown
+2466600	2468133	417449	418992	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3275	90.03		True
+unknown
+192127	192457	446034	446364	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3275	90.36		True
+unknown
+236560	236663	490254	490357	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3275	96.15		True
+unknown
+256988	260770	534607	538450	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3275	90.19		True
+unknown
+260771	261017	538518	538764	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3275	97.17		True
+unknown
+1831596	1838908	556547	563896	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3275	90.39		True
+unknown
+1842772	1844060	568979	570269	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3275	94.58		True
+unknown
+1849577	1857008	576088	583533	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3275	90.12		True
+unknown
+2005350	2006190	586340	587179	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3275	90.13		True
+unknown
+2008104	2008209	589095	589199	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3275	98.11		True
+unknown
+2018431	2018669	599769	600008	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3275	90.0		True
+unknown
+767335	767980	662431	661778	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3275	90.33		True
+unknown
+CONTIG	contig_3275	738335	mis_unaligned
+468649	468777	22952	22824	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_33	93.18		True
+CONTIG	contig_33	38475	correct_unaligned
+1813604	1813707	240229	240126	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3392	96.15		True
+CONTIG	contig_3392	355286	correct_unaligned
+2771382	2771923	17983	18529	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3427	90.13		True
+CONTIG	contig_3427	18950	correct_unaligned
+2894744	2895935	1283	86	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3434	90.73		True
+CONTIG	contig_3434	5913	correct_unaligned
+598880	600273	131873	130481	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_347	90.01		True
+CONTIG	contig_347	188139	correct_unaligned
+3118019	3118623	16484	15882	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3561	94.06		True
+unknown
+2284507	2287771	22339	19074	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3561	90.11		True
+unknown
+2282810	2283534	24143	23417	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3561	90.12		True
+unknown
+CONTIG	contig_3561	50116	mis_unaligned
+812441	812759	4061	4381	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3562	90.12		True
+unknown
+833123	833503	19004	19384	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3562	90.03		True
+unknown
+CONTIG	contig_3562	25092	mis_unaligned
+1077197	1078026	2416	1585	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3570	97.72		True
+unknown
+1075105	1075740	3052	2419	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3570	96.7		True
+unknown
+CONTIG	contig_3570	32756	mis_unaligned
+1446948	1452830	8285	2203	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3571	92.34		True
+CONTIG	contig_3571	8436	correct
+2931097	2938349	7715	454	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3572	94.98		True
+relocation, inconsistency = -1589
+2929559	2930757	9644	10842	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3572	98.92		True
+CONTIG	contig_3572	12252	misassembled
+1590537	1590853	5081	4764	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3573	95.3		True
+relocation, inconsistency = 693164
+2284607	2287953	5671	9016	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3573	92.2		True
+relocation, inconsistency = 827666
+3118021	3123235	11418	16697	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3573	96.36		True
+relocation, inconsistency = -334358
+2789035	2789784	16855	17631	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3573	90.99		True
+CONTIG	contig_3573	17631	misassembled
+2030355	2033411	4186	1122	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3577	96.79		True
+local misassembly
+2026446	2029975	7777	4195	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3577	95.04		True
+CONTIG	contig_3577	8095	correct
+1840956	1842653	2721	4418	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3579	98.06		True
+CONTIG	contig_3579	4418	correct_unaligned
+221656	248789	28258	1048	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3580	98.23		True
+local misassembly
+221559	221646	28569	28482	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3580	98.86		True
+local misassembly
+221435	221561	28930	28804	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3580	96.85		True
+local misassembly
+214254	221440	36346	29167	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3580	99.5		True
+local misassembly
+212660	214071	38939	37490	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3580	94.24		True
+local misassembly
+208923	212074	43668	40523	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3580	98.79		True
+relocation, inconsistency = -9160
+177777	208923	83898	52828	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3580	98.87		True
+relocation, inconsistency = -2307329
+2438438	2484919	130549	84085	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3580	98.69		True
+relocation, inconsistency = 2034336
+389925	401812	144714	132839	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3580	99.08		True
+relocation, inconsistency = 2746010
+3147834	3174674	144726	171717	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3580	97.33		True
+relocation, inconsistency = -211292
+2963383	2967926	171718	176259	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3580	98.58		True
+relocation, inconsistency = 347317
+2582598	2616052	209674	176273	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3580	98.4		True
+relocation, inconsistency = -77528
+2657073	2659999	212725	209801	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3580	99.25		True
+local misassembly
+2635367	2657073	234747	213062	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3580	98.56		True
+relocation, inconsistency = 1401353
+1191684	1233986	234775	277040	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3580	98.11		True
+relocation, inconsistency = 2583
+1240826	1248347	281297	288811	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3580	99.32		True
+relocation, inconsistency = 1620490
+2868838	2876348	288812	296271	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3580	97.93		True
+relocation, inconsistency = -2255171
+621178	629888	296272	304968	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3580	98.9		True
+relocation, inconsistency = 771268
+1401187	1405802	304999	309502	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3580	94.17		True
+CONTIG	contig_3580	309502	misassembled
+2467493	2468939	1427	1	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3581	96.08		True
+CONTIG	contig_3581	10786	correct_unaligned
+389925	392673	2747	8	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3582	98.44		True
+relocation, inconsistency = 2755117
+3147835	3161312	2792	16294	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3582	98.4		True
+CONTIG	contig_3582	16336	misassembled
+1233982	1242321	1	8326	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3584	98.96		True
+CONTIG	contig_3584	8326	correct
+3040137	3046071	1	5996	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3585	95.22		True
+relocation, inconsistency = -431022
+2616166	2622370	7113	13344	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3585	97.65		True
+CONTIG	contig_3585	13344	misassembled
+497244	497404	1439	1596	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3587	97.52		True
+local misassembly
+497405	500762	2211	5569	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3587	97.84		True
+local misassembly
+501254	501417	6055	6218	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3587	95.12		True
+CONTIG	contig_3587	6218	correct
+373359	374037	36925	36249	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3591	90.74		True
+unknown
+2894378	2896001	110796	109142	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3591	91.12		True
+unknown
+1863552	1864333	149792	150573	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3591	90.03		True
+unknown
+2488688	2488979	168081	168372	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3591	90.75		True
+unknown
+1358792	1359536	348776	349521	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3591	90.21		True
+unknown
+1946586	1946665	397020	396940	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3591	96.3		True
+unknown
+1946406	1946585	397225	397042	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3591	95.11		True
+unknown
+639924	640214	523932	523642	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3591	92.47		True
+unknown
+606748	607029	537664	537383	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3591	90.07		True
+unknown
+598881	600293	546175	544763	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3591	93.09		True
+unknown
+528452	529427	592953	591979	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3591	91.8		True
+unknown
+CONTIG	contig_3591	648497	mis_unaligned
+2816961	2822440	1	5487	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3592	97.46		True
+unknown
+2430862	2431493	26960	27591	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3592	92.56		True
+unknown
+1785027	1785406	45636	46022	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3592	90.66		True
+unknown
+27673	28968	62260	60960	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3592	90.12		True
+unknown
+CONTIG	contig_3592	118275	mis_unaligned
+1637429	1637683	296	44	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3594	95.69		True
+local misassembly
+1636339	1637173	1189	330	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3594	94.42		True
+CONTIG	contig_3594	1189	correct
+1611408	1613311	1	1890	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3596	90.52		True
+CONTIG	contig_3596	329303	correct_unaligned
+1962834	1974116	1049	12326	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3597	99.1		True
+CONTIG	contig_3597	37688	correct_unaligned
+3004208	3005503	5227	3926	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3598	94.19		True
+CONTIG	contig_3598	5251	correct_unaligned
+1913233	1914843	344338	342730	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3600	90.32		True
+unknown
+1702172	1703700	644537	643011	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3600	90.66		True
+unknown
+1873701	1874074	801008	800637	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3600	90.91		True
+unknown
+CONTIG	contig_3600	812541	mis_unaligned
+2562225	2564290	73306	75371	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3653	90.32		True
+unknown
+2995558	2996806	127576	128824	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3653	90.07		True
+unknown
+2829335	2831098	132386	130623	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3653	90.14		True
+unknown
+1872061	1873651	144345	145933	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3653	95.1		True
+unknown
+2172110	2173366	215706	214449	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3653	91.36		True
+unknown
+2165370	2165518	222361	222213	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3653	95.97		True
+unknown
+2163472	2164042	224459	223889	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3653	90.89		True
+unknown
+1702107	1703924	318659	320481	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3653	93.91		True
+unknown
+CONTIG	contig_3653	369410	mis_unaligned
+1946413	1946665	46659	46410	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3661	90.27		True
+CONTIG	contig_3661	430814	correct_unaligned
+617857	618215	1066706	1066348	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_367	91.41		True
+unknown
+2431736	2432129	1143730	1143336	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_367	90.15		True
+unknown
+2430920	2431230	1144953	1144643	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_367	91.4		True
+unknown
+2414874	2415063	1160218	1160029	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_367	94.21		True
+unknown
+2816957	2822361	1169025	1163647	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_367	94.53		True
+unknown
+881955	882483	1183923	1184451	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_367	90.74		True
+unknown
+2894647	2895983	1548184	1549521	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_367	90.06		True
+unknown
+598906	600273	1650438	1649071	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_367	90.23		True
+unknown
+CONTIG	contig_367	1650438	mis_unaligned
+2860629	2860706	286334	286257	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3681	98.72		True
+CONTIG	contig_3681	303672	correct_unaligned
+2466893	2468120	10784	12014	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3719	90.01		True
+unknown
+236480	236666	85384	85569	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3719	91.44		True
+unknown
+237034	237786	85926	86678	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3719	91.24		True
+unknown
+256992	260770	102064	105867	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3719	90.67		True
+unknown
+260771	261017	105919	106165	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3719	97.57		True
+unknown
+1835332	1837041	128633	130342	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3719	92.4		True
+unknown
+1842772	1844060	135962	137251	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3719	94.5		True
+unknown
+1849577	1856866	142989	150286	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3719	90.64		True
+unknown
+1857542	1857840	151027	151327	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3719	90.13		True
+unknown
+767342	768028	221727	221044	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3719	92.2		True
+unknown
+832744	832973	266720	266491	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3719	90.0		True
+unknown
+831590	832118	268038	267498	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3719	90.02		True
+unknown
+110438	111868	335854	334423	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3719	91.35		True
+unknown
+109441	109850	336886	336476	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3719	91.53		True
+unknown
+105258	105677	341024	340604	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3719	90.76		True
+unknown
+1507583	1508793	568693	567483	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3719	90.19		True
+unknown
+714433	715667	575905	574664	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3719	92.77		True
+unknown
+711484	714271	580870	578057	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3719	97.23		True
+unknown
+2909458	2910206	663513	664263	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3719	90.01		True
+unknown
+2918417	2918660	672184	672429	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3719	92.74		True
+unknown
+1683995	1684581	783268	783858	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3719	91.41		True
+unknown
+CONTIG	contig_3719	873655	mis_unaligned
+680239	682118	4594	2713	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3723	90.22		True
+unknown
+2631471	2631754	5652	5377	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3723	92.25		True
+unknown
+CONTIG	contig_3723	33195	mis_unaligned
+1335984	1336079	126	32	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3790	96.88		True
+CONTIG	contig_3790	52180	correct_unaligned
+1831844	1832180	1242533	1242197	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_380	90.29		True
+unknown
+1829717	1829912	1244624	1244428	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_380	90.36		True
+unknown
+2820604	2822132	1659814	1658291	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_380	90.04		True
+unknown
+2818750	2819786	1661631	1660616	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_380	90.07		True
+unknown
+2817269	2818287	1663109	1662096	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_380	91.78		True
+unknown
+CONTIG	contig_380	3416273	mis_unaligned
+2820601	2822127	30675	29144	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3829	90.79		True
+CONTIG	contig_3829	37650	correct_unaligned
+2873360	2873524	36259	36095	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3842	90.42		True
+CONTIG	contig_3842	43685	correct_unaligned
+2754649	2754793	35969	35824	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3892	91.22		True
+CONTIG	contig_3892	53541	correct_unaligned
+1861672	1862005	214349	214015	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3894	91.34		True
+unknown
+2894744	2895984	241784	243028	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3894	90.28		True
+unknown
+CONTIG	contig_3894	265180	mis_unaligned
+1904628	1904973	91266	91611	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_392	90.17		True
+CONTIG	contig_392	222353	correct_unaligned
+227265	227444	44405	44226	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3926	90.0		True
+CONTIG	contig_3926	53689	correct_unaligned
+1861677	1861933	101958	102214	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3963	91.44		True
+CONTIG	contig_3963	344378	correct_unaligned
+241177	241318	45037	44898	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_3965	92.96		True
+CONTIG	contig_3965	213804	correct_unaligned
+3012042	3012337	83937	83642	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4	91.28		True
+unknown
+1832724	1833119	469828	470223	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4	90.4		True
+unknown
+CONTIG	contig_4	487848	mis_unaligned
+1267154	1267309	202139	202294	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4033	93.59		True
+CONTIG	contig_4033	286159	correct_unaligned
+2750837	2750913	198621	198545	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4066	100.0		True
+CONTIG	contig_4066	199415	correct_unaligned
+2873314	2873525	64199	63989	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4207	90.09		True
+CONTIG	contig_4207	177228	correct_unaligned
+780180	780325	147842	147697	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4220	91.89		True
+CONTIG	contig_4220	177647	correct_unaligned
+2894376	2896001	7552	9200	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4236	91.09		True
+CONTIG	contig_4236	39449	correct_unaligned
+2816957	2822366	12953	7580	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4289	91.63		True
+CONTIG	contig_4289	69598	correct_unaligned
+1979905	1980003	20585	20681	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4298	94.95		True
+CONTIG	contig_4298	64896	correct_unaligned
+1211560	1211654	453	547	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4342	95.79		True
+CONTIG	contig_4342	6686	correct_unaligned
+2816957	2822361	381248	386629	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_44	92.21		True
+unknown
+2430951	2431239	402500	402788	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_44	92.39		True
+unknown
+CONTIG	contig_44	1167896	mis_unaligned
+1736897	1743795	15908	8742	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4422	90.29		True
+unknown
+1628103	1629025	63569	64490	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4422	90.03		True
+unknown
+CONTIG	contig_4422	85490	mis_unaligned
+2690488	2691428	25682	24741	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4423	94.17		True
+CONTIG	contig_4423	59640	correct_unaligned
+853382	853537	90107	90262	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4424	93.04		True
+CONTIG	contig_4424	137281	correct_unaligned
+2235031	2235230	211527	211725	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4435	91.04		True
+CONTIG	contig_4435	531174	correct_unaligned
+831673	832059	134848	135232	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4455	91.21		True
+unknown
+1832753	1833031	258655	258378	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4455	92.83		True
+unknown
+CONTIG	contig_4455	417137	mis_unaligned
+2818732	2822136	1845	5259	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4462	91.18		True
+CONTIG	contig_4462	289586	correct_unaligned
+468649	468722	1006	933	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4562	100.0		True
+CONTIG	contig_4562	3464	correct_unaligned
+77638	79483	38493	40338	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4615	90.3		True
+unknown
+95688	96293	66651	67255	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4615	91.91		True
+unknown
+CONTIG	contig_4615	203673	mis_unaligned
+2750837	2750913	69249	69174	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_463	98.7		True
+CONTIG	contig_463	194943	correct_unaligned
+1590378	1590531	15432	15585	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_465	98.05		True
+CONTIG	contig_465	18019	correct_unaligned
+1032765	1032979	151016	150802	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4655	92.17		True
+CONTIG	contig_4655	218388	correct_unaligned
+2961919	2962228	112834	112523	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4679	90.06		True
+CONTIG	contig_4679	241812	correct_unaligned
+1590537	1590790	97782	98034	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_469	93.31		True
+CONTIG	contig_469	209291	correct_unaligned
+2818738	2819789	87678	86647	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4800	90.02		True
+unknown
+2817269	2818458	89150	87964	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4800	90.59		True
+unknown
+CONTIG	contig_4800	431772	mis_unaligned
+1946576	1946665	3028	2942	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4897	93.33		True
+unknown
+1946413	1946575	3213	3053	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4897	91.41		True
+unknown
+CONTIG	contig_4897	19970	mis_unaligned
+1590537	1590790	4371	4119	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_490	92.52		True
+CONTIG	contig_490	16254	correct_unaligned
+2503294	2503523	8865	9095	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4928	90.13		True
+unknown
+2505603	2505858	11287	11547	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4928	90.04		True
+unknown
+2894469	2896001	87280	88819	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_4928	92.93		True
+unknown
+CONTIG	contig_4928	103368	mis_unaligned
+2505602	2505906	209351	209047	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_493	90.16		True
+unknown
+2816961	2822356	608885	614238	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_493	92.44		True
+unknown
+2430951	2431239	634171	634459	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_493	95.85		True
+unknown
+2431712	2431956	635448	635692	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_493	93.47		True
+unknown
+CONTIG	contig_493	774455	mis_unaligned
+2576750	2577011	36494	36755	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_497	90.08		True
+CONTIG	contig_497	67326	correct_unaligned
+1267021	1267471	45233	44783	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_498	90.02		True
+unknown
+3000268	3000853	78364	78948	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_498	90.44		True
+unknown
+617823	618215	763213	762821	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_498	90.84		True
+unknown
+607588	607661	772661	772589	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_498	98.65		True
+unknown
+2816957	2822356	1612802	1618183	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_498	92.98		True
+unknown
+2430951	2431239	1634090	1634378	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_498	93.77		True
+unknown
+2587482	2588345	1865902	1866764	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_498	90.28		True
+unknown
+2598413	2598627	1877106	1877319	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_498	90.28		True
+unknown
+1832752	1833122	2013383	2013753	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_498	90.03		True
+unknown
+831676	832041	2174706	2174341	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_498	91.35		True
+unknown
+CONTIG	contig_498	2559894	mis_unaligned
+1590537	1590853	27519	27836	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5012	94.04		True
+unknown
+1407450	1408223	34783	34013	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5012	97.42		True
+unknown
+CONTIG	contig_5012	34857	mis_unaligned
+2080161	2080688	61818	61295	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5014	90.23		True
+unknown
+2542881	2543816	66303	65365	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5014	90.53		True
+unknown
+2537129	2537266	72804	72667	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5014	93.48		True
+unknown
+2999950	3000928	76121	77097	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5014	91.78		True
+unknown
+1702107	1703760	109758	108108	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5014	95.24		True
+unknown
+1700142	1700341	111776	111577	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5014	90.5		True
+unknown
+2163472	2163827	213034	213388	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5014	92.42		True
+unknown
+2191962	2192214	257932	258185	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5014	92.16		True
+unknown
+2195307	2195578	261373	261644	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5014	90.81		True
+unknown
+1872061	1873642	282071	280486	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5014	94.39		True
+unknown
+2562213	2564290	338009	335929	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5014	90.61		True
+unknown
+1023849	1025271	393071	391648	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5014	98.03		True
+unknown
+CONTIG	contig_5014	408438	mis_unaligned
+992420	992949	567	32	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5016	91.81		True
+unknown
+964193	964971	22409	21630	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5016	90.51		True
+unknown
+932208	934730	64659	62119	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5016	92.16		True
+unknown
+2000816	2001238	189911	189493	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5016	94.13		True
+unknown
+1984060	1984698	205371	204732	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5016	91.12		True
+unknown
+CONTIG	contig_5016	359474	mis_unaligned
+2988581	2988758	2050	1873	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5024	90.5		True
+CONTIG	contig_5024	30218	correct_unaligned
+109464	109855	106051	106441	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5125	91.35		True
+unknown
+110438	111864	107050	108477	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5125	90.92		True
+unknown
+CONTIG	contig_5125	151272	mis_unaligned
+1590380	1590531	4921	5072	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5156	98.03		True
+CONTIG	contig_5156	12386	correct_unaligned
+1590381	1590531	6637	6787	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5159	97.35		True
+CONTIG	contig_5159	14021	correct_unaligned
+831673	832041	175881	175513	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5225	92.14		True
+unknown
+2759070	2759534	315780	316244	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5225	90.38		True
+unknown
+3118019	3118623	335532	334933	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5225	93.6		True
+unknown
+2939194	2939812	345231	345851	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5225	90.02		True
+unknown
+2278323	2278947	346751	346126	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5225	90.27		True
+unknown
+CONTIG	contig_5225	368899	mis_unaligned
+2408361	2408806	45048	45495	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5226	90.04		True
+unknown
+3118019	3118613	56193	56790	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5226	91.6		True
+unknown
+CONTIG	contig_5226	58088	mis_unaligned
+2759204	2759476	7025	6753	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5254	90.84		True
+CONTIG	contig_5254	44807	correct_unaligned
+590108	590245	20797	20660	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5312	92.03		True
+CONTIG	contig_5312	29813	correct_unaligned
+415244	415463	221615	221834	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5314	91.86		True
+CONTIG	contig_5314	309522	correct_unaligned
+1913224	1914933	16850	18565	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5335	92.45		True
+CONTIG	contig_5335	31730	correct_unaligned
+1904786	1905084	3947	3649	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5382	90.3		True
+unknown
+2314195	2315039	38100	37259	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5382	98.7		True
+unknown
+CONTIG	contig_5382	163157	mis_unaligned
+1979905	1980003	17683	17781	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5416	97.98		True
+CONTIG	contig_5416	22519	correct_unaligned
+293836	296727	2898	11	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5427	99.1		True
+CONTIG	contig_5427	2901	correct
+408954	409108	14215	14061	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5457	91.61		True
+CONTIG	contig_5457	22685	correct_unaligned
+883273	883506	17323	17090	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_551	90.17		True
+CONTIG	contig_551	117962	correct_unaligned
+2860630	2860705	42292	42217	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_560	100.0		True
+CONTIG	contig_560	57244	correct_unaligned
+1832757	1832998	10097	9855	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5635	90.12		True
+CONTIG	contig_5635	137756	correct_unaligned
+1267164	1267309	112519	112664	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_57	91.1		True
+CONTIG	contig_57	134229	correct_unaligned
+1974855	1974931	6406	6482	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5800	98.7		True
+CONTIG	contig_5800	37454	correct_unaligned
+715491	715652	30692	30854	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5807	92.02		True
+CONTIG	contig_5807	43383	correct_unaligned
+2364269	2366303	1	2034	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5835	99.56		True
+relocation, inconsistency = -228188
+2139189	2146163	3108	10066	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5835	99.01		True
+CONTIG	contig_5835	10066	misassembled
+1821501	1821657	25288	25132	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5859	93.63		True
+CONTIG	contig_5859	40559	correct_unaligned
+1923274	1923387	15887	16000	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5923	93.04		True
+CONTIG	contig_5923	22677	correct_unaligned
+2571296	2573818	2541	1	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5935	94.29		True
+unknown
+2570822	2571175	4647	4295	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5935	96.89		True
+unknown
+1719124	1721213	12138	10051	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5935	99.47		True
+unknown
+2566751	2570822	21067	17001	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5935	97.86		True
+unknown
+1567287	1569145	29550	27714	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_5935	94.14		True
+unknown
+CONTIG	contig_5935	29550	mis_unaligned
+260601	260720	47250	47131	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6101	95.0		True
+CONTIG	contig_6101	420559	correct_unaligned
+2080214	2080406	94296	94487	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6103	93.26		True
+CONTIG	contig_6103	123873	correct_unaligned
+715491	715622	76976	76845	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6151	92.42		True
+CONTIG	contig_6151	154985	correct_unaligned
+1267154	1267327	154230	154403	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6193	90.8		True
+CONTIG	contig_6193	413884	correct_unaligned
+2982149	2982225	21928	21852	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6228	100.0		True
+CONTIG	contig_6228	90051	correct_unaligned
+2571296	2573858	2673	117	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6287	97.79		True
+relocation, inconsistency = -1626
+2565606	2571212	9985	4383	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6287	98.31		True
+relocation, inconsistency = 992742
+1566948	1569092	15899	13757	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6287	98.98		True
+CONTIG	contig_6287	15899	misassembled
+2195460	2195596	8384	8249	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6329	91.97		True
+CONTIG	contig_6329	117946	correct_unaligned
+1567964	1568200	20307	20066	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6387	90.95		True
+unknown
+1561410	1562464	26118	25066	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6387	90.05		True
+unknown
+1543398	1544122	47463	46737	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6387	90.23		True
+unknown
+1533466	1533630	58177	58013	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6387	95.78		True
+unknown
+1527756	1527970	62919	62706	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6387	90.23		True
+unknown
+CONTIG	contig_6387	146436	mis_unaligned
+141675	147144	9681	4167	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6399	94.82		True
+CONTIG	contig_6399	9681	correct
+156905	163164	13260	7064	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6400	93.72		True
+CONTIG	contig_6400	13260	correct_unaligned
+1267163	1267309	23502	23356	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6415	91.84		True
+CONTIG	contig_6415	151800	correct_unaligned
+2821682	2821842	7947	8107	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6421	90.06		True
+CONTIG	contig_6421	45029	correct_unaligned
+3087036	3087345	173857	173548	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_65	90.65		True
+unknown
+2431727	2432129	737724	737323	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_65	90.89		True
+unknown
+2430920	2431239	738994	738675	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_65	93.44		True
+unknown
+2816957	2822367	765590	760220	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_65	92.5		True
+unknown
+598880	600256	876549	877923	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_65	90.2		True
+unknown
+CONTIG	contig_65	910031	mis_unaligned
+853354	853533	26904	26725	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_651	91.67		True
+CONTIG	contig_651	242518	correct_unaligned
+2611165	2611238	69807	69880	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6510	98.65		True
+CONTIG	contig_6510	239677	correct_unaligned
+2488688	2488979	13879	13587	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6518	90.1		True
+CONTIG	contig_6518	16071	correct_unaligned
+1590381	1590531	20384	20534	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_653	98.01		True
+CONTIG	contig_653	39690	correct_unaligned
+1567964	1568212	13915	14163	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_655	90.08		True
+unknown
+1568679	1568983	14658	14962	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_655	91.21		True
+unknown
+2576253	2576954	26567	27268	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_655	90.03		True
+unknown
+1912975	1914933	52154	54121	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_655	90.76		True
+unknown
+289874	290557	270025	270709	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_655	90.07		True
+unknown
+294035	294366	277301	277641	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_655	92.96		True
+unknown
+CONTIG	contig_655	297931	mis_unaligned
+1590378	1590531	11026	10873	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_656	98.05		True
+CONTIG	contig_656	18598	correct_unaligned
+294035	294810	7971	8747	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6570	94.73		True
+CONTIG	contig_6570	22584	correct_unaligned
+298079	298544	252879	252409	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6571	94.94		True
+unknown
+297845	298087	254677	254434	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6571	96.31		True
+unknown
+296704	297844	255944	254797	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6571	95.82		True
+unknown
+16150	16961	305868	305058	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6571	91.63		True
+unknown
+12985	13662	309105	308428	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6571	90.0		True
+unknown
+7889	9376	326298	324809	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6571	91.84		True
+unknown
+2366416	2366899	358253	357769	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6571	90.31		True
+unknown
+862269	864178	360186	358278	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6571	90.34		True
+unknown
+853566	853947	375613	375235	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6571	92.41		True
+unknown
+853267	853565	375949	375652	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6571	92.98		True
+unknown
+852184	852814	377071	376426	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6571	90.52		True
+unknown
+846678	847561	383148	382270	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6571	90.76		True
+unknown
+2760423	2760812	468332	467942	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6571	92.58		True
+unknown
+CONTIG	contig_6571	566605	mis_unaligned
+1873766	1873893	22306	22172	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6604	91.85		True
+CONTIG	contig_6604	165409	correct_unaligned
+2644222	2645186	75214	76175	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6606	90.91		True
+unknown
+3167977	3168299	137434	137110	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6606	92.33		True
+unknown
+CONTIG	contig_6606	194940	mis_unaligned
+853355	853537	20691	20873	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6612	91.89		True
+CONTIG	contig_6612	32517	correct_unaligned
+853382	853537	23094	23249	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6614	93.04		True
+CONTIG	contig_6614	33338	correct_unaligned
+2387566	2387772	18162	18368	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6619	94.2		True
+CONTIG	contig_6619	58715	correct_unaligned
+294035	294366	7994	8329	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_666	95.54		True
+CONTIG	contig_666	36779	correct_unaligned
+312227	312540	48180	47869	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_670	93.63		True
+CONTIG	contig_670	52344	correct_unaligned
+1755486	1761589	13641	7549	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6713	91.5		True
+CONTIG	contig_6713	13642	correct_unaligned
+2272291	2272494	163414	163211	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6728	90.2		True
+CONTIG	contig_6728	297687	correct_unaligned
+1904782	1904931	122101	122250	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6792	92.67		True
+CONTIG	contig_6792	142883	correct_unaligned
+1834344	1834520	136265	136089	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_68	90.96		True
+CONTIG	contig_68	140474	correct_unaligned
+414801	414908	18100	18207	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6852	94.44		True
+unknown
+415241	415458	18527	18745	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6852	90.41		True
+unknown
+CONTIG	contig_6852	114075	mis_unaligned
+2272076	2272160	113277	113193	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6882	96.47		True
+CONTIG	contig_6882	162489	correct_unaligned
+2178800	2178927	117128	117001	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6923	92.25		True
+CONTIG	contig_6923	212600	correct_unaligned
+72684	72882	12242	12439	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6965	97.99		True
+CONTIG	contig_6965	52354	correct_unaligned
+3098589	3098906	19329	19649	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_6994	96.27		True
+CONTIG	contig_6994	37208	correct_unaligned
+2820602	2822129	1660	3210	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_7007	90.15		True
+CONTIG	contig_7007	5414	correct_unaligned
+2033423	2034260	4458	5297	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_7088	97.28		True
+CONTIG	contig_7088	36295	correct_unaligned
+1861716	1861935	2233	2452	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_7090	90.91		True
+CONTIG	contig_7090	19916	correct_unaligned
+1832753	1833061	105357	105050	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_7112	90.29		True
+CONTIG	contig_7112	167907	correct_unaligned
+1440607	1440742	319512	319646	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_7119	91.43		True
+CONTIG	contig_7119	353893	correct_unaligned
+1474879	1474956	14790	14867	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_716	98.72		True
+CONTIG	contig_716	105940	correct_unaligned
+2817436	2817633	67090	66892	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_7162	90.45		True
+CONTIG	contig_7162	273006	correct_unaligned
+2690000	2690088	46881	46966	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_7179	96.63		True
+CONTIG	contig_7179	52145	correct_unaligned
+1590381	1590535	14067	13913	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_72	98.06		True
+CONTIG	contig_72	44239	correct_unaligned
+2080161	2080408	340191	339944	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_721	91.97		True
+CONTIG	contig_721	770236	correct_unaligned
+1946586	1946665	207026	206946	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_7211	96.3		True
+unknown
+1946407	1946585	207238	207055	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_7211	95.11		True
+unknown
+598883	600304	351196	349774	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_7211	93.12		True
+unknown
+616584	617203	489317	489943	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_7211	90.55		True
+unknown
+3026494	3027309	543608	542782	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_7211	91.41		True
+unknown
+3007645	3007934	564518	564227	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_7211	92.86		True
+unknown
+2951648	2952266	570896	571517	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_7211	90.35		True
+unknown
+2961895	2962451	581024	581583	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_7211	90.18		True
+unknown
+CONTIG	contig_7211	597710	mis_unaligned
+2801581	2801765	50958	51142	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_7467	91.35		True
+CONTIG	contig_7467	55347	correct_unaligned
+3172179	3172322	17586	17443	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_7501	91.1		True
+CONTIG	contig_7501	46961	correct_unaligned
+1210470	1210543	50204	50131	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_7690	98.65		True
+CONTIG	contig_7690	66718	correct_unaligned
+2860629	2860801	6607	6425	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_7696	92.35		True
+CONTIG	contig_7696	52293	correct_unaligned
+1564285	1565205	3146	2220	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_7794	90.11		True
+CONTIG	contig_7794	68480	correct_unaligned
+1648874	1649029	40604	40760	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_7833	91.08		True
+CONTIG	contig_7833	145924	correct_unaligned
+2690950	2691427	190895	191376	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_787	90.04		True
+unknown
+2690488	2690822	192207	191876	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_787	92.54		True
+unknown
+CONTIG	contig_787	219232	mis_unaligned
+767335	767980	10836	11489	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_7906	91.13		True
+CONTIG	contig_7906	16997	correct_unaligned
+831678	832066	221521	221909	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_7958	90.23		True
+CONTIG	contig_7958	281117	correct_unaligned
+2366479	2366870	22659	23052	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_7959	90.36		True
+CONTIG	contig_7959	36676	correct_unaligned
+1295650	1298035	2422	1	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_811	93.84		True
+unknown
+1284683	1288210	5913	2384	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_811	95.46		True
+unknown
+CONTIG	contig_811	72399	mis_unaligned
+312541	312872	6541	6873	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_8127	92.49		True
+CONTIG	contig_8127	28521	correct_unaligned
+1946503	1946665	71856	71687	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_8183	90.59		True
+CONTIG	contig_8183	87797	correct_unaligned
+1110238	1110387	8688	8540	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_8229	92.0		True
+CONTIG	contig_8229	116109	correct_unaligned
+1821413	1821571	71275	71433	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_8341	92.45		True
+CONTIG	contig_8341	107271	correct_unaligned
+3000269	3000487	11146	11365	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_8487	90.0		True
+CONTIG	contig_8487	329098	correct_unaligned
+2982148	2982225	89809	89886	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_8618	100.0		True
+CONTIG	contig_8618	129317	correct_unaligned
+1854249	1854844	19782	20376	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_8655	90.1		True
+CONTIG	contig_8655	156965	correct_unaligned
+2127439	2127557	53871	53989	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_8683	93.28		True
+CONTIG	contig_8683	64494	correct_unaligned
+1617405	1617647	960	1203	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_8711	90.57		True
+CONTIG	contig_8711	16705	correct_unaligned
+1888746	1888993	5789	5541	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_8727	90.36		True
+CONTIG	contig_8727	23629	correct_unaligned
+2820602	2822127	30689	32207	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_8781	90.37		True
+CONTIG	contig_8781	70802	correct_unaligned
+269276	269475	30056	29857	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_8803	93.53		True
+CONTIG	contig_8803	53989	correct_unaligned
+2817440	2818287	1566	2418	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_8834	90.74		True
+CONTIG	contig_8834	84983	correct_unaligned
+2562263	2562442	19462	19641	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_8854	91.11		True
+CONTIG	contig_8854	122862	correct_unaligned
+1818763	1819084	43134	42813	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_8867	90.06		True
+CONTIG	contig_8867	75954	correct_unaligned
+2598420	2598627	177405	177198	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_892	90.43		True
+unknown
+2593656	2594232	182040	181463	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_892	90.31		True
+unknown
+CONTIG	contig_892	187975	mis_unaligned
+2387569	2387763	22886	23080	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_899	94.87		True
+CONTIG	contig_899	32823	correct_unaligned
+738994	747311	8306	1	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9	97.72		True
+CONTIG	contig_9	8306	correct
+359341	359588	10795	10548	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9002	91.13		True
+CONTIG	contig_9002	25590	correct_unaligned
+1441051	1441248	28624	28427	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_901	91.5		True
+CONTIG	contig_901	63729	correct_unaligned
+1017141	1017226	24202	24287	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9013	96.51		True
+CONTIG	contig_9013	42908	correct_unaligned
+324013	327596	21797	18219	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9014	99.61		True
+unknown
+327688	328705	22795	21779	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9014	99.8		True
+unknown
+CONTIG	contig_9014	22829	mis_unaligned
+3118029	3123235	1	5192	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9043	99.08		True
+relocation, inconsistency = -334349
+2789032	2793573	5338	9913	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9043	97.47		True
+relocation, inconsistency = -7689
+2793574	2799326	17603	23347	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9043	98.47		True
+relocation, inconsistency = 1488448
+1295648	1305084	32812	23389	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9043	98.92		True
+relocation, inconsistency = 7478
+1284479	1288169	36503	32813	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9043	98.16		True
+CONTIG	contig_9043	36503	misassembled
+368870	370283	78653	80070	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_906	90.55		True
+unknown
+1267113	1267480	328093	327725	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_906	91.33		True
+unknown
+CONTIG	contig_906	704037	mis_unaligned
+1742303	1742493	667480	667671	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9104	91.67		True
+CONTIG	contig_9104	811987	correct_unaligned
+357837	364720	5401	12271	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9120	98.75		True
+relocation, inconsistency = 253222
+98580	104448	18303	12438	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9120	97.96		True
+relocation, inconsistency = 378607
+483056	485917	18304	21169	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9120	98.02		True
+relocation, inconsistency = 456933
+11444	26120	35996	21172	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9120	97.65		True
+local misassembly
+20	11208	47178	35997	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9120	98.79		True
+relocation, inconsistency = -3072838
+3064029	3072380	55930	47656	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9120	97.53		True
+relocation, inconsistency = 694172
+2366404	2369856	59376	55931	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9120	98.85		True
+relocation, inconsistency = 1502213
+861802	864178	61760	59389	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9120	99.24		True
+relocation, inconsistency = -2533
+846685	861802	79453	64293	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9120	98.44		True
+CONTIG	contig_9120	79453	misassembled
+2937442	2937959	1719	2240	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9178	90.42		True
+unknown
+2278323	2279666	7620	6270	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9178	92.93		True
+unknown
+CONTIG	contig_9178	167803	mis_unaligned
+2817437	2817633	136720	136524	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_92	90.36		True
+CONTIG	contig_92	224667	correct_unaligned
+2898121	2908740	1	10612	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9224	99.07		True
+CONTIG	contig_9224	10612	correct
+1595364	1613358	18011	1	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9240	98.44		True
+relocation, inconsistency = 557668
+1036414	1037654	18053	19287	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9240	96.78		True
+relocation, inconsistency = 553541
+1591439	1595369	23432	19531	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9240	98.19		True
+relocation, inconsistency = 134870
+1730240	1732095	23433	25288	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9240	98.89		True
+relocation, inconsistency = 2060
+1734156	1740470	25289	31594	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9240	98.39		True
+CONTIG	contig_9240	31594	misassembled
+468649	468723	93	19	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9298	100.0		True
+CONTIG	contig_9298	3028	correct_unaligned
+617808	618215	15898	16306	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9390	91.44		True
+CONTIG	contig_9390	32865	correct_unaligned
+2073795	2073885	117684	117775	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_9435	96.74		True
+CONTIG	contig_9435	188042	correct_unaligned
+2817436	2817633	2798	2601	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_95	90.4		True
+CONTIG	contig_95	229356	correct_unaligned
+2817437	2817633	826959	826763	Tetrasphaera_elongata_Lp2_NZ_HF570956.1	contig_98	90.36		True
+CONTIG	contig_98	1119886	correct_unaligned

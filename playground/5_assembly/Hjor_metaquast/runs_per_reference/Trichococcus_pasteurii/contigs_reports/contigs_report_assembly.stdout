@@ -1,0 +1,860 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [Trichococcus_pasteurii_NZ_UETS01000001.1]
+	Loaded [Trichococcus_pasteurii_NZ_UETS01000002.1]
+	Loaded [Trichococcus_pasteurii_NZ_UETS01000003.1]
+	Loaded [Trichococcus_pasteurii_NZ_UETS01000004.1]
+	Loaded [Trichococcus_pasteurii_NZ_UETS01000005.1]
+	Loaded [Trichococcus_pasteurii_NZ_UETS01000006.1]
+	Loaded [Trichococcus_pasteurii_NZ_UETS01000007.1]
+	Loaded [Trichococcus_pasteurii_NZ_UETS01000008.1]
+	Loaded [Trichococcus_pasteurii_NZ_UETS01000009.1]
+	Loaded [Trichococcus_pasteurii_NZ_UETS01000010.1]
+	Loaded [Trichococcus_pasteurii_NZ_UETS01000011.1]
+	Loaded [Trichococcus_pasteurii_NZ_UETS01000012.1]
+	Loaded [Trichococcus_pasteurii_NZ_UETS01000013.1]
+	Loaded [Trichococcus_pasteurii_NZ_UETS01000014.1]
+	Loaded [Trichococcus_pasteurii_NZ_UETS01000015.1]
+	Loaded [Trichococcus_pasteurii_NZ_UETS01000016.1]
+	Loaded [Trichococcus_pasteurii_NZ_UETS01000017.1]
+	Loaded [Trichococcus_pasteurii_NZ_UETS01000018.1]
+	Loaded [Trichococcus_pasteurii_NZ_UETS01000019.1]
+	Loaded [Trichococcus_pasteurii_NZ_UETS01000020.1]
+	Loaded [Trichococcus_pasteurii_NZ_UETS01000021.1]
+	Total Regions: 21
+	Total Region Length: 3234289
+Analyzing contigs...
+CONTIG: contig_101 (235743bp)
+Best alignment score: 210.0 (LEN: 232, IDY: 90.52), Total number of alignments: 6
+			Looking for the best set of alignments (out of 6 total alignments)
+			The best set is below. Score: 375.3, number of alignments: 6, unaligned bases: 234775
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 968 out of 235743 non-N bases (0.41%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 235743 (number of Ns: 0) and total length of all aligns is 968
+		Alignment: 1131 1221 | 2099 2009 | 91 91 | 96.7 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_101
+		Alignment: 493 724 | 2737 2506 | 232 232 | 90.52 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_101
+		Alignment: 1131 1221 | 93190 93100 | 91 91 | 96.7 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_101
+		Alignment: 493 724 | 93828 93597 | 232 232 | 90.52 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_101
+		Alignment: 1131 1221 | 217953 217863 | 91 91 | 96.7 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_101
+		Alignment: 494 724 | 218590 218360 | 231 231 | 90.48 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_101
+		Unaligned bases: 234775
+
+CONTIG: contig_1014 (912998bp)
+Best alignment score: 104.0 (LEN: 111, IDY: 93.69), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 505 615 | 446240 446350 | 111 111 | 93.69 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_1014
+		Skipping redundant alignment 132390 132500 | 446350 446240 | 111 111 | 93.69 | Trichococcus_pasteurii_NZ_UETS01000005.1 contig_1014
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 104.0, number of alignments: 1, unaligned bases: 912887
+		This contig is partially unaligned. (Aligned 111 out of 912998 non-N bases (0.01%))
+		Alignment: 129 239 | 446350 446240 | 111 111 | 93.69 | Trichococcus_pasteurii_NZ_UETS01000010.1 contig_1014
+		Unaligned bases: 1 to 446239 (446239)
+		Unaligned bases: 446351 to 912998 (466648)
+
+CONTIG: contig_1027 (53891bp)
+Best alignment score: 302.0 (LEN: 334, IDY: 90.42), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 488.7, number of alignments: 2, unaligned bases: 53352
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 539 out of 53891 non-N bases (1.00%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 53891 (number of Ns: 0) and total length of all aligns is 539
+		Alignment: 1128 1340 | 44511 44307 | 213 205 | 91.08 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_1027
+		Alignment: 433 765 | 45209 44876 | 333 334 | 90.42 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_1027
+		Unaligned bases: 53352
+
+CONTIG: contig_1255 (10819bp)
+Best alignment score: 4459.4 (LEN: 4741, IDY: 94.06), Total number of alignments: 9
+			Looking for the best set of alignments (out of 9 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 790 1218 | 1 434 | 429 434 | 97.24 | Trichococcus_pasteurii_NZ_UETS01000012.1 contig_1255
+		Skipping redundant alignment 1219 1589 | 538 911 | 371 374 | 94.65 | Trichococcus_pasteurii_NZ_UETS01000012.1 contig_1255
+		Skipping redundant alignment 135838 136614 | 8449 9247 | 777 799 | 92.24 | Trichococcus_pasteurii_NZ_UETS01000005.1 contig_1255
+		Skipping redundant alignment 136615 136782 | 9292 9456 | 168 165 | 94.64 | Trichococcus_pasteurii_NZ_UETS01000005.1 contig_1255
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 8472.3, number of alignments: 5, unaligned bases: 1407
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 9412 out of 10819 non-N bases (87.00%))
+			Real Alignment 1: 11163 12067 | 911 1 | 905 911 | 96.72 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_1255
+			  Extensive misassembly (relocation, inconsistency = 2130) between these two alignments
+			Excluding internal overlap of size 148 between Alignment 2 and 3: 3180 3837 | 6260 5604 | 658 657 --> 3180 3689 | 6260 5752 | 510 509
+			Real Alignment 2: 4172 8933 | 5751 1011 | 4762 4741 | 94.06 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_1255
+			  Gap between these two alignments (local misassembly). Inconsistency = 482
+			Excluding internal overlap of size 375 between Alignment 3 and 4: 3180 3689 | 6260 5752 | 510 509 --> 3555 3689 | 5885 5752 | 135 134
+			Real Alignment 3: 3555 3689 | 5885 5752 | 135 134 | 99.85 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_1255
+			  Gap between these two alignments (local misassembly). Inconsistency = 412
+			Real Alignment 4: 1 3142 | 9028 5886 | 3142 3143 | 99.46 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_1255
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 5: 180 664 | 10330 10812 | 485 483 | 97.13 | Trichococcus_pasteurii_NZ_UETS01000012.1 contig_1255
+		Unaligned bases: 1407
+
+CONTIG: contig_1437 (177045bp)
+Best alignment score: 258.3 (LEN: 286, IDY: 90.31), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 258.3, number of alignments: 1, unaligned bases: 176759
+		This contig is partially unaligned. (Aligned 286 out of 177045 non-N bases (0.16%))
+		Alignment: 1062 1346 | 162769 163054 | 285 286 | 90.31 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_1437
+		Unaligned bases: 1 to 162768 (162768)
+		Unaligned bases: 163055 to 177045 (13991)
+
+CONTIG: contig_1707 (825586bp)
+Best alignment score: 213.2 (LEN: 232, IDY: 91.88), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 294.2, number of alignments: 2, unaligned bases: 825271
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 315 out of 825586 non-N bases (0.04%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 825586 (number of Ns: 0) and total length of all aligns is 315
+		Alignment: 493 724 | 157706 157937 | 232 232 | 91.88 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_1707
+		Alignment: 1139 1221 | 158354 158436 | 83 83 | 97.59 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_1707
+		Unaligned bases: 825271
+
+CONTIG: contig_1816 (1163971bp)
+Best alignment score: 153.4 (LEN: 169, IDY: 90.75), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 153.4, number of alignments: 1, unaligned bases: 1163802
+		This contig is partially unaligned. (Aligned 169 out of 1163971 non-N bases (0.01%))
+		Alignment: 1127 1295 | 296602 296434 | 169 169 | 90.75 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_1816
+		Unaligned bases: 1 to 296433 (296433)
+		Unaligned bases: 296603 to 1163971 (867369)
+
+CONTIG: contig_2878 (414779bp)
+Best alignment score: 88.0 (LEN: 92, IDY: 95.65), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 88.0, number of alignments: 1, unaligned bases: 414687
+		This contig is partially unaligned. (Aligned 92 out of 414779 non-N bases (0.02%))
+		Alignment: 1131 1221 | 396590 396681 | 91 92 | 95.65 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_2878
+		Unaligned bases: 1 to 396589 (396589)
+		Unaligned bases: 396682 to 414779 (18098)
+
+CONTIG: contig_3112 (550815bp)
+Best alignment score: 213.2 (LEN: 234, IDY: 91.10), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 363.3, number of alignments: 2, unaligned bases: 550415
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 400 out of 550815 non-N bases (0.07%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 550815 (number of Ns: 0) and total length of all aligns is 400
+		Alignment: 499 665 | 425929 426094 | 167 166 | 90.42 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_3112
+		Alignment: 1112 1346 | 426529 426762 | 235 234 | 91.1 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_3112
+		Unaligned bases: 550415
+
+CONTIG: contig_312 (223780bp)
+Best alignment score: 231.0 (LEN: 255, IDY: 90.59), Total number of alignments: 6
+			Looking for the best set of alignments (out of 6 total alignments)
+			The best set is below. Score: 721.5, number of alignments: 6, unaligned bases: 222418
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 1362 out of 223780 non-N bases (0.61%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 223780 (number of Ns: 0) and total length of all aligns is 1362
+		Alignment: 493 747 | 6999 7253 | 255 255 | 90.59 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_312
+		Alignment: 1139 1337 | 7646 7844 | 199 199 | 91.46 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_312
+		Alignment: 1139 1337 | 141676 141478 | 199 199 | 91.46 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_312
+		Alignment: 493 747 | 142323 142069 | 255 255 | 90.59 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_312
+		Alignment: 1139 1337 | 220977 220779 | 199 199 | 91.46 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_312
+		Alignment: 493 747 | 221624 221370 | 255 255 | 90.59 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_312
+		Unaligned bases: 222418
+
+CONTIG: contig_3125 (834618bp)
+Best alignment score: 88.0 (LEN: 91, IDY: 96.70), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 88.0, number of alignments: 1, unaligned bases: 834527
+		This contig is partially unaligned. (Aligned 91 out of 834618 non-N bases (0.01%))
+		Alignment: 1131 1221 | 383666 383576 | 91 91 | 96.7 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_3125
+		Unaligned bases: 1 to 383575 (383575)
+		Unaligned bases: 383667 to 834618 (450952)
+
+CONTIG: contig_362 (772403bp)
+Best alignment score: 206.1 (LEN: 226, IDY: 91.19), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 206.1, number of alignments: 1, unaligned bases: 772177
+		This contig is partially unaligned. (Aligned 226 out of 772403 non-N bases (0.03%))
+		Alignment: 1112 1336 | 511463 511688 | 225 226 | 91.19 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_362
+		Unaligned bases: 1 to 511462 (511462)
+		Unaligned bases: 511689 to 772403 (260715)
+
+CONTIG: contig_4555 (1460716bp)
+Best alignment score: 262.0 (LEN: 291, IDY: 90.03), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 262.0, number of alignments: 1, unaligned bases: 1460425
+		This contig is partially unaligned. (Aligned 291 out of 1460716 non-N bases (0.02%))
+		Alignment: 433 722 | 570031 569741 | 290 291 | 90.03 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_4555
+		Unaligned bases: 1 to 569740 (569740)
+		Unaligned bases: 570032 to 1460716 (890685)
+
+CONTIG: contig_4710 (487913bp)
+Best alignment score: 274.5 (LEN: 304, IDY: 90.29), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 422.9, number of alignments: 2, unaligned bases: 487445
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 468 out of 487913 non-N bases (0.10%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 487913 (number of Ns: 0) and total length of all aligns is 468
+		Alignment: 420 722 | 8086 8389 | 303 304 | 90.29 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_4710
+		Alignment: 1129 1292 | 8796 8959 | 164 164 | 90.48 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_4710
+		Unaligned bases: 487445
+
+CONTIG: contig_5152 (908490bp)
+Best alignment score: 153.4 (LEN: 169, IDY: 90.75), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 153.4, number of alignments: 1, unaligned bases: 908321
+		This contig is partially unaligned. (Aligned 169 out of 908490 non-N bases (0.02%))
+		Alignment: 1127 1295 | 902942 903110 | 169 169 | 90.75 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_5152
+		Unaligned bases: 1 to 902941 (902941)
+		Unaligned bases: 903111 to 908490 (5380)
+
+CONTIG: contig_5279 (128319bp)
+Best alignment score: 162.1 (LEN: 173, IDY: 93.68), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 317.2, number of alignments: 2, unaligned bases: 127979
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 340 out of 128319 non-N bases (0.26%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 128319 (number of Ns: 0) and total length of all aligns is 340
+		Alignment: 492 665 | 120831 121003 | 174 173 | 93.68 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_5279
+		Alignment: 1113 1277 | 121452 121618 | 165 167 | 92.9 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_5279
+		Unaligned bases: 127979
+
+CONTIG: contig_5670 (256997bp)
+Best alignment score: 213.1 (LEN: 231, IDY: 92.24), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 413.2, number of alignments: 2, unaligned bases: 256544
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 453 out of 256997 non-N bases (0.18%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 256997 (number of Ns: 0) and total length of all aligns is 453
+		Alignment: 499 721 | 142431 142652 | 223 222 | 90.13 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_5670
+		Alignment: 1112 1339 | 143036 143266 | 228 231 | 92.24 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_5670
+		Unaligned bases: 256544
+
+CONTIG: contig_6276 (97010bp)
+Best alignment score: 95.0 (LEN: 101, IDY: 94.06), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 95.0, number of alignments: 1, unaligned bases: 96909
+		This contig is partially unaligned. (Aligned 101 out of 97010 non-N bases (0.10%))
+		Alignment: 1106 1206 | 65698 65598 | 101 101 | 94.06 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_6276
+		Unaligned bases: 1 to 65597 (65597)
+		Unaligned bases: 65699 to 97010 (31312)
+
+CONTIG: contig_632 (4268049bp)
+Best alignment score: 276.3 (LEN: 304, IDY: 90.88), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 440 743 | 50108 49805 | 304 304 | 90.52 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_632
+			The best set is below. Score: 357.3, number of alignments: 2, unaligned bases: 4267662
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 387 out of 4268049 non-N bases (0.01%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 4268049 (number of Ns: 0) and total length of all aligns is 387
+		Alignment: 440 743 | 2999548 2999851 | 304 304 | 90.88 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_632
+		Alignment: 1139 1221 | 3000247 3000329 | 83 83 | 97.59 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_632
+		Unaligned bases: 4267662
+
+CONTIG: contig_672 (23121bp)
+Best alignment score: 155.1 (LEN: 167, IDY: 92.90), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 155.1, number of alignments: 1, unaligned bases: 22954
+		This contig is partially unaligned. (Aligned 167 out of 23121 non-N bases (0.72%))
+		Alignment: 1113 1277 | 6582 6416 | 165 167 | 92.9 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_672
+		Unaligned bases: 1 to 6415 (6415)
+		Unaligned bases: 6583 to 23121 (16539)
+
+CONTIG: contig_7165 (5361bp)
+Best alignment score: 261.0 (LEN: 290, IDY: 90.00), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 417.1, number of alignments: 2, unaligned bases: 4900
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 461 out of 5361 non-N bases (8.60%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 5361 (number of Ns: 0) and total length of all aligns is 461
+		Alignment: 1127 1295 | 4119 3949 | 169 171 | 91.28 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_7165
+		Alignment: 493 782 | 4759 4470 | 290 290 | 90.0 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_7165
+		Unaligned bases: 4900
+
+CONTIG: contig_7301 (50077bp)
+Best alignment score: 14568.7 (LEN: 16114, IDY: 90.41), Total number of alignments: 11
+			Looking for the best set of alignments (out of 11 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 314 390 | 127 205 | 77 79 | 97.47 | Trichococcus_pasteurii_NZ_UETS01000001.1 contig_7301
+		Skipping redundant alignment 11157 12138 | 1663 613 | 982 1051 | 91.38 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_7301
+		Skipping redundant alignment 1 406 | 1287 1704 | 406 418 | 94.99 | Trichococcus_pasteurii_NZ_UETS01000011.1 contig_7301
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 34192.2, number of alignments: 8, unaligned bases: 11556
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 38521 out of 50077 non-N bases (76.92%))
+			Real Alignment 1: 576 945 | 472 841 | 370 370 | 96.76 | Trichococcus_pasteurii_NZ_UETS01000012.1 contig_7301
+			  Indel (> 5bp) between these two alignments: insertion of length 36; 0 mismatches (number of Ns: 0)
+			Real Alignment 2: 946 1218 | 878 1171 | 273 294 | 91.84 | Trichococcus_pasteurii_NZ_UETS01000012.1 contig_7301
+			  Indel (> 5bp) between these two alignments: insertion of length 102; 0 mismatches (number of Ns: 0)
+			Real Alignment 3: 1219 1595 | 1274 1663 | 377 390 | 93.08 | Trichococcus_pasteurii_NZ_UETS01000012.1 contig_7301
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 4: 515 16691 | 5137 21250 | 16177 16114 | 90.41 | Trichococcus_pasteurii_NZ_UETS01000011.1 contig_7301
+			  Extensive misassembly (relocation, inconsistency = 1910) between these two alignments
+			Real Alignment 5: 18649 24880 | 21298 27521 | 6232 6224 | 90.55 | Trichococcus_pasteurii_NZ_UETS01000011.1 contig_7301
+			  Gap between these two alignments (local misassembly). Inconsistency = 286
+			Real Alignment 6: 25201 31431 | 27556 33794 | 6231 6239 | 90.82 | Trichococcus_pasteurii_NZ_UETS01000011.1 contig_7301
+			  Indel (> 5bp) between these two alignments: insertion of length 37; 0 mismatches (number of Ns: 0)
+			Real Alignment 7: 31432 31845 | 33832 34261 | 414 430 | 90.7 | Trichococcus_pasteurii_NZ_UETS01000011.1 contig_7301
+			  Extensive misassembly (relocation, inconsistency = -5653) between these two alignments
+			Real Alignment 8: 33540 41976 | 41609 50068 | 8437 8460 | 91.2 | Trichococcus_pasteurii_NZ_UETS01000011.1 contig_7301
+		Unaligned bases: 11556
+
+CONTIG: contig_7526 (16562bp)
+Best alignment score: 102.0 (LEN: 109, IDY: 93.58), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 102.0, number of alignments: 1, unaligned bases: 16453
+		This contig is partially unaligned. (Aligned 109 out of 16562 non-N bases (0.66%))
+		Alignment: 1113 1221 | 7542 7650 | 109 109 | 93.58 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_7526
+		Unaligned bases: 1 to 7541 (7541)
+		Unaligned bases: 7651 to 16562 (8912)
+
+CONTIG: contig_7933 (18534bp)
+Best alignment score: 95.0 (LEN: 98, IDY: 96.94), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 95.0, number of alignments: 1, unaligned bases: 18436
+		This contig is partially unaligned. (Aligned 98 out of 18534 non-N bases (0.53%))
+		Alignment: 1127 1224 | 982 885 | 98 98 | 96.94 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_7933
+		Unaligned bases: 1 to 884 (884)
+		Unaligned bases: 983 to 18534 (17552)
+
+CONTIG: contig_8736 (46030bp)
+Best alignment score: 252.2 (LEN: 275, IDY: 91.70), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 481.4, number of alignments: 2, unaligned bases: 45504
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 526 out of 46030 non-N bases (1.14%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 46030 (number of Ns: 0) and total length of all aligns is 526
+		Alignment: 499 774 | 2980 3254 | 276 275 | 91.7 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_8736
+		Alignment: 1112 1360 | 3586 3836 | 249 251 | 91.34 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_8736
+		Unaligned bases: 45504
+
+CONTIG: contig_92 (224667bp)
+Best alignment score: 207.0 (LEN: 229, IDY: 90.39), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 295.0, number of alignments: 2, unaligned bases: 224347
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 320 out of 224667 non-N bases (0.14%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 224667 (number of Ns: 0) and total length of all aligns is 320
+		Alignment: 1131 1221 | 136082 135992 | 91 91 | 96.7 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_92
+		Alignment: 494 722 | 136720 136492 | 229 229 | 90.39 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_92
+		Unaligned bases: 224347
+
+CONTIG: contig_94 (5242943bp)
+Best alignment score: 208.0 (LEN: 231, IDY: 90.04), Total number of alignments: 14
+			Looking for the best set of alignments (out of 14 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1131 1221 | 36738 36648 | 91 91 | 96.7 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_94
+		Skipping redundant alignment 493 722 | 37376 37147 | 230 230 | 90.0 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_94
+		Skipping redundant alignment 1131 1221 | 506937 506847 | 91 91 | 96.7 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_94
+		Skipping redundant alignment 493 722 | 507575 507346 | 230 230 | 90.0 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_94
+		Skipping redundant alignment 1131 1221 | 842402 842312 | 91 91 | 96.7 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_94
+		Skipping redundant alignment 494 722 | 3822294 3822522 | 229 229 | 90.39 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_94
+		Skipping redundant alignment 1131 1221 | 3822931 3823021 | 91 91 | 96.7 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_94
+		Skipping redundant alignment 1131 1221 | 5238001 5237911 | 91 91 | 96.7 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_94
+			The best set is below. Score: 338.7, number of alignments: 6, unaligned bases: 5241979
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 964 out of 5242943 non-N bases (0.02%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 5242943 (number of Ns: 0) and total length of all aligns is 964
+		Alignment: 493 722 | 4560645 4560874 | 230 230 | 90.0 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_94
+		Alignment: 1131 1221 | 4561283 4561373 | 91 91 | 96.7 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_94
+		Alignment: 1131 1221 | 5057573 5057483 | 91 91 | 96.7 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_94
+		Alignment: 493 722 | 5058211 5057982 | 230 230 | 90.43 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_94
+		Alignment: 1131 1221 | 5148827 5148737 | 91 91 | 96.7 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_94
+		Alignment: 493 722 | 5149466 5149236 | 230 231 | 90.04 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_94
+		Unaligned bases: 5241979
+
+CONTIG: contig_95 (229356bp)
+Best alignment score: 210.0 (LEN: 232, IDY: 90.52), Total number of alignments: 6
+			Looking for the best set of alignments (out of 6 total alignments)
+			The best set is below. Score: 375.8, number of alignments: 6, unaligned bases: 228388
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 968 out of 229356 non-N bases (0.42%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 229356 (number of Ns: 0) and total length of all aligns is 968
+		Alignment: 1131 1221 | 2160 2070 | 91 91 | 96.7 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_95
+		Alignment: 493 724 | 2798 2567 | 232 232 | 90.52 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_95
+		Alignment: 1131 1221 | 90139 90049 | 91 91 | 96.7 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_95
+		Alignment: 494 724 | 90776 90546 | 231 231 | 90.48 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_95
+		Alignment: 1131 1221 | 211924 211834 | 91 91 | 96.7 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_95
+		Alignment: 493 724 | 212562 212331 | 232 232 | 90.52 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_95
+		Unaligned bases: 228388
+
+CONTIG: contig_98 (1119886bp)
+Best alignment score: 210.0 (LEN: 233, IDY: 90.13), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1131 1221 | 826322 826232 | 91 91 | 96.7 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_98
+		Skipping redundant alignment 494 724 | 826959 826729 | 231 231 | 90.48 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_98
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 298.0, number of alignments: 2, unaligned bases: 1119562
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 324 out of 1119886 non-N bases (0.03%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 1119886 (number of Ns: 0) and total length of all aligns is 324
+		Alignment: 1131 1221 | 19579 19489 | 91 91 | 96.7 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_98
+		Alignment: 493 724 | 20218 19986 | 232 233 | 90.13 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_98
+		Unaligned bases: 1119562
+
+CONTIG: contig_1254 (33960bp)
+Best alignment score: 8290.3 (LEN: 9020, IDY: 91.91), Total number of alignments: 11
+			Looking for the best set of alignments (out of 11 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 102954 103051 | 8707 8802 | 98 96 | 96.94 | Trichococcus_pasteurii_NZ_UETS01000008.1 contig_1254
+		Skipping redundant alignment 123865 123983 | 8820 8704 | 119 117 | 95.8 | Trichococcus_pasteurii_NZ_UETS01000006.1 contig_1254
+		Skipping redundant alignment 297949 298065 | 16941 17058 | 117 118 | 96.61 | Trichococcus_pasteurii_NZ_UETS01000003.1 contig_1254
+		Skipping redundant alignment 8293 8422 | 16928 17058 | 130 131 | 97.71 | Trichococcus_pasteurii_NZ_UETS01000011.1 contig_1254
+		Skipping redundant alignment 69947 70053 | 17163 17269 | 107 107 | 99.07 | Trichococcus_pasteurii_NZ_UETS01000010.1 contig_1254
+		Skipping redundant alignment 642132 642250 | 17280 17163 | 119 118 | 96.64 | Trichococcus_pasteurii_NZ_UETS01000001.1 contig_1254
+		Skipping redundant alignment 282678 282800 | 17161 17283 | 123 123 | 98.37 | Trichococcus_pasteurii_NZ_UETS01000003.1 contig_1254
+			The best set is below. Score: 29452.0, number of alignments: 4, unaligned bases: 1553
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 32407 out of 33960 non-N bases (95.43%))
+			Real Alignment 1: 758 9376 | 20 8607 | 8619 8588 | 93.08 | Trichococcus_pasteurii_NZ_UETS01000010.1 contig_1254
+			  Gap between these two alignments (local misassembly). Inconsistency = 960
+			Real Alignment 2: 10653 18607 | 8924 16866 | 7955 7943 | 90.21 | Trichococcus_pasteurii_NZ_UETS01000010.1 contig_1254
+			  Gap between these two alignments (local misassembly). Inconsistency = -333
+			Real Alignment 3: 18695 25592 | 17287 24142 | 6898 6856 | 91.9 | Trichococcus_pasteurii_NZ_UETS01000010.1 contig_1254
+			  Extensive misassembly (relocation, inconsistency = 1458) between these two alignments
+			Real Alignment 4: 27843 36915 | 24935 33954 | 9073 9020 | 91.91 | Trichococcus_pasteurii_NZ_UETS01000010.1 contig_1254
+		Unaligned bases: 1553
+
+CONTIG: contig_2431 (708704bp)
+		This contig is unaligned. (708704 bp)
+		Unaligned bases: 708704 (number of Ns: 0)
+
+CONTIG: contig_3133 (947346bp)
+		This contig is unaligned. (947346 bp)
+		Unaligned bases: 947346 (number of Ns: 0)
+
+CONTIG: contig_367 (1650438bp)
+		This contig is unaligned. (1650438 bp)
+		Unaligned bases: 1650438 (number of Ns: 0)
+
+CONTIG: contig_3684 (69583bp)
+Best alignment score: 8868.4 (LEN: 9820, IDY: 90.31), Total number of alignments: 7
+			Looking for the best set of alignments (out of 7 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 671637 671851 | 67228 67440 | 215 213 | 94.47 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_3684
+		Skipping redundant alignment 69761 69989 | 67454 67228 | 229 227 | 95.22 | Trichococcus_pasteurii_NZ_UETS01000010.1 contig_3684
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 17078.7, number of alignments: 5, unaligned bases: 50337
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 19246 out of 69583 non-N bases (27.66%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 69583 (number of Ns: 0) and total length of all aligns is 19246
+		Alignment: 27718 30555 | 2843 3 | 2838 2841 | 93.14 | Trichococcus_pasteurii_NZ_UETS01000003.1 contig_3684
+		Alignment: 20805 23295 | 9810 7318 | 2491 2493 | 90.47 | Trichococcus_pasteurii_NZ_UETS01000003.1 contig_3684
+		Alignment: 12114 13909 | 14951 13159 | 1796 1793 | 91.65 | Trichococcus_pasteurii_NZ_UETS01000003.1 contig_3684
+		Alignment: 680919 690734 | 49301 39482 | 9816 9820 | 90.31 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_3684
+		Alignment: 669236 671534 | 60708 58410 | 2299 2299 | 95.28 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_3684
+		Unaligned bases: 50337
+
+CONTIG: contig_4047 (97874bp)
+Best alignment score: 81.0 (LEN: 83, IDY: 97.59), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 81.0, number of alignments: 1, unaligned bases: 97791
+		This contig is partially unaligned. (Aligned 83 out of 97874 non-N bases (0.08%))
+		Alignment: 1139 1221 | 93953 94035 | 83 83 | 97.59 | Trichococcus_pasteurii_NZ_UETS01000019.1 contig_4047
+		Unaligned bases: 1 to 93952 (93952)
+		Unaligned bases: 94036 to 97874 (3839)
+
+CONTIG: contig_4786 (130647bp)
+Best alignment score: 22493.8 (LEN: 24946, IDY: 90.17), Total number of alignments: 7
+			Looking for the best set of alignments (out of 7 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 8305 8422 | 27506 27623 | 118 118 | 99.15 | Trichococcus_pasteurii_NZ_UETS01000011.1 contig_4786
+		Skipping redundant alignment 282480 282784 | 27593 27897 | 305 305 | 97.07 | Trichococcus_pasteurii_NZ_UETS01000003.1 contig_4786
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 39322.1, number of alignments: 5, unaligned bases: 87037
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 43610 out of 130647 non-N bases (33.38%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 130647 (number of Ns: 0) and total length of all aligns is 43610
+		Alignment: 399273 400762 | 7429 5945 | 1490 1485 | 90.9 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_4786
+		Alignment: 17340 19030 | 13224 14906 | 1691 1683 | 90.27 | Trichococcus_pasteurii_NZ_UETS01000001.1 contig_4786
+		Alignment: 19713 25062 | 15595 20935 | 5350 5341 | 91.68 | Trichococcus_pasteurii_NZ_UETS01000001.1 contig_4786
+		Alignment: 44366 69329 | 40896 65841 | 24964 24946 | 90.17 | Trichococcus_pasteurii_NZ_UETS01000001.1 contig_4786
+		Alignment: 70114 80273 | 66625 76779 | 10160 10155 | 91.95 | Trichococcus_pasteurii_NZ_UETS01000001.1 contig_4786
+		Unaligned bases: 87037
+
+CONTIG: contig_5115 (295117bp)
+		This contig is unaligned. (295117 bp)
+		Unaligned bases: 295117 (number of Ns: 0)
+
+CONTIG: contig_6735 (220405bp)
+Best alignment score: 34978.9 (LEN: 38732, IDY: 90.31), Total number of alignments: 19
+			Looking for the best set of alignments (out of 19 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 500369 500498 | 104712 104840 | 130 129 | 94.66 | Trichococcus_pasteurii_NZ_UETS01000001.1 contig_6735
+		Skipping redundant alignment 483817 483963 | 104712 104859 | 147 148 | 97.3 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_6735
+		Skipping redundant alignment 8306 8512 | 104919 104712 | 207 208 | 97.12 | Trichococcus_pasteurii_NZ_UETS01000011.1 contig_6735
+		Skipping redundant alignment 297949 298157 | 104919 104712 | 209 208 | 93.81 | Trichococcus_pasteurii_NZ_UETS01000003.1 contig_6735
+		Skipping redundant alignment 642132 642512 | 138905 139290 | 381 386 | 94.33 | Trichococcus_pasteurii_NZ_UETS01000001.1 contig_6735
+		Skipping redundant alignment 8334 8422 | 139353 139265 | 89 89 | 98.88 | Trichococcus_pasteurii_NZ_UETS01000011.1 contig_6735
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 150098.4, number of alignments: 13, unaligned bases: 54389
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 166016 out of 220405 non-N bases (75.32%))
+			Real Alignment 1: 43121 44717 | 1594 1 | 1597 1594 | 95.93 | Trichococcus_pasteurii_NZ_UETS01000009.1 contig_6735
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 2: 340350 379092 | 1738 40469 | 38743 38732 | 90.31 | Trichococcus_pasteurii_NZ_UETS01000001.1 contig_6735
+			  Indel (> 5bp) between these two alignments: deletion of length 28; 0 mismatches (number of Ns: 0)
+			Real Alignment 3: 379121 412456 | 40470 73905 | 33336 33436 | 90.26 | Trichococcus_pasteurii_NZ_UETS01000001.1 contig_6735
+			  Gap between these two alignments (local misassembly). Inconsistency = 641
+			Real Alignment 4: 444219 456304 | 105027 117092 | 12086 12066 | 90.93 | Trichococcus_pasteurii_NZ_UETS01000001.1 contig_6735
+			  Gap between these two alignments (local misassembly). Inconsistency = 8
+			Real Alignment 5: 456679 478034 | 117459 138800 | 21356 21342 | 90.97 | Trichococcus_pasteurii_NZ_UETS01000001.1 contig_6735
+			  Gap between these two alignments (local misassembly). Inconsistency = -439
+			Real Alignment 6: 487670 490376 | 148875 151570 | 2707 2696 | 91.76 | Trichococcus_pasteurii_NZ_UETS01000001.1 contig_6735
+			  Gap between these two alignments (local misassembly). Inconsistency = -2
+			Real Alignment 7: 490722 500365 | 151918 161548 | 9644 9631 | 90.0 | Trichococcus_pasteurii_NZ_UETS01000001.1 contig_6735
+			  Gap between these two alignments (local misassembly). Inconsistency = 222
+			Real Alignment 8: 500588 501681 | 161549 162641 | 1094 1093 | 96.16 | Trichococcus_pasteurii_NZ_UETS01000001.1 contig_6735
+			  Gap between these two alignments (local misassembly). Inconsistency = -284
+			Real Alignment 9: 501682 511197 | 162926 172410 | 9516 9485 | 90.62 | Trichococcus_pasteurii_NZ_UETS01000001.1 contig_6735
+			  Indel (> 5bp) between these two alignments: insertion of length 80; 45 mismatches (number of Ns: 0)
+			Real Alignment 10: 511243 515419 | 172536 176715 | 4177 4180 | 90.43 | Trichococcus_pasteurii_NZ_UETS01000001.1 contig_6735
+			  Gap between these two alignments (local misassembly). Inconsistency = -230
+			Real Alignment 11: 515566 523299 | 177092 184813 | 7734 7722 | 90.35 | Trichococcus_pasteurii_NZ_UETS01000001.1 contig_6735
+			  Gap between these two alignments (local misassembly). Inconsistency = 381
+			Real Alignment 12: 533265 552933 | 194398 214071 | 19669 19674 | 91.28 | Trichococcus_pasteurii_NZ_UETS01000001.1 contig_6735
+			  Gap between these two alignments (local misassembly). Inconsistency = 273
+			Real Alignment 13: 553245 557622 | 214110 218474 | 4378 4365 | 90.27 | Trichococcus_pasteurii_NZ_UETS01000001.1 contig_6735
+		Unaligned bases: 54389
+
+CONTIG: contig_7603 (23340bp)
+		This contig is unaligned. (23340 bp)
+		Unaligned bases: 23340 (number of Ns: 0)
+
+CONTIG: contig_1253 (23678bp)
+Best alignment score: 5612.0 (LEN: 6219, IDY: 90.24), Total number of alignments: 7
+			Looking for the best set of alignments (out of 7 total alignments)
+			The best set is below. Score: 11293.7, number of alignments: 7, unaligned bases: 10706
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 12972 out of 23678 non-N bases (54.79%))
+			Real Alignment 1: 102224 102942 | 7175 7890 | 719 716 | 93.88 | Trichococcus_pasteurii_NZ_UETS01000008.1 contig_1253
+			  Gap between these two alignments (local misassembly). Inconsistency = 346
+			Real Alignment 2: 103339 107210 | 7941 11806 | 3872 3866 | 90.25 | Trichococcus_pasteurii_NZ_UETS01000008.1 contig_1253
+			  Gap between these two alignments (local misassembly). Inconsistency = -105
+			Real Alignment 3: 107349 113588 | 12050 18268 | 6240 6219 | 90.24 | Trichococcus_pasteurii_NZ_UETS01000008.1 contig_1253
+			  Extensive misassembly (relocation, inconsistency = 1562) between these two alignments
+			Real Alignment 4: 117547 117985 | 20665 21104 | 439 440 | 90.05 | Trichococcus_pasteurii_NZ_UETS01000008.1 contig_1253
+			  Extensive misassembly (relocation, inconsistency = 7410) between these two alignments
+			Real Alignment 5: 126028 127274 | 21737 22978 | 1247 1242 | 94.55 | Trichococcus_pasteurii_NZ_UETS01000008.1 contig_1253
+			  Indel (> 5bp) between these two alignments: insertion of length 156; 0 mismatches (number of Ns: 0)
+			Real Alignment 6: 127275 127448 | 23135 23308 | 174 174 | 95.4 | Trichococcus_pasteurii_NZ_UETS01000008.1 contig_1253
+			  Indel (> 5bp) between these two alignments: insertion of length 44; 0 mismatches (number of Ns: 0)
+			Real Alignment 7: 127449 127763 | 23353 23667 | 315 315 | 97.78 | Trichococcus_pasteurii_NZ_UETS01000008.1 contig_1253
+		Unaligned bases: 10706
+
+CONTIG: contig_1257 (7796bp)
+Best alignment score: 791.5 (LEN: 879, IDY: 90.05), Total number of alignments: 1
+			Looking for the best set of alignments (out of 1 total alignments)
+			The best set is below. Score: 791.5, number of alignments: 1, unaligned bases: 6917
+		This contig is partially unaligned. (Aligned 879 out of 7796 non-N bases (11.28%))
+		Alignment: 203102 203982 | 6316 5438 | 881 879 | 90.05 | Trichococcus_pasteurii_NZ_UETS01000005.1 contig_1257
+		Unaligned bases: 1 to 5437 (5437)
+		Unaligned bases: 6317 to 7796 (1480)
+
+CONTIG: contig_5413 (22118bp)
+Best alignment score: 687.2 (LEN: 737, IDY: 93.24), Total number of alignments: 5
+			Looking for the best set of alignments (out of 5 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 1 460 | 2036 2493 | 460 458 | 98.48 | Trichococcus_pasteurii_NZ_UETS01000014.1 contig_5413
+			The best set is below. Score: 1623.8, number of alignments: 4, unaligned bases: 19859
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 2259 out of 22118 non-N bases (10.21%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 22118 (number of Ns: 0) and total length of all aligns is 2259
+		Alignment: 120077 120514 | 869 1300 | 438 432 | 92.92 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_5413
+		Alignment: 121227 121710 | 2013 2494 | 484 482 | 98.35 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_5413
+		Alignment: 998 1732 | 8687 7951 | 735 737 | 93.24 | Trichococcus_pasteurii_NZ_UETS01000013.1 contig_5413
+		Alignment: 150074 150682 | 12885 13492 | 609 608 | 92.62 | Trichococcus_pasteurii_NZ_UETS01000005.1 contig_5413
+		Unaligned bases: 19859
+
+CONTIG: contig_5655 (13209bp)
+Best alignment score: 2186.1 (LEN: 2257, IDY: 96.86), Total number of alignments: 10
+			Looking for the best set of alignments (out of 10 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 63969 64059 | 5807 5898 | 91 92 | 96.74 | Trichococcus_pasteurii_NZ_UETS01000008.1 contig_5655
+		Skipping redundant alignment 69948 70053 | 5899 5792 | 106 108 | 97.22 | Trichococcus_pasteurii_NZ_UETS01000010.1 contig_5655
+		Skipping redundant alignment 282681 282792 | 5899 5786 | 112 114 | 97.37 | Trichococcus_pasteurii_NZ_UETS01000003.1 contig_5655
+		Skipping redundant alignment 642130 642249 | 5779 5899 | 120 121 | 94.31 | Trichococcus_pasteurii_NZ_UETS01000001.1 contig_5655
+		Skipping redundant alignment 8301 8422 | 6151 6029 | 122 123 | 95.12 | Trichococcus_pasteurii_NZ_UETS01000011.1 contig_5655
+		Skipping redundant alignment 650596 650996 | 12809 13209 | 401 401 | 96.77 | Trichococcus_pasteurii_NZ_UETS01000001.1 contig_5655
+		Skipping redundant alignment 89 489 | 13209 12809 | 401 401 | 96.77 | Trichococcus_pasteurii_NZ_UETS01000003.1 contig_5655
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 2407.2, number of alignments: 3, unaligned bases: 10184
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 3025 out of 13209 non-N bases (22.90%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 13209 (number of Ns: 0) and total length of all aligns is 3025
+		Alignment: 156164 158424 | 12368 10112 | 2261 2257 | 96.86 | Trichococcus_pasteurii_NZ_UETS01000005.1 contig_5655
+		Alignment: 46333 46695 | 12431 12797 | 363 367 | 91.01 | Trichococcus_pasteurii_NZ_UETS01000006.1 contig_5655
+		Alignment: 612959 613359 | 12809 13209 | 401 401 | 97.02 | Trichococcus_pasteurii_NZ_UETS01000001.1 contig_5655
+		Unaligned bases: 10184
+
+CONTIG: contig_6256 (34556bp)
+Best alignment score: 3747.0 (LEN: 4149, IDY: 90.31), Total number of alignments: 8
+			Looking for the best set of alignments (out of 8 total alignments)
+			The best set is below. Score: 9875.6, number of alignments: 8, unaligned bases: 22396
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 12160 out of 34556 non-N bases (35.19%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 34556 (number of Ns: 0) and total length of all aligns is 12160
+		Alignment: 156176 158160 | 2103 35 | 1985 2069 | 90.28 | Trichococcus_pasteurii_NZ_UETS01000005.1 contig_6256
+		Alignment: 78314 82473 | 12285 16433 | 4160 4149 | 90.31 | Trichococcus_pasteurii_NZ_UETS01000006.1 contig_6256
+		Alignment: 156163 158430 | 18921 16658 | 2268 2264 | 96.22 | Trichococcus_pasteurii_NZ_UETS01000005.1 contig_6256
+		Alignment: 87674 88186 | 22322 22834 | 513 513 | 94.93 | Trichococcus_pasteurii_NZ_UETS01000006.1 contig_6256
+		Alignment: 90134 91696 | 23182 24740 | 1563 1559 | 90.94 | Trichococcus_pasteurii_NZ_UETS01000006.1 contig_6256
+		Alignment: 92827 93092 | 24871 25135 | 266 265 | 92.48 | Trichococcus_pasteurii_NZ_UETS01000006.1 contig_6256
+		Alignment: 93197 94121 | 25529 26431 | 925 903 | 90.09 | Trichococcus_pasteurii_NZ_UETS01000006.1 contig_6256
+		Alignment: 104465 104902 | 34119 34556 | 438 438 | 95.89 | Trichococcus_pasteurii_NZ_UETS01000006.1 contig_6256
+		Unaligned bases: 22396
+
+CONTIG: contig_8944 (23950bp)
+Best alignment score: 5948.8 (LEN: 6520, IDY: 91.24), Total number of alignments: 9
+			Looking for the best set of alignments (out of 9 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 642207 642520 | 8773 8460 | 314 314 | 97.14 | Trichococcus_pasteurii_NZ_UETS01000001.1 contig_8944
+		Skipping redundant alignment 671505 671786 | 8904 8622 | 282 283 | 95.05 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_8944
+			The best set is below. Score: 12935.5, number of alignments: 7, unaligned bases: 8936
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 15014 out of 23950 non-N bases (62.69%))
+			Real Alignment 1: 396408 398036 | 3688 5311 | 1629 1624 | 92.51 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_8944
+			  Extensive misassembly (relocation, inconsistency = -1153) between these two alignments
+			Real Alignment 2: 398438 399226 | 6866 7650 | 789 785 | 93.54 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_8944
+			  Extensive misassembly (relocation, inconsistency = 1488) between these two alignments
+			Real Alignment 3: 400777 401366 | 7713 8299 | 590 587 | 90.0 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_8944
+			  Gap between these two alignments (local misassembly). Inconsistency = -492
+			Real Alignment 4: 401463 402651 | 8888 10074 | 1189 1187 | 90.25 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_8944
+			  Gap between these two alignments (local misassembly). Inconsistency = -9
+			Real Alignment 5: 403608 405594 | 11040 13049 | 1987 2010 | 91.44 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_8944
+			  Gap between these two alignments (local misassembly). Inconsistency = 16
+			Excluding internal overlap of size 6 between Alignment 6 and 7: 156162 158421 | 21623 23929 | 2260 2307 --> 156168 158421 | 21629 23929 | 2254 2301
+			Real Alignment 6: 407670 414157 | 15109 21628 | 6488 6520 | 91.24 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_8944
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 7: 156168 158421 | 21629 23929 | 2254 2301 | 90.85 | Trichococcus_pasteurii_NZ_UETS01000005.1 contig_8944
+		Unaligned bases: 8936
+
+CONTIG: contig_7206 (88891bp)
+Best alignment score: 18597.0 (LEN: 20278, IDY: 91.71), Total number of alignments: 8
+			Looking for the best set of alignments (out of 8 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 102804 102922 | 60042 60158 | 119 117 | 95.8 | Trichococcus_pasteurii_NZ_UETS01000008.1 contig_7206
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 51919.7, number of alignments: 7, unaligned bases: 32124
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 56767 out of 88891 non-N bases (63.86%))
+			Real Alignment 1: 5752 26023 | 14800 35077 | 20272 20278 | 91.71 | Trichococcus_pasteurii_NZ_UETS01000008.1 contig_7206
+			  Indel (> 5bp) between these two alignments: insertion of length 25; 0 mismatches (number of Ns: 0)
+			Real Alignment 2: 26024 32150 | 35103 41235 | 6127 6133 | 91.34 | Trichococcus_pasteurii_NZ_UETS01000008.1 contig_7206
+			  Indel (> 5bp) between these two alignments: insertion of length 127; 0 mismatches (number of Ns: 0)
+			Real Alignment 3: 32151 32331 | 41363 41543 | 181 181 | 92.82 | Trichococcus_pasteurii_NZ_UETS01000008.1 contig_7206
+			  Gap between these two alignments (local misassembly). Inconsistency = 24
+			Real Alignment 4: 32584 44701 | 41772 53862 | 12118 12091 | 91.8 | Trichococcus_pasteurii_NZ_UETS01000008.1 contig_7206
+			  Gap between these two alignments (local misassembly). Inconsistency = -98
+			Real Alignment 5: 61157 63938 | 70416 73174 | 2782 2759 | 91.65 | Trichococcus_pasteurii_NZ_UETS01000008.1 contig_7206
+			  Indel (> 5bp) between these two alignments: deletion of length 79; 101 mismatches (number of Ns: 0)
+			Real Alignment 6: 64198 76456 | 73355 85660 | 12259 12306 | 91.05 | Trichococcus_pasteurii_NZ_UETS01000008.1 contig_7206
+			  Indel (> 5bp) between these two alignments: deletion of length 107; 0 mismatches (number of Ns: 0)
+			Real Alignment 7: 76643 79647 | 85740 88758 | 3005 3019 | 90.1 | Trichococcus_pasteurii_NZ_UETS01000008.1 contig_7206
+		Unaligned bases: 32124
+
+CONTIG: contig_897 (20651bp)
+Best alignment score: 5831.6 (LEN: 6327, IDY: 92.17), Total number of alignments: 6
+			Looking for the best set of alignments (out of 6 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 8332 8422 | 522 612 | 91 91 | 97.8 | Trichococcus_pasteurii_NZ_UETS01000011.1 contig_897
+		Skipping redundant alignment 671504 671786 | 1024 742 | 283 283 | 95.41 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_897
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 6894.9, number of alignments: 4, unaligned bases: 12595
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 8056 out of 20651 non-N bases (39.01%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 20651 (number of Ns: 0) and total length of all aligns is 8056
+		Alignment: 44580 45010 | 5 435 | 431 431 | 90.55 | Trichococcus_pasteurii_NZ_UETS01000012.1 contig_897
+		Alignment: 642206 642512 | 893 587 | 307 307 | 97.39 | Trichococcus_pasteurii_NZ_UETS01000001.1 contig_897
+		Alignment: 50457 51443 | 12453 13443 | 987 991 | 90.82 | Trichococcus_pasteurii_NZ_UETS01000012.1 contig_897
+		Alignment: 52581 58916 | 14325 20651 | 6336 6327 | 92.17 | Trichococcus_pasteurii_NZ_UETS01000012.1 contig_897
+		Unaligned bases: 12595
+
+CONTIG: contig_1256 (10331bp)
+Best alignment score: 10080.0 (LEN: 10330, IDY: 97.58), Total number of alignments: 1
+		One align captures most of this contig: 645 10986 | 1 10330 | 10342 10330 | 97.58 | Trichococcus_pasteurii_NZ_UETS01000004.1 contig_1256
+
+CONTIG: contig_3237 (4193bp)
+Best alignment score: 4037.1 (LEN: 4190, IDY: 96.35), Total number of alignments: 1
+		One align captures most of this contig: 156693 160905 | 4193 4 | 4213 4190 | 96.35 | Trichococcus_pasteurii_NZ_UETS01000001.1 contig_3237
+
+CONTIG: contig_8856 (55175bp)
+Best alignment score: 5079.9 (LEN: 5630, IDY: 90.23), Total number of alignments: 11
+			Looking for the best set of alignments (out of 11 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 269366 269467 | 102 4 | 102 99 | 95.1 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_8856
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 22340.1, number of alignments: 10, unaligned bases: 29006
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 26169 out of 55175 non-N bases (47.43%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 55175 (number of Ns: 0) and total length of all aligns is 26169
+		Alignment: 606207 607451 | 1457 214 | 1245 1244 | 96.47 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_8856
+		Alignment: 267659 269352 | 3158 1460 | 1694 1699 | 94.2 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_8856
+		Alignment: 264931 266002 | 4915 3829 | 1072 1087 | 90.03 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_8856
+		Alignment: 254619 260278 | 14081 8452 | 5660 5630 | 90.23 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_8856
+		Alignment: 250233 254001 | 18467 14701 | 3769 3767 | 91.59 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_8856
+		Alignment: 642207 642512 | 23132 23435 | 306 304 | 93.2 | Trichococcus_pasteurii_NZ_UETS01000001.1 contig_8856
+		Alignment: 229548 230549 | 34383 33365 | 1002 1019 | 92.57 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_8856
+		Alignment: 219597 224395 | 44637 39858 | 4799 4780 | 90.06 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_8856
+		Alignment: 212333 216834 | 49303 44901 | 4502 4403 | 91.34 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_8856
+		Alignment: 208791 211015 | 54450 52215 | 2225 2236 | 90.7 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_8856
+		Unaligned bases: 29006
+
+CONTIG: contig_6486 (44252bp)
+Best alignment score: 6479.1 (LEN: 7134, IDY: 90.82), Total number of alignments: 7
+			Looking for the best set of alignments (out of 7 total alignments)
+			The best set is below. Score: 18755.4, number of alignments: 7, unaligned bases: 22955
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 21297 out of 44252 non-N bases (48.13%))
+			Warning! This contig is more unaligned than misassembled. Contig length is 44252 (number of Ns: 0) and total length of all aligns is 21297
+		Alignment: 182169 185023 | 3 2864 | 2855 2862 | 92.97 | Trichococcus_pasteurii_NZ_UETS01000003.1 contig_6486
+		Alignment: 185201 185586 | 3085 3471 | 386 387 | 95.87 | Trichococcus_pasteurii_NZ_UETS01000003.1 contig_6486
+		Alignment: 185587 192710 | 3515 10648 | 7124 7134 | 90.82 | Trichococcus_pasteurii_NZ_UETS01000003.1 contig_6486
+		Alignment: 192698 198869 | 12582 18733 | 6172 6152 | 91.82 | Trichococcus_pasteurii_NZ_UETS01000003.1 contig_6486
+		Alignment: 206209 206916 | 19366 20071 | 708 706 | 93.16 | Trichococcus_pasteurii_NZ_UETS01000003.1 contig_6486
+		Alignment: 207023 207393 | 21486 21854 | 371 369 | 98.11 | Trichococcus_pasteurii_NZ_UETS01000003.1 contig_6486
+		Alignment: 225975 229635 | 40566 44252 | 3661 3687 | 90.21 | Trichococcus_pasteurii_NZ_UETS01000003.1 contig_6486
+		Unaligned bases: 22955
+
+CONTIG: contig_6434 (35028bp)
+Best alignment score: 9079.8 (LEN: 10013, IDY: 90.68), Total number of alignments: 10
+			Looking for the best set of alignments (out of 10 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 383 462 | 6436 6514 | 80 79 | 97.5 | Trichococcus_pasteurii_NZ_UETS01000014.1 contig_6434
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 18755.6, number of alignments: 9, unaligned bases: 13652
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 21376 out of 35028 non-N bases (61.03%))
+			Real Alignment 1: 120036 120514 | 6871 7345 | 479 475 | 98.75 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_6434
+			  Gap between these two alignments (local misassembly). Inconsistency = 1
+			Real Alignment 2: 121227 121639 | 8057 8466 | 413 410 | 96.37 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_6434
+			  Extensive misassembly (relocation, inconsistency = 34140) between these two alignments
+			Real Alignment 3: 83431 84710 | 12117 10843 | 1280 1275 | 91.09 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_6434
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 4: 65577 66279 | 13630 12931 | 703 700 | 95.16 | Trichococcus_pasteurii_NZ_UETS01000011.1 contig_6434
+			  Extensive misassembly (relocation, inconsistency = 1368) between these two alignments
+			Real Alignment 5: 62041 64204 | 15798 13635 | 2164 2164 | 90.77 | Trichococcus_pasteurii_NZ_UETS01000011.1 contig_6434
+			  Gap between these two alignments (local misassembly). Inconsistency = -5
+			Real Alignment 6: 61572 61697 | 16270 16147 | 126 124 | 90.48 | Trichococcus_pasteurii_NZ_UETS01000011.1 contig_6434
+			  Indel (> 5bp) between these two alignments: insertion of length 145; 0 mismatches (number of Ns: 0)
+			Real Alignment 7: 58914 61571 | 19068 16416 | 2658 2653 | 90.71 | Trichococcus_pasteurii_NZ_UETS01000011.1 contig_6434
+			  Gap between these two alignments (local misassembly). Inconsistency = -218
+			Real Alignment 8: 55291 58863 | 22898 19337 | 3573 3562 | 92.65 | Trichococcus_pasteurii_NZ_UETS01000011.1 contig_6434
+			  Gap between these two alignments (local misassembly). Inconsistency = 223
+			Real Alignment 9: 44944 54937 | 33041 23029 | 9994 10013 | 90.68 | Trichococcus_pasteurii_NZ_UETS01000011.1 contig_6434
+		Unaligned bases: 13652
+
+CONTIG: contig_6590 (23883bp)
+Best alignment score: 13060.4 (LEN: 14283, IDY: 91.44), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			The best set is below. Score: 20113.9, number of alignments: 4, unaligned bases: 1686
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 22197 out of 23883 non-N bases (92.94%))
+			Real Alignment 1: 16335 19890 | 1 3551 | 3556 3551 | 92.91 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_6590
+			  Extensive misassembly (relocation, inconsistency = 4382) between these two alignments
+			Real Alignment 2: 24546 24863 | 3825 4140 | 318 316 | 95.92 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_6590
+			  Gap between these two alignments (local misassembly). Inconsistency = -278
+			Real Alignment 3: 25031 39339 | 4586 18868 | 14309 14283 | 91.44 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_6590
+			  Gap between these two alignments (local misassembly). Inconsistency = -886
+			Real Alignment 4: 39422 43443 | 19837 23883 | 4022 4047 | 92.64 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_6590
+		Unaligned bases: 1686
+
+CONTIG: contig_7148 (13702bp)
+Best alignment score: 5355.4 (LEN: 5458, IDY: 98.12), Total number of alignments: 4
+			Looking for the best set of alignments (out of 4 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 44881 45387 | 12212 12729 | 507 518 | 91.6 | Trichococcus_pasteurii_NZ_UETS01000009.1 contig_7148
+		This contig has several significant sets of alignments. [An ambiguously mapped contig]
+		Using only the very best set (option --ambiguity-usage is set to "one").
+			The best set is below. Score: 6207.6, number of alignments: 3, unaligned bases: 6751
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 6951 out of 13702 non-N bases (50.73%))
+			Real Alignment 1: 84716 90165 | 5289 10746 | 5450 5458 | 98.12 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_7148
+			  Extensive misassembly (translocation) between these two alignments
+			Excluding internal overlap of size 3 between Alignment 2 and 3: 7 516 | 12210 12730 | 510 521 --> 7 513 | 12210 12727 | 507 518
+			Real Alignment 2: 7 513 | 12210 12727 | 507 518 | 91.65 | Trichococcus_pasteurii_NZ_UETS01000009.1 contig_7148
+			  Extensive misassembly (translocation) between these two alignments
+			Real Alignment 3: 90191 91134 | 12728 13702 | 944 975 | 90.36 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_7148
+		Unaligned bases: 6751
+
+CONTIG: contig_8437 (11052bp)
+Best alignment score: 6174.8 (LEN: 6784, IDY: 91.02), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			Skipping redundant alignments after choosing the best set of alignments
+		Skipping redundant alignment 8301 8461 | 3948 4107 | 161 160 | 98.76 | Trichococcus_pasteurii_NZ_UETS01000011.1 contig_8437
+			The best set is below. Score: 7725.8, number of alignments: 2, unaligned bases: 2534
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 8518 out of 11052 non-N bases (77.07%))
+			Real Alignment 1: 419242 420980 | 2124 3857 | 1739 1734 | 90.83 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_8437
+			  Gap between these two alignments (local misassembly). Inconsistency = -274
+			Real Alignment 2: 421091 427699 | 4242 11025 | 6609 6784 | 91.02 | Trichococcus_pasteurii_NZ_UETS01000002.1 contig_8437
+		Unaligned bases: 2534
+
+CONTIG: contig_6706 (18691bp)
+Best alignment score: 8274.4 (LEN: 8955, IDY: 92.40), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			The best set is below. Score: 10442.4, number of alignments: 3, unaligned bases: 7455
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 11236 out of 18691 non-N bases (60.11%))
+			Real Alignment 1: 124009 132966 | 12270 3316 | 8958 8955 | 92.4 | Trichococcus_pasteurii_NZ_UETS01000006.1 contig_6706
+			  Gap between these two alignments (local misassembly). Inconsistency = -110
+			Real Alignment 2: 123690 123815 | 12699 12574 | 126 126 | 98.41 | Trichococcus_pasteurii_NZ_UETS01000006.1 contig_6706
+			  Gap between these two alignments (local misassembly). Inconsistency = 149
+			Real Alignment 3: 119522 121675 | 16719 14565 | 2154 2155 | 94.85 | Trichococcus_pasteurii_NZ_UETS01000006.1 contig_6706
+		Unaligned bases: 7455
+
+CONTIG: contig_5374 (12446bp)
+Best alignment score: 6414.9 (LEN: 6828, IDY: 93.95), Total number of alignments: 3
+			Looking for the best set of alignments (out of 3 total alignments)
+			The best set is below. Score: 9595.4, number of alignments: 3, unaligned bases: 1924
+		This contig is misassembled.
+		This contig is partially unaligned. (Aligned 10522 out of 12446 non-N bases (84.54%))
+			Real Alignment 1: 218384 220267 | 1888 4 | 1884 1885 | 92.54 | Trichococcus_pasteurii_NZ_UETS01000009.1 contig_5374
+			  Gap between these two alignments (local misassembly). Inconsistency = -21
+			Real Alignment 2: 211116 218031 | 9089 2262 | 6916 6828 | 93.95 | Trichococcus_pasteurii_NZ_UETS01000009.1 contig_5374
+			  Extensive misassembly (relocation, inconsistency = 1668) between these two alignments
+			Real Alignment 3: 206081 207900 | 12445 10637 | 1820 1809 | 93.21 | Trichococcus_pasteurii_NZ_UETS01000009.1 contig_5374
+		Unaligned bases: 1924
+
+Analyzing coverage...
+Writing SNPs into /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/runs_per_reference/Trichococcus_pasteurii/contigs_reports/minimap_output/assembly.used_snps
+
+Analysis is finished!
+Founded SNPs were written into /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/runs_per_reference/Trichococcus_pasteurii/contigs_reports/minimap_output/assembly.used_snps
+
+Results:
+	Local Misassemblies: 31
+	Misassemblies: 19
+		Relocations: 12
+		Translocations: 7
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 10
+	Misassembled Contig Bases: 447948
+	Misassemblies Inter-Contig Overlap ("Extra" Aligned Bases): 0
+Unaligned Contigs: 5 + 50 part
+Half Unaligned Contigs with Misassemblies: 23
+Unaligned Bases in Fully and Partially Unaligned Contigs: 24827573
+
+Ambiguously Mapped Contigs: 13
+Total Bases in Ambiguously Mapped Contigs: 2741071
+"Extra" Aligned Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used (there is no "extra" aligned bases).
+
+	Covered Bases in Reference: 555604
+	Raw Aligned Bases in Assembly: 573540
+	Total Aligned Bases in Assembly (with "Extras"): 573540
+
+	SNPs: 41722
+	Insertions: 5220
+	Deletions: 4798
+

@@ -1,0 +1,102 @@
+/home/felipe.peres/.conda/envs/metagenomics/bin/quast.py --threads 10 --min-identity 90.0 --combined-ref --colors #E31A1C --ls solid --ambiguity-usage all Hjor/assembly.fasta -R /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_corrected_input/combined_reference.fasta -o /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference --labels assembly
+
+Started: 2024-03-02 12:06:46
+
+Logging to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/quast.log
+NOTICE: Output directory already exists and looks like a QUAST output dir. Existing results can be reused (e.g. previously generated alignments)!
+
+CWD: /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly
+Main parameters: 
+  MODE: meta, threads: 10, min contig length: 500, min alignment length: 65, min alignment IDY: 90.0, \
+  ambiguity: all, min local misassembly length: 200, min extensive misassembly length: 1000
+
+Reference:
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_corrected_input/combined_reference.fasta ==> combined_reference
+
+Contigs:
+  Pre-processing...
+  Hjor/assembly.fasta ==> assembly
+
+2024-03-02 12:07:14
+Running Basic statistics processor...
+  Reference genome:
+    combined_reference.fasta, length = 15710962, num fragments = 24, GC % = 58.33
+  Contig files: 
+    assembly
+  Calculating N50 and L50...
+    assembly, N50 = 195279, L50 = 470, auN = 522529.6, Total length = 480680666, GC % = 57.03, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/basic_stats/GC_content_plot.pdf
+  Drawing assembly GC content plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/basic_stats/assembly_GC_content_plot.pdf
+Done.
+
+2024-03-02 12:07:42
+Running Contig analyzer...
+WARNING: Version of installed minimap2 differs from its version in the QUAST package (2.24). Please make sure that you use an actual version of software.
+  assembly
+  Logging to files /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/contigs_reports/contigs_report_assembly.stdout and contigs_report_assembly.stderr...
+  Aligning contigs to the reference
+WARNING: Version of installed minimap2 differs from its version in the QUAST package (2.24). Please make sure that you use an actual version of software.
+  /home/felipe.peres/.conda/envs/metagenomics/bin/minimap2 -c -x asm10 -B5 -O4,16 \
+  --no-long-join -r 200 -N 100 -s 65 -z 200 --mask-level 1 --min-occ 200 -g 2500 --score-N \
+  2 --cs -t 10 Hjor_metaquast/quast_corrected_input/combined_reference.fasta Hjor_metaquast/quast_corrected_input/assembly.fasta__2 \
+  > Hjor_metaquast/combined_reference/contigs_reports/minimap_output/assembly.coords_tmp \
+  2>> Hjor_metaquast/combined_reference/contigs_reports/contigs_report_assembly.stderr
+  Alignments: Hjor_metaquast/combined_reference/contigs_reports/alignments_assembly.tsv
+  Analysis is finished.
+
+  Information about interspecies translocations by references for assembly is saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/contigs_reports/interspecies_translocations_by_refs_assembly.info
+  Drawing Intergenomic misassemblies (found and supposed) metaQUAST summary plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/contigs_reports/intergenomic_misassemblies.pdf
+  Creating total report...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2024-03-02 12:08:45
+Running NA-NGA calculation...
+  assembly, Largest alignment = 164422, NA50 = None, LA50 = None
+  Drawing cumulative plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/aligned_stats/NAx_plot.pdf
+Done.
+
+2024-03-02 12:08:51
+Running Genome analyzer...
+  NOTICE: No file with genomic features were provided. Use the --features option if you want to specify it.
+
+  NOTICE: No file with operons were provided. Use the -O option if you want to specify it.
+  assembly
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2024-03-02 12:09:01
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating PDF with all tables and plots...
+  2 of 2: Creating Icarus viewers...
+Done
+
+2024-03-02 12:09:07
+RESULTS:
+  Text versions of total report are saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/report.html
+  PDF version (tables and plots) is saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/report.pdf
+  Icarus (contig browser) is saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/icarus.html
