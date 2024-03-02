@@ -3,7 +3,7 @@
 #$ -q all.q
 #$ -V
 #$ -cwd
-#$ -pe smp 10
+#$ -pe smp 5
 
 module load miniconda3
 conda activate metagenomics
