@@ -1,0 +1,491 @@
+/home/felipe.peres/.conda/envs/metagenomics/bin/metaquast.py -o Hjor_metaquast --threads 10 Hjor/assembly.fasta
+
+Version: 5.2.0
+
+System information:
+  OS: Linux-3.10.0-957.1.3.el7.x86_64-x86_64-with-glibc2.10 (linux_64)
+  Python version: 3.8.18
+  CPUs number: 56
+
+Started: 2024-03-02 11:38:59
+
+Logging to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/metaquast.log
+
+Contigs:
+  Pre-processing...
+  Hjor/assembly.fasta ==> assembly
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2024-03-02 11:39:17
+Running BlastN..
+  processing assembly
+  BLAST results for assembly are saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/blast.res_assembly...
+
+
+2024-03-02 11:50:06
+Trying to download found references from NCBI. Totally 50 organisms to try.
+  wastewater_metagenome                            | successfully downloaded (total 1, 49 more to go)
+  unidentified_bacterium_sp._sbr-gs28              | not found in the NCBI database
+  unidentified_bacterium_sp._sbr-gs28 was not found in NCBI database, trying to download the next best match
+  permafrost_metagenome                            | successfully downloaded (total 2, 48 more to go)
+  soil_bacterium_WF55                              | not found in the NCBI database
+mine drainage metagenome has too fragmented reference genome! It will not be downloaded.
+  mine_drainage_metagenome                         | not found in the NCBI database
+  mine_drainage_metagenome was not found in NCBI database, trying to download the next best match
+  denitrifying_bacterium_72Chol                    | not found in the NCBI database
+  metal-contaminated_soil_clone_K20-27             | not found in the NCBI database
+  metal-contaminated_soil_clone_K20-27 was not found in NCBI database, trying to download the next best match
+  Candidatus_Saccharibacteria_bacterium_YM_S32_TM7_50_20 | successfully downloaded (total 3, 45 more to go)
+  marine_metagenome                                | successfully downloaded (total 4, 44 more to go)
+  hydrothermal_vent_metagenome                     | successfully downloaded (total 5, 43 more to go)
+groundwater metagenome has too fragmented reference genome! It will not be downloaded.
+  groundwater_metagenome                           | not found in the NCBI database
+  groundwater_metagenome was not found in NCBI database, trying to download the next best match
+Omnitrophica WOR 2 bacterium RIFOXYB2 FULL 45 11 has too fragmented reference genome! It will not be downloaded.
+  Omnitrophica_WOR_2_bacterium_RIFOXYB2_FULL_45_11 | not found in the NCBI database
+  Omnitrophica_WOR_2_bacterium_RIFOXYB2_FULL_45_11 was not found in NCBI database, trying to download the next best match
+  mixed_culture_isolate_koll11                     | not found in the NCBI database
+  freshwater_sediment_metagenome                   | successfully downloaded (total 6, 41 more to go)
+  candidate_division_TM7_bacterium_LY2             | not found in the NCBI database
+  candidate_division_TM7_bacterium_LY2 was not found in NCBI database, trying to download the next best match
+  Candidatus_Saccharibacteria_bacterium_YM_S32_TM7_50_20 | was downloaded previously (total 7, 40 more to go)
+  beta_proteobacterium_AAP65                       | successfully downloaded (total 8, 39 more to go)
+  bacterium_enrichment_culture_clone_SRAO_34       | not found in the NCBI database
+  bacterium_enrichment_culture_clone_SRAO_34 was not found in NCBI database, trying to download the next best match
+  Bacteroidetes_bacterium_OLB8                     | successfully downloaded (total 9, 38 more to go)
+  bacterium_WWH38                                  | not found in the NCBI database
+  bacterium_TG160                                  | not found in the NCBI database
+  bacterium_TG160 was not found in NCBI database, trying to download the next best match
+  Betaproteobacteria_bacterium_GR16-43             | successfully downloaded (total 10, 36 more to go)
+  bacterium_SIT5                                   | successfully downloaded (total 11, 35 more to go)
+  bacterium_LWQ8                                   | not found in the NCBI database
+  bacterium_LWQ8 was not found in NCBI database, trying to download the next best match
+  Candidatus_Saccharibacteria_bacterium_YM_S32_TM7_50_20 | was downloaded previously (total 12, 34 more to go)
+  Trichococcus_pasteurii                           | successfully downloaded (total 13, 33 more to go)
+Tetrasphaera sp has too fragmented reference genome! It will not be downloaded.
+  Tetrasphaera_sp                                  | not found in the NCBI database
+  Tetrasphaera_sp was not found in NCBI database, trying to download the next best match
+  Knoellia_sp._Soil729                             | successfully downloaded (total 14, 32 more to go)
+  Tetrasphaera_elongata_Lp2                        | successfully downloaded (total 15, 31 more to go)
+  Tetrasphaera_australiensis                       | successfully downloaded (total 16, 30 more to go)
+  Tetraselmis_sp._GSL018                           | not found in the NCBI database
+  Tetraselmis_sp._GSL018 was not found in NCBI database, trying to download the next best match
+  Haliscomenobacter_hydrossis                      | successfully downloaded (total 17, 29 more to go)
+  Tessaracoccus_aquimaris                          | successfully downloaded (total 18, 28 more to go)
+  TM7_phylum_sp._canine_oral_taxon_308             | not found in the NCBI database
+  TM7_phylum_sp._canine_oral_taxon_308 was not found in NCBI database, trying to download the next best match
+  Candidatus_Saccharibacteria_oral_taxon_TM7x      | successfully downloaded (total 19, 27 more to go)
+  TM7_bacterium_human_oral_taxon_HOT-869           | not found in the NCBI database
+  TM7_bacterium_human_oral_taxon_HOT-869 was not found in NCBI database, trying to download the next best match
+  TM7_phylum_sp._oral_clone_HD027                  | not found in the NCBI database
+  TM7_phylum_sp._oral_clone_HD027 was not found in NCBI database, trying to download the next best match
+  Candidatus_Saccharibacteria_oral_taxon_TM7x      | was downloaded previously (total 20, 26 more to go)
+  Sulfuritalea_hydrogenivorans_sk43H               | successfully downloaded (total 21, 25 more to go)
+  Streptococcus_pneumoniae                         | successfully downloaded (total 22, 24 more to go)
+  Sterolibacterium_denitrificans                   | successfully downloaded (total 23, 23 more to go)
+  Steroidobacter_sp._WWH78                         | not found in the NCBI database
+  Steroidobacter_sp._WWH78 was not found in NCBI database, trying to download the next best match
+  Pseudomonas_sp._VT1B                             | not found in the NCBI database
+  Pseudomonas_sp._VT1B was not found in NCBI database, trying to download the next best match
+  Steroidobacter_denitrificans                     | successfully downloaded (total 24, 22 more to go)
+  Steroidobacter_sp._JC2953                        | not found in the NCBI database
+  Steroidobacter_sp._JC2953 was not found in NCBI database, trying to download the next best match
+  Steroidobacter_sp                                | successfully downloaded (total 25, 21 more to go)
+  Sporichthya_polymorpha_DSM_43042                 | successfully downloaded (total 26, 20 more to go)
+  Simplicispira_suum                               | successfully downloaded (total 27, 19 more to go)
+  Serratia_marcescens                              | successfully downloaded (total 28, 18 more to go)
+  Robbea_sp._associated_bacterium_252_II_14        | not found in the NCBI database
+  Robbea_sp._associated_bacterium_252_II_14 was not found in NCBI database, trying to download the next best match
+Lamprocystis purpurea DSM 4197 has too fragmented reference genome! It will not be downloaded.
+  Lamprocystis_purpurea_DSM_4197                   | not found in the NCBI database
+  Lamprocystis_purpurea_DSM_4197 was not found in NCBI database, trying to download the next best match
+  Thiocapsa_marina_5811                            | successfully downloaded (total 29, 17 more to go)
+  Rhodoferax_saidenbachensis                       | successfully downloaded (total 30, 16 more to go)
+  Rhodoferax_ferrireducens_T118                    | successfully downloaded (total 31, 15 more to go)
+  Raoultella_ornithinolytica                       | successfully downloaded (total 32, 14 more to go)
+  Pseudorhodoplanes_sinuspersici                   | successfully downloaded (total 33, 13 more to go)
+  Propioniciclava_tarda                            | successfully downloaded (total 34, 12 more to go)
+  Portibacter_lacus                                | successfully downloaded (total 35, 11 more to go)
+  Polaromonas_sp._C04                              | successfully downloaded (total 36, 10 more to go)
+  Plasticicumulans_acidivorans                     | successfully downloaded (total 37, 9 more to go)
+  Phycicoccus_duodecadis                           | successfully downloaded (total 38, 8 more to go)
+  Paraburkholderia_terrae                          | successfully downloaded (total 39, 7 more to go)
+  Paraburkholderia_hospita                         | successfully downloaded (total 40, 6 more to go)
+  Pandoraea_thiooxydans                            | successfully downloaded (total 41, 5 more to go)
+  Omnitrophica_WOR_2_bacterium_GWF2_38_59          | successfully downloaded (total 42, 4 more to go)
+  Olavius_ilvae_associated_proteobacterium_Delta_8 | not found in the NCBI database
+  Olavius_ilvae_associated_proteobacterium_Delta_8 was not found in NCBI database, trying to download the next best match
+  Inanidrilus_exumae_associated_clone_Delta_8      | not found in the NCBI database
+  Inanidrilus_exumae_associated_clone_Delta_8 was not found in NCBI database, trying to download the next best match
+  Bdellovibrio_bacteriovorus_W                     | successfully downloaded (total 43, 3 more to go)
+  Mycobacterium_sphagni                            | successfully downloaded (total 44, 2 more to go)
+  Methylocystis_sp._SC2                            | successfully downloaded (total 45, 1 more to go)
+  Mesorhizobium_sp._Root552                        | successfully downloaded (total 46, 0 more to go)
+
+Downloaded reference(s):
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Bacteroidetes_bacterium_OLB8.fasta ==> Bacteroidetes_bacterium_OLB8
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Bdellovibrio_bacteriovorus_W.fasta ==> Bdellovibrio_bacteriovorus_W
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Betaproteobacteria_bacterium_GR16-43.fasta ==> Betaproteobacteria_bacterium_GR16-43
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Candidatus_Saccharibacteria_bacterium_YM_S32_TM7_50_20.fasta ==> Candidatus_Saccharibacteria_bacterium_YM_S32_TM7_50_20
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Candidatus_Saccharibacteria_oral_taxon_TM7x.fasta ==> Candidatus_Saccharibacteria_oral_taxon_TM7x
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Haliscomenobacter_hydrossis.fasta ==> Haliscomenobacter_hydrossis
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Knoellia_sp._Soil729.fasta ==> Knoellia_sp._Soil729
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Mesorhizobium_sp._Root552.fasta ==> Mesorhizobium_sp._Root552
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Methylocystis_sp._SC2.fasta ==> Methylocystis_sp._SC2
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Mycobacterium_sphagni.fasta ==> Mycobacterium_sphagni
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Omnitrophica_WOR_2_bacterium_GWF2_38_59.fasta ==> Omnitrophica_WOR_2_bacterium_GWF2_38_59
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Pandoraea_thiooxydans.fasta ==> Pandoraea_thiooxydans
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Paraburkholderia_hospita.fasta ==> Paraburkholderia_hospita
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Paraburkholderia_terrae.fasta ==> Paraburkholderia_terrae
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Phycicoccus_duodecadis.fasta ==> Phycicoccus_duodecadis
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Plasticicumulans_acidivorans.fasta ==> Plasticicumulans_acidivorans
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Polaromonas_sp._C04.fasta ==> Polaromonas_sp._C04
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Portibacter_lacus.fasta ==> Portibacter_lacus
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Propioniciclava_tarda.fasta ==> Propioniciclava_tarda
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Pseudorhodoplanes_sinuspersici.fasta ==> Pseudorhodoplanes_sinuspersici
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Raoultella_ornithinolytica.fasta ==> Raoultella_ornithinolytica
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Rhodoferax_ferrireducens_T118.fasta ==> Rhodoferax_ferrireducens_T118
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Rhodoferax_saidenbachensis.fasta ==> Rhodoferax_saidenbachensis
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Serratia_marcescens.fasta ==> Serratia_marcescens
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Simplicispira_suum.fasta ==> Simplicispira_suum
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Sporichthya_polymorpha_DSM_43042.fasta ==> Sporichthya_polymorpha_DSM_43042
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Steroidobacter_denitrificans.fasta ==> Steroidobacter_denitrificans
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Steroidobacter_sp.fasta ==> Steroidobacter_sp
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Sterolibacterium_denitrificans.fasta ==> Sterolibacterium_denitrificans
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Streptococcus_pneumoniae.fasta ==> Streptococcus_pneumoniae
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Sulfuritalea_hydrogenivorans_sk43H.fasta ==> Sulfuritalea_hydrogenivorans_sk43H
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Tessaracoccus_aquimaris.fasta ==> Tessaracoccus_aquimaris
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Tetrasphaera_australiensis.fasta ==> Tetrasphaera_australiensis
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Tetrasphaera_elongata_Lp2.fasta ==> Tetrasphaera_elongata_Lp2
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Thiocapsa_marina_5811.fasta ==> Thiocapsa_marina_5811
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Trichococcus_pasteurii.fasta ==> Trichococcus_pasteurii
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/bacterium_SIT5.fasta ==> bacterium_SIT5
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/beta_proteobacterium_AAP65.fasta ==> beta_proteobacterium_AAP65
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/freshwater_sediment_metagenome.fasta ==> freshwater_sediment_metagenome
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/hydrothermal_vent_metagenome.fasta ==> hydrothermal_vent_metagenome
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/marine_metagenome.fasta ==> marine_metagenome
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/permafrost_metagenome.fasta ==> permafrost_metagenome
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/wastewater_metagenome.fasta ==> wastewater_metagenome
+  All references were combined in combined_reference.fasta
+
+Starting quast.py for the combined reference...
+/home/felipe.peres/.conda/envs/metagenomics/bin/quast.py --threads 10 --min-identity 90.0 --combined-ref --colors #E31A1C --ls solid --ambiguity-usage all Hjor/assembly.fasta -R /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_corrected_input/combined_reference.fasta -o /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference --labels assembly
+
+Started: 2024-03-02 12:00:17
+
+Logging to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/quast.log
+
+CWD: /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly
+Main parameters: 
+  MODE: meta, threads: 10, min contig length: 500, min alignment length: 65, min alignment IDY: 90.0, \
+  ambiguity: all, min local misassembly length: 200, min extensive misassembly length: 1000
+
+Reference:
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_corrected_input/combined_reference.fasta ==> combined_reference
+
+Contigs:
+  Pre-processing...
+  Hjor/assembly.fasta ==> assembly
+
+2024-03-02 12:00:46
+Running Basic statistics processor...
+  Reference genome:
+    combined_reference.fasta, length = 191237967, num fragments = 701, GC % = 59.84
+WARNING:   Reference genome is fragmented. You may consider rerunning QUAST using --fragmented option. QUAST will try to detect misassemblies caused by the fragmentation and mark them fake (will be excluded from # misassemblies).
+  Contig files: 
+    assembly
+  Calculating N50 and L50...
+    assembly, N50 = 195279, L50 = 470, auN = 522529.6, Total length = 480680666, GC % = 57.03, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/basic_stats/GC_content_plot.pdf
+  Drawing assembly GC content plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/basic_stats/assembly_GC_content_plot.pdf
+Done.
+
+2024-03-02 12:01:32
+Running Contig analyzer...
+WARNING: Version of installed minimap2 differs from its version in the QUAST package (2.24). Please make sure that you use an actual version of software.
+  assembly
+  Logging to files /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/contigs_reports/contigs_report_assembly.stdout and contigs_report_assembly.stderr...
+  Aligning contigs to the reference
+WARNING: Version of installed minimap2 differs from its version in the QUAST package (2.24). Please make sure that you use an actual version of software.
+  Analysis is finished.
+  Information about interspecies translocations by references for assembly is saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/contigs_reports/interspecies_translocations_by_refs_assembly.info
+  Drawing Intergenomic misassemblies (found and supposed) metaQUAST summary plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/contigs_reports/intergenomic_misassemblies.pdf
+  Creating total report...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2024-03-02 12:04:47
+Running NA-NGA calculation...
+  assembly, Largest alignment = 164422, NA50 = None, LA50 = None
+  Drawing cumulative plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/aligned_stats/NAx_plot.pdf
+Done.
+
+2024-03-02 12:04:56
+Running Genome analyzer...
+  NOTICE: No file with genomic features were provided. Use the --features option if you want to specify it.
+
+  NOTICE: No file with operons were provided. Use the -O option if you want to specify it.
+  assembly
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2024-03-02 12:05:59
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating PDF with all tables and plots...
+  2 of 2: Creating Icarus viewers...
+Done
+
+2024-03-02 12:06:16
+RESULTS:
+  Text versions of total report are saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/report.html
+  PDF version (tables and plots) is saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/report.pdf
+  Icarus (contig browser) is saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/icarus.html
+
+Excluding downloaded references with low genome fraction from further analysis..
+
+Filtered reference(s):
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Raoultella_ornithinolytica.fasta ==> Raoultella_ornithinolytica
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Sulfuritalea_hydrogenivorans_sk43H.fasta ==> Sulfuritalea_hydrogenivorans_sk43H
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Tetrasphaera_elongata_Lp2.fasta ==> Tetrasphaera_elongata_Lp2
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_downloaded_references/Trichococcus_pasteurii.fasta ==> Trichococcus_pasteurii
+  All references were combined in combined_reference.fasta
+  Pre-processing...
+  Hjor/assembly.fasta ==> assembly
+
+Starting quast.py for the corrected combined reference...
+/home/felipe.peres/.conda/envs/metagenomics/bin/quast.py --threads 10 --min-identity 90.0 --combined-ref --colors #E31A1C --ls solid --ambiguity-usage all Hjor/assembly.fasta -R /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_corrected_input/combined_reference.fasta -o /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference --labels assembly
+
+Started: 2024-03-02 12:06:46
+
+Logging to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/quast.log
+NOTICE: Output directory already exists and looks like a QUAST output dir. Existing results can be reused (e.g. previously generated alignments)!
+
+CWD: /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly
+Main parameters: 
+  MODE: meta, threads: 10, min contig length: 500, min alignment length: 65, min alignment IDY: 90.0, \
+  ambiguity: all, min local misassembly length: 200, min extensive misassembly length: 1000
+
+Reference:
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_corrected_input/combined_reference.fasta ==> combined_reference
+
+Contigs:
+  Pre-processing...
+  Hjor/assembly.fasta ==> assembly
+
+2024-03-02 12:07:14
+Running Basic statistics processor...
+  Reference genome:
+    combined_reference.fasta, length = 15710962, num fragments = 24, GC % = 58.33
+  Contig files: 
+    assembly
+  Calculating N50 and L50...
+    assembly, N50 = 195279, L50 = 470, auN = 522529.6, Total length = 480680666, GC % = 57.03, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/basic_stats/GC_content_plot.pdf
+  Drawing assembly GC content plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/basic_stats/assembly_GC_content_plot.pdf
+Done.
+
+2024-03-02 12:07:42
+Running Contig analyzer...
+WARNING: Version of installed minimap2 differs from its version in the QUAST package (2.24). Please make sure that you use an actual version of software.
+  assembly
+  Logging to files /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/contigs_reports/contigs_report_assembly.stdout and contigs_report_assembly.stderr...
+  Aligning contigs to the reference
+WARNING: Version of installed minimap2 differs from its version in the QUAST package (2.24). Please make sure that you use an actual version of software.
+  Analysis is finished.
+  Information about interspecies translocations by references for assembly is saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/contigs_reports/interspecies_translocations_by_refs_assembly.info
+  Drawing Intergenomic misassemblies (found and supposed) metaQUAST summary plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/contigs_reports/intergenomic_misassemblies.pdf
+  Creating total report...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2024-03-02 12:08:45
+Running NA-NGA calculation...
+  assembly, Largest alignment = 164422, NA50 = None, LA50 = None
+  Drawing cumulative plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/aligned_stats/NAx_plot.pdf
+Done.
+
+2024-03-02 12:08:51
+Running Genome analyzer...
+  NOTICE: No file with genomic features were provided. Use the --features option if you want to specify it.
+
+  NOTICE: No file with operons were provided. Use the -O option if you want to specify it.
+  assembly
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2024-03-02 12:09:01
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating PDF with all tables and plots...
+  2 of 2: Creating Icarus viewers...
+Done
+
+2024-03-02 12:09:07
+RESULTS:
+  Text versions of total report are saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/report.html
+  PDF version (tables and plots) is saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/report.pdf
+  Icarus (contig browser) is saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/combined_reference/icarus.html
+
+Partitioning contigs into bins aligned to each reference..
+  processing assembly
+
+Run QUAST on different references in parallel..
+
+Starting quast.py for the contigs aligned to Raoultella_ornithinolytica... (logging to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/runs_per_reference/Raoultella_ornithinolytica/quast.log)
+
+Starting quast.py for the contigs aligned to Sulfuritalea_hydrogenivorans_sk43H... (logging to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/runs_per_reference/Sulfuritalea_hydrogenivorans_sk43H/quast.log)
+
+Starting quast.py for the contigs aligned to Tetrasphaera_elongata_Lp2... (logging to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/runs_per_reference/Tetrasphaera_elongata_Lp2/quast.log)
+
+Starting quast.py for the contigs aligned to Trichococcus_pasteurii... (logging to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/runs_per_reference/Trichococcus_pasteurii/quast.log)
+
+Starting quast.py for the contigs not aligned anywhere... (logging to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/not_aligned/quast.log)
+/home/felipe.peres/.conda/envs/metagenomics/bin/quast.py --threads 10 --min-identity 90.0 --colors #E31A1C --ls solid --no-check-meta --contig-thresholds 1000,5000,10000,25000,50000 -t 10 /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_corrected_input/assembly_not_aligned_anywhere.fasta -o /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/not_aligned --labels assembly
+
+Started: 2024-03-02 12:10:04
+
+Logging to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/not_aligned/quast.log
+
+CWD: /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly
+Main parameters: 
+  MODE: meta, threads: 10, min contig length: 500, min alignment length: 65, min alignment IDY: 90.0, \
+  ambiguity: one, min local misassembly length: 200, min extensive misassembly length: 1000
+
+Contigs:
+  Pre-processing...
+  /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/quast_corrected_input/assembly_not_aligned_anywhere.fasta ==> assembly
+
+2024-03-02 12:10:12
+Running Basic statistics processor...
+  Contig files: 
+    assembly
+  Calculating N50 and L50...
+    assembly, N50 = 88684, L50 = 668, auN = 218324.1, Total length = 297741966, GC % = 53.57, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/not_aligned/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/not_aligned/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/not_aligned/basic_stats/GC_content_plot.pdf
+  Drawing assembly GC content plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/not_aligned/basic_stats/assembly_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2024-03-02 12:10:28
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating PDF with all tables and plots...
+  2 of 2: Creating Icarus viewers...
+Done
+
+2024-03-02 12:10:32
+RESULTS:
+  Text versions of total report are saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/not_aligned/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/not_aligned/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/not_aligned/report.html
+  PDF version (tables and plots) is saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/not_aligned/report.pdf
+  Icarus (contig browser) is saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/not_aligned/icarus.html
+
+2024-03-02 12:10:32
+Summarizing results...
+  Drawing # contigs metaQUAST summary plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/summary/PDF/num_contigs.pdf
+  Drawing Largest contig metaQUAST summary plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/summary/PDF/Largest_contig.pdf
+  Drawing Total length metaQUAST summary plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/summary/PDF/Total_length.pdf
+  Drawing Largest alignment metaQUAST summary plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/summary/PDF/Largest_alignment.pdf
+  Drawing Total aligned length metaQUAST summary plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/summary/PDF/Total_aligned_length.pdf
+  Drawing Total length (>= 1000 bp) metaQUAST summary plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/summary/PDF/Total_length_(ge_1000_bp).pdf
+  Drawing Total length (>= 10000 bp) metaQUAST summary plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/summary/PDF/Total_length_(ge_10000_bp).pdf
+  Drawing Total length (>= 50000 bp) metaQUAST summary plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/summary/PDF/Total_length_(ge_50000_bp).pdf
+  Drawing # misassemblies metaQUAST summary plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/summary/PDF/num_misassemblies.pdf
+  Drawing metaQUAST summary misassemblies plot for assembly...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/summary/PDF/assembly_misassemblies.pdf
+  Drawing Misassembled contigs length metaQUAST summary plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/summary/PDF/Misassembled_contigs_length.pdf
+  Drawing # mismatches per 100 kbp metaQUAST summary plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/summary/PDF/num_mismatches_per_100_kbp.pdf
+  Drawing # indels per 100 kbp metaQUAST summary plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/summary/PDF/num_indels_per_100_kbp.pdf
+  Drawing # N's per 100 kbp metaQUAST summary plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/summary/PDF/num_Ns_per_100_kbp.pdf
+  Drawing Genome fraction (%) metaQUAST summary plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/summary/PDF/Genome_fraction.pdf
+  Drawing Duplication ratio metaQUAST summary plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/summary/PDF/Duplication_ratio.pdf
+  Drawing NGA50 metaQUAST summary plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/summary/PDF/NGA50.pdf
+  Drawing LGA50 metaQUAST summary plot...
+    saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/summary/PDF/LGA50.pdf
+
+  Text versions of reports and plots for each metric (for all references and assemblies) are saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/summary/
+  Icarus (contig browser) is saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/icarus.html
+  Drawing interactive Krona plots...
+  Krona chart for assembly is saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/krona_charts/assembly_taxonomy_chart.html
+  Extended version of HTML-report (for all references and assemblies) is saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/report.html
+
+MetaQUAST finished.
+  Log is saved to /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/5_assembly/Hjor_metaquast/metaquast.log
+
+Finished: 2024-03-02 12:10:40
+Elapsed time: 0:31:40.751218
+Total NOTICEs: 10; WARNINGs: 13; non-fatal ERRORs: 0
+
+Thank you for using QUAST!
