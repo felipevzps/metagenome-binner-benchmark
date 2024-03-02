@@ -23,6 +23,5 @@ assembly=`ls -1 ../../5_assembly/Damh/assembly.fasta`
 /usr/bin/time -v merge_cutup_clustering.py Damh_concoct_output/clustering_gt1000.csv > Damh_concoct_output/clustering_merged.csv
 
 # Extract bins as individual FASTA
-mkdir bins
+mkdir Damh_bins
 /usr/bin/time -v extract_fasta_bins.py $assembly Damh_concoct_output/clustering_merged.csv --output_path Damh_bins
-
