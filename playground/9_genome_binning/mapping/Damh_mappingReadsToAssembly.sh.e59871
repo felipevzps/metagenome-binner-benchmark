@@ -1,0 +1,116 @@
+java -ea -Xms300m -cp /home/felipe.peres/.conda/envs/metagenomics/opt/bbmap-39.01-1/current/ jgi.ReformatReads in=../../3_adapter_removal/soft_filter/SRR11673983_1.trimmed.highquality.noadapter.fastq out=Damh_mapped_reads.fasta fastareadlen=600 trd
+Executing jgi.ReformatReads [in=../../3_adapter_removal/soft_filter/SRR11673983_1.trimmed.highquality.noadapter.fastq, out=Damh_mapped_reads.fasta, fastareadlen=600, trd]
+
+Input is being processed as unpaired
+Input:                  	3176237 reads          	30229086357 bases
+Output:                 	3176237 reads (100.00%) 	30229086357 bases (100.00%)
+
+Time:                         	2162.549 seconds.
+Reads Processed:       3176k 	1.47k reads/sec
+Bases Processed:      30229m 	13.98m bases/sec
+	Command being timed: "reformat.sh in=../../3_adapter_removal/soft_filter/SRR11673983_1.trimmed.highquality.noadapter.fastq out=Damh_mapped_reads.fasta fastareadlen=600 trd"
+	User time (seconds): 299.07
+	System time (seconds): 90.84
+	Percent of CPU this job got: 17%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 36:07.87
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 327540
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 1
+	Minor (reclaiming a frame) page faults: 4570044
+	Voluntary context switches: 314043
+	Involuntary context switches: 39542
+	Swaps: 0
+	File system inputs: 118298976
+	File system outputs: 60021576
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
+java -ea -Xmx196098m -Xms196098m -cp /home/felipe.peres/.conda/envs/metagenomics/opt/bbmap-39.01-1/current/ align2.BBMap build=1 overwrite=true fastareadlen=500 ref=../../5_assembly/Damh/assembly.fasta in=Damh_mapped_reads.fasta out=Damh_mapped.sam threads=5
+Executing align2.BBMap [build=1, overwrite=true, fastareadlen=500, ref=../../5_assembly/Damh/assembly.fasta, in=Damh_mapped_reads.fasta, out=Damh_mapped.sam, threads=5]
+Version 39.01
+
+Set threads to 5
+Retaining first best site only for ambiguous mappings.
+Writing reference.
+Executing dna.FastaToChromArrays2 [../../5_assembly/Damh/assembly.fasta, 1, writeinthread=false, genscaffoldinfo=true, retain, waitforwriting=false, gz=true, maxlen=536670912, writechroms=true, minscaf=1, midpad=300, startpad=8000, stoppad=8000, nodisk=false]
+
+Set genScaffoldInfo=true
+Writing chunk 1
+Set genome to 1
+
+Loaded Reference:	0.081 seconds.
+Loading index for chunk 1-1, build 1
+No index available; generating from reference genome: /Storage/data1/felipe.peres/metagenome-binner-benchmark/playground/9_genome_binning/mapping/ref/index/1/chr1_index_k13_c2_b1.block
+Indexing threads started for block 0-1
+Indexing threads finished for block 0-1
+Generated Index:	111.197 seconds.
+Finished Writing:	4.711 seconds.
+Analyzed Index:   	5.816 seconds.
+Started output stream:	4.976 seconds.
+Cleared Memory:    	0.355 seconds.
+Processing reads in single-ended mode.
+Started read stream.
+Started 5 mapping threads.
+Detecting finished threads: 0, 1, 2, 3, 4
+
+   ------------------   Results   ------------------   
+
+Genome:                	1
+Key Length:            	13
+Max Indel:             	16000
+Minimum Score Ratio:  	0.56
+Mapping Mode:         	normal
+Reads Used:           	61955364	(30228416814 bases)
+
+Mapping:          	90732.654 seconds.
+Reads/sec:       	682.83
+kBases/sec:      	333.16
+
+
+Read 1 data:      	pct reads	num reads 	pct bases	   num bases
+
+mapped:          	 24.4354% 	 15139040 	 24.3981% 	  7375152722
+unambiguous:     	 22.7217% 	 14077321 	 22.8385% 	  6903722894
+ambiguous:       	  1.7137% 	  1061719 	  1.5596% 	   471429828
+low-Q discards:  	  0.0000% 	        0 	  0.0000% 	           0
+
+perfect best site:	  0.0331% 	    20478 	  0.0171% 	     5175670
+semiperfect site:	  0.0344% 	    21326 	  0.0179% 	     5408700
+
+Match Rate:      	      NA 	       NA 	 85.9483% 	  6758006727
+Error Rate:      	 82.8403% 	 15117821 	 14.0393% 	  1103893938
+Sub Rate:        	 82.8076% 	 15111854 	  5.8345% 	   458759973
+Del Rate:        	 82.1644% 	 14994482 	  6.2028% 	   487718141
+Ins Rate:        	 81.7217% 	 14913692 	  2.0020% 	   157415824
+N Rate:          	  0.1320% 	    24087 	  0.0123% 	      970198
+
+Total time:     	91036.548 seconds.
+	Command being timed: "bbmap.sh ref=../../5_assembly/Damh/assembly.fasta in=Damh_mapped_reads.fasta out=Damh_mapped.sam threads=5"
+	User time (seconds): 444017.61
+	System time (seconds): 7365.49
+	Percent of CPU this job got: 495%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 25:17:55
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 126458988
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 60
+	Minor (reclaiming a frame) page faults: 2832086780
+	Voluntary context switches: 4663145
+	Involuntary context switches: 2832834
+	Swaps: 0
+	File system inputs: 61479464
+	File system outputs: 74400416
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
