@@ -1,5 +1,0 @@
-Assemblies                          assembly
-Raoultella_ornithinolytica          250     
-Sulfuritalea_hydrogenivorans_sk43H  2       
-Tetrasphaera_elongata_Lp2           231     
-Trichococcus_pasteurii              19      
